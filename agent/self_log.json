@@ -21,6 +21,25 @@
         "selecting",
         "substantive"
       ]
+    },
+    {
+      "date": "2026-04-29T07:32:51.184284",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "An Intelligent Fault Diagnosis Method for General Aviation Aircraft Based on Mul",
+        "PExA: Parallel Exploration Agent for Complex Text-to-SQL",
+        "The Power of Power Law: Asymmetry Enables Compositional Reasoning"
+      ],
+      "new_keywords": [
+        "프레임워크로",
+        "프레임워크는",
+        "текст에서",
+        "진단하고报告합니다",
+        "정의했습니다",
+        "트레이드오프를",
+        "트레이드오프에"
+      ]
     }
   ],
   "keywords": {
@@ -39,21 +58,28 @@
       "AI art"
     ],
     "self_determined": [
-      "substantive",
-      "significantly",
-      "latency",
-      "therefore",
-      "benefits",
-      "selecting",
-      "queries",
+      "프레임워크로",
+      "프레임워크는",
+      "текст에서",
       "appears",
+      "biased",
       "mitigated",
-      "biased"
+      "진단하고报告합니다",
+      "therefore",
+      "정의했습니다",
+      "트레이드오프를",
+      "queries",
+      "selecting",
+      "significantly",
+      "benefits",
+      "latency",
+      "트레이드오프에",
+      "substantive"
     ]
   },
   "topic_scores": {
-    "An Intelligent Fault Diagnosis Method for General Aviation Aircraft Based on Mul": 691,
-    "PExA: Parallel Exploration Agent for Complex Text-to-SQL": 637,
-    "The Power of Power Law: Asymmetry Enables Compositional Reasoning": 796
+    "An Intelligent Fault Diagnosis Method for General Aviation Aircraft Based on Mul": 344,
+    "PExA: Parallel Exploration Agent for Complex Text-to-SQL": 285,
+    "The Power of Power Law: Asymmetry Enables Compositional Reasoning": 290
   }
 }
