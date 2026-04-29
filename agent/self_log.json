@@ -1,9 +1,59 @@
 {
-  "runs": [],
+  "runs": [
+    {
+      "date": "2026-04-29T06:48:46.448363",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "An Intelligent Fault Diagnosis Method for General Aviation Aircraft Based on Mul",
+        "PExA: Parallel Exploration Agent for Complex Text-to-SQL",
+        "The Power of Power Law: Asymmetry Enables Compositional Reasoning"
+      ],
+      "new_keywords": [
+        "significantly",
+        "latency",
+        "therefore",
+        "benefits",
+        "queries",
+        "appears",
+        "mitigated",
+        "biased",
+        "selecting",
+        "substantive"
+      ]
+    }
+  ],
   "keywords": {
-    "ai_tech": ["artificial intelligence", "LLM", "generative AI", "transformer", "agent"],
-    "creative": ["character design", "digital art", "illustration", "concept art", "AI art"],
-    "self_determined": []
+    "ai_tech": [
+      "artificial intelligence",
+      "LLM",
+      "generative AI",
+      "transformer",
+      "agent"
+    ],
+    "creative": [
+      "character design",
+      "digital art",
+      "illustration",
+      "concept art",
+      "AI art"
+    ],
+    "self_determined": [
+      "substantive",
+      "significantly",
+      "latency",
+      "therefore",
+      "benefits",
+      "selecting",
+      "queries",
+      "appears",
+      "mitigated",
+      "biased"
+    ]
   },
-  "topic_scores": {}
+  "topic_scores": {
+    "An Intelligent Fault Diagnosis Method for General Aviation Aircraft Based on Mul": 691,
+    "PExA: Parallel Exploration Agent for Complex Text-to-SQL": 637,
+    "The Power of Power Law: Asymmetry Enables Compositional Reasoning": 796
+  }
 }
