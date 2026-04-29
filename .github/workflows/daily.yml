@@ -1,0 +1,46 @@
+name: Daily Agent Run
+
+on:
+  schedule:
+    - cron: '0 23 * * *'
+  workflow_dispatch:
+    inputs:
+      topic:
+        description: 'Custom topic (optional — leave blank for auto)'
+        required: false
+        default: ''
+
+jobs:
+  run-agent:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run agent
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          CUSTOM_TOPIC: ${{ github.event.inputs.topic }}
+        run: python agent/main.py --mode daily
+
+      - name: Commit reports and dashboard
+        run: |
+          git config user.name "Mikey Agent"
+          git config user.email "eric.byun7@gmail.com"
+          git add reports/ docs/ agent/self_log.json
+          git diff --staged --quiet || git commit -m "Daily report $(date -u +%Y-%m-%d)"
+          git push
