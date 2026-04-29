@@ -21,17 +21,18 @@ def send_report_email(report_path: Path, mode: str) -> None:
 
     summary_lines = []
     for line in lines:
-        if line.startswith("**Synthesis:**"):
-            summary_lines.append(line.replace("**Synthesis:**", "").strip())
+        if line.startswith("**종합 결론:**"):
+            summary_lines.append(line.replace("**종합 결론:**", "").strip())
         if len(summary_lines) >= 3:
             break
 
-    subject = f"[Mikey Agent] {'Daily' if mode == 'daily' else 'Weekly'} Report — {report_path.stem}"
+    mode_label = "일일" if mode == "daily" else "주간"
+    subject = f"[Mikey Agent] {mode_label} 리포트 — {report_path.stem}"
     body = "\n\n".join([
-        f"Mikey Agent {'Daily' if mode == 'daily' else 'Weekly'} Report",
-        "--- Top Insights ---",
-        "\n".join(f"{i+1}. {s}" for i, s in enumerate(summary_lines)) or "No synthesis available.",
-        f"Full report: {report_path.name}",
+        f"Mikey Agent {mode_label} 리포트",
+        "--- 오늘의 핵심 인사이트 ---",
+        "\n".join(f"{i+1}. {s}" for i, s in enumerate(summary_lines)) or "종합 결론이 없습니다.",
+        f"전체 리포트: {report_path.name}",
     ])
 
     msg = MIMEMultipart()

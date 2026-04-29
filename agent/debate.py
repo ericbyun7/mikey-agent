@@ -45,19 +45,19 @@ def run_debate(title: str, summary: str) -> dict:
     topic = f"{title}\n\n{summary}"
 
     insight = _groq_chat(
-        f"You are an expert analyst. Given this article, present the single most important insight in 2-3 sentences.\n\nArticle: {topic}"
+        f"당신은 전문 분석가입니다. 다음 기사에서 가장 중요한 핵심 인사이트를 2~3문장으로 한국어로 설명해주세요.\n\n기사: {topic}"
     )
 
     counterpoint = _gemini_chat(
-        f"You are a critical thinker. Given this insight about an article, present a thoughtful counterpoint or alternative perspective in 2-3 sentences.\n\nInsight: {insight}\n\nOriginal article: {title}"
+        f"당신은 비판적 사고자입니다. 다음 인사이트에 대해 반론 또는 다른 시각을 2~3문장으로 한국어로 제시해주세요.\n\n인사이트: {insight}\n\n원문 제목: {title}"
     )
 
     rebuttal = _groq_chat(
-        f"You are a debater. Respond to this counterpoint with a concise rebuttal in 2-3 sentences.\n\nOriginal insight: {insight}\n\nCounterpoint: {counterpoint}"
+        f"당신은 토론자입니다. 다음 반론에 대해 간결한 재반박을 2~3문장으로 한국어로 작성해주세요.\n\n원래 인사이트: {insight}\n\n반론: {counterpoint}"
     )
 
     synthesis = _groq_chat(
-        f"Synthesize the following three perspectives into one clear, actionable conclusion in 3-4 sentences.\n\n1. Insight: {insight}\n2. Counterpoint: {counterpoint}\n3. Rebuttal: {rebuttal}"
+        f"다음 세 가지 관점을 종합하여 명확하고 실용적인 결론을 3~4문장으로 한국어로 작성해주세요.\n\n1. 인사이트: {insight}\n2. 반론: {counterpoint}\n3. 재반박: {rebuttal}"
     )
 
     return {
