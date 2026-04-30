@@ -40,6 +40,28 @@
         "트레이드오프를",
         "트레이드오프에"
       ]
+    },
+    {
+      "date": "2026-04-30T08:10:42.851779",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Operating-Layer Controls for Onchain Language-Model Agents Under Real Capital",
+        "Distill-Belief: Closed-Loop Inverse Source Localization and Characterization in ",
+        "Evaluating Strategic Reasoning in Forecasting Agents"
+      ],
+      "new_keywords": [
+        "localization",
+        "프레임워크인",
+        "분석했습니다",
+        "이러한課題를",
+        "objetivo에서의",
+        "terminal",
+        "생성했습니다",
+        "수행하였으며",
+        "거래를performed",
+        "source"
+      ]
     }
   ],
   "keywords": {
@@ -58,28 +80,34 @@
       "AI art"
     ],
     "self_determined": [
-      "프레임워크로",
+      "분석했습니다",
+      "objetivo에서의",
+      "생성했습니다",
+      "source",
       "프레임워크는",
-      "текст에서",
       "appears",
-      "biased",
-      "mitigated",
-      "진단하고报告합니다",
-      "therefore",
-      "정의했습니다",
-      "트레이드오프를",
       "queries",
-      "selecting",
-      "significantly",
       "benefits",
-      "latency",
+      "substantive",
       "트레이드오프에",
-      "substantive"
+      "biased",
+      "selecting",
+      "프레임워크로",
+      "정의했습니다",
+      "localization",
+      "트레이드오프를",
+      "latency",
+      "프레임워크인",
+      "therefore",
+      "이러한課題를"
     ]
   },
   "topic_scores": {
     "An Intelligent Fault Diagnosis Method for General Aviation Aircraft Based on Mul": 344,
     "PExA: Parallel Exploration Agent for Complex Text-to-SQL": 285,
-    "The Power of Power Law: Asymmetry Enables Compositional Reasoning": 290
+    "The Power of Power Law: Asymmetry Enables Compositional Reasoning": 290,
+    "Operating-Layer Controls for Onchain Language-Model Agents Under Real Capital": 339,
+    "Distill-Belief: Closed-Loop Inverse Source Localization and Characterization in ": 320,
+    "Evaluating Strategic Reasoning in Forecasting Agents": 305
   }
 }
