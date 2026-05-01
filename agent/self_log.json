@@ -62,6 +62,28 @@
         "거래를performed",
         "source"
       ]
+    },
+    {
+      "date": "2026-05-01T08:09:40.944205",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Compositional Meta-Learning for Mitigating Task Heterogeneity in Physics-Informe",
+        "Binary Spiking Neural Networks as Causal Models",
+        "When Your LLM Reaches End-of-Life: A Framework for Confident Model Migration in "
+      ],
+      "new_keywords": [
+        "마이그레이션",
+        "프레임워크를",
+        "마이그레이션하는",
+        "pinns를",
+        "networks",
+        "neural",
+        "pde家族에서",
+        "마이그레이션을",
+        "프레임워크는",
+        "pinns는"
+      ]
     }
   ],
   "keywords": {
@@ -80,26 +102,26 @@
       "AI art"
     ],
     "self_determined": [
-      "분석했습니다",
-      "objetivo에서의",
-      "생성했습니다",
-      "source",
-      "프레임워크는",
-      "appears",
-      "queries",
-      "benefits",
-      "substantive",
-      "트레이드오프에",
-      "biased",
-      "selecting",
-      "프레임워크로",
       "정의했습니다",
-      "localization",
-      "트레이드오프를",
+      "source",
       "latency",
+      "마이그레이션",
+      "분석했습니다",
+      "biased",
+      "substantive",
+      "프레임워크를",
+      "트레이드오프에",
+      "생성했습니다",
+      "마이그레이션하는",
+      "selecting",
+      "networks",
+      "pde家族에서",
       "프레임워크인",
+      "objetivo에서의",
+      "pinns는",
       "therefore",
-      "이러한課題를"
+      "appears",
+      "pinns를"
     ]
   },
   "topic_scores": {
@@ -108,6 +130,9 @@
     "The Power of Power Law: Asymmetry Enables Compositional Reasoning": 290,
     "Operating-Layer Controls for Onchain Language-Model Agents Under Real Capital": 339,
     "Distill-Belief: Closed-Loop Inverse Source Localization and Characterization in ": 320,
-    "Evaluating Strategic Reasoning in Forecasting Agents": 305
+    "Evaluating Strategic Reasoning in Forecasting Agents": 305,
+    "Compositional Meta-Learning for Mitigating Task Heterogeneity in Physics-Informe": 268,
+    "Binary Spiking Neural Networks as Causal Models": 281,
+    "When Your LLM Reaches End-of-Life: A Framework for Confident Model Migration in ": 285
   }
 }
