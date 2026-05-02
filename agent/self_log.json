@@ -84,6 +84,28 @@
         "프레임워크는",
         "pinns는"
       ]
+    },
+    {
+      "date": "2026-05-02T06:53:26.527979",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "CollectWise (YC F24) Is Hiring",
+        "Why does it take so long to release black fan versions?",
+        "Ask.com has closed"
+      ],
+      "new_keywords": [
+        "engineer를",
+        "collectwise의",
+        "empresa의",
+        "forward",
+        "인사이트에서",
+        "σημαν한",
+        "senior",
+        "collectwise는",
+        "deployed",
+        "폐쇄되었습니다"
+      ]
     }
   ],
   "keywords": {
@@ -102,26 +124,26 @@
       "AI art"
     ],
     "self_determined": [
-      "정의했습니다",
-      "source",
-      "latency",
-      "마이그레이션",
-      "분석했습니다",
-      "biased",
       "substantive",
-      "프레임워크를",
-      "트레이드오프에",
-      "생성했습니다",
-      "마이그레이션하는",
-      "selecting",
-      "networks",
-      "pde家族에서",
-      "프레임워크인",
+      "collectwise의",
+      "empresa의",
+      "인사이트에서",
+      "latency",
       "objetivo에서의",
-      "pinns는",
-      "therefore",
-      "appears",
-      "pinns를"
+      "pde家族에서",
+      "정의했습니다",
+      "pinns를",
+      "senior",
+      "networks",
+      "collectwise는",
+      "deployed",
+      "분석했습니다",
+      "마이그레이션",
+      "마이그레이션하는",
+      "engineer를",
+      "source",
+      "forward",
+      "프레임워크인"
     ]
   },
   "topic_scores": {
@@ -133,6 +155,9 @@
     "Evaluating Strategic Reasoning in Forecasting Agents": 305,
     "Compositional Meta-Learning for Mitigating Task Heterogeneity in Physics-Informe": 268,
     "Binary Spiking Neural Networks as Causal Models": 281,
-    "When Your LLM Reaches End-of-Life: A Framework for Confident Model Migration in ": 285
+    "When Your LLM Reaches End-of-Life: A Framework for Confident Model Migration in ": 285,
+    "CollectWise (YC F24) Is Hiring": 338,
+    "Why does it take so long to release black fan versions?": 248,
+    "Ask.com has closed": 167
   }
 }
