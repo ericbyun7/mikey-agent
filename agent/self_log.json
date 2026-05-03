@@ -106,6 +106,28 @@
         "deployed",
         "폐쇄되었습니다"
       ]
+    },
+    {
+      "date": "2026-05-03T07:56:36.171715",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
+        "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+        "Windows API is Successful Cross-Platform API (2024)"
+      ],
+      "new_keywords": [
+        "successful",
+        "психоз를",
+        "모델의卓越한",
+        "차지했습니다",
+        "프로젝트에서",
+        "specsmaxxing에",
+        "gemini를",
+        "챌린지에서의",
+        "claude",
+        "개발자들에게"
+      ]
     }
   ],
   "keywords": {
@@ -124,26 +146,26 @@
       "AI art"
     ],
     "self_determined": [
-      "substantive",
-      "collectwise의",
-      "empresa의",
-      "인사이트에서",
-      "latency",
-      "objetivo에서의",
-      "pde家族에서",
-      "정의했습니다",
-      "pinns를",
-      "senior",
-      "networks",
-      "collectwise는",
-      "deployed",
-      "분석했습니다",
       "마이그레이션",
-      "마이그레이션하는",
-      "engineer를",
+      "latency",
+      "психоз를",
       "source",
-      "forward",
-      "프레임워크인"
+      "모델의卓越한",
+      "프로젝트에서",
+      "specsmaxxing에",
+      "프레임워크인",
+      "챌린지에서의",
+      "empresa의",
+      "collectwise의",
+      "pde家族에서",
+      "pinns를",
+      "substantive",
+      "마이그레이션하는",
+      "objetivo에서의",
+      "engineer를",
+      "networks",
+      "인사이트에서",
+      "forward"
     ]
   },
   "topic_scores": {
@@ -158,6 +180,9 @@
     "When Your LLM Reaches End-of-Life: A Framework for Confident Model Migration in ": 285,
     "CollectWise (YC F24) Is Hiring": 338,
     "Why does it take so long to release black fan versions?": 248,
-    "Ask.com has closed": 167
+    "Ask.com has closed": 167,
+    "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML": 271,
+    "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge": 272,
+    "Windows API is Successful Cross-Platform API (2024)": 274
   }
 }
