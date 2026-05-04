@@ -128,6 +128,25 @@
         "claude",
         "개발자들에게"
       ]
+    },
+    {
+      "date": "2026-05-04T08:39:22.608337",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Stitch Together Lots of Little HTML Pages with Navigations for Interactions",
+        "Humanoid Robot Actuators",
+        "The text mode lie: why modern TUIs are a nightmare for accessibility"
+      ],
+      "new_keywords": [
+        "액추에이터는",
+        "네비게이션을",
+        "사용자들에게",
+        "디자이너에게",
+        "액추에이터의",
+        "필수적입니다",
+        "액추에이터가"
+      ]
     }
   ],
   "keywords": {
@@ -146,26 +165,26 @@
       "AI art"
     ],
     "self_determined": [
-      "마이그레이션",
       "latency",
-      "психоз를",
-      "source",
-      "모델의卓越한",
-      "프로젝트에서",
-      "specsmaxxing에",
-      "프레임워크인",
-      "챌린지에서의",
       "empresa의",
+      "source",
+      "네비게이션을",
+      "디자이너에게",
+      "액추에이터가",
       "collectwise의",
-      "pde家族에서",
-      "pinns를",
-      "substantive",
-      "마이그레이션하는",
-      "objetivo에서의",
+      "모델의卓越한",
       "engineer를",
-      "networks",
+      "마이그레이션",
+      "objetivo에서의",
+      "액추에이터는",
       "인사이트에서",
-      "forward"
+      "pinns를",
+      "프레임워크인",
+      "마이그레이션하는",
+      "forward",
+      "specsmaxxing에",
+      "networks",
+      "프로젝트에서"
     ]
   },
   "topic_scores": {
@@ -183,6 +202,9 @@
     "Ask.com has closed": 167,
     "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML": 271,
     "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge": 272,
-    "Windows API is Successful Cross-Platform API (2024)": 274
+    "Windows API is Successful Cross-Platform API (2024)": 274,
+    "Stitch Together Lots of Little HTML Pages with Navigations for Interactions": 296,
+    "Humanoid Robot Actuators": 252,
+    "The text mode lie: why modern TUIs are a nightmare for accessibility": 252
   }
 }
