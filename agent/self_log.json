@@ -147,6 +147,28 @@
         "필수적입니다",
         "액추에이터가"
       ]
+    },
+    {
+      "date": "2026-05-05T07:09:30.432364",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "TADI: Tool-Augmented Drilling Intelligence via Agentic LLM Orchestration over He",
+        "AgentReputation: A Decentralized Agentic AI Reputation Framework",
+        "Minimal, Local, Causal Explanations for Jailbreak Success in Large Language Mode"
+      ],
+      "new_keywords": [
+        "please",
+        "tokens",
+        "futuro",
+        "service",
+        "upgrade",
+        "제일브레이크",
+        "organization",
+        "데이터베이스를",
+        "프레임워크가",
+        "시스템입니다"
+      ]
     }
   ],
   "keywords": {
@@ -165,26 +187,26 @@
       "AI art"
     ],
     "self_determined": [
-      "latency",
-      "empresa의",
-      "source",
-      "네비게이션을",
-      "디자이너에게",
+      "please",
+      "tokens",
       "액추에이터가",
-      "collectwise의",
-      "모델의卓越한",
-      "engineer를",
-      "마이그레이션",
-      "objetivo에서의",
-      "액추에이터는",
-      "인사이트에서",
-      "pinns를",
-      "프레임워크인",
-      "마이그레이션하는",
+      "네비게이션을",
+      "futuro",
       "forward",
-      "specsmaxxing에",
+      "디자이너에게",
+      "마이그레이션하는",
+      "organization",
+      "프레임워크인",
+      "마이그레이션",
+      "upgrade",
       "networks",
-      "프로젝트에서"
+      "objetivo에서의",
+      "empresa의",
+      "pinns를",
+      "service",
+      "제일브레이크",
+      "specsmaxxing에",
+      "인사이트에서"
     ]
   },
   "topic_scores": {
@@ -205,6 +227,9 @@
     "Windows API is Successful Cross-Platform API (2024)": 274,
     "Stitch Together Lots of Little HTML Pages with Navigations for Interactions": 296,
     "Humanoid Robot Actuators": 252,
-    "The text mode lie: why modern TUIs are a nightmare for accessibility": 252
+    "The text mode lie: why modern TUIs are a nightmare for accessibility": 252,
+    "TADI: Tool-Augmented Drilling Intelligence via Agentic LLM Orchestration over He": 346,
+    "AgentReputation: A Decentralized Agentic AI Reputation Framework": 421,
+    "Minimal, Local, Causal Explanations for Jailbreak Success in Large Language Mode": 429
   }
 }
