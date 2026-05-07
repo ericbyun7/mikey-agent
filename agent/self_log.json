@@ -169,6 +169,28 @@
         "프레임워크가",
         "시스템입니다"
       ]
+    },
+    {
+      "date": "2026-05-07T08:36:41.573311",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "CreativityBench: Evaluating Agent Creative Reasoning via Affordance-Based Tool R",
+        "Stable Agentic Control: Tool-Mediated LLM Architecture for Autonomous Cyber Defe",
+        "Computing Thiele Rules on Interval Elections and their Generalizations"
+      ],
+      "new_keywords": [
+        "proportional",
+        "creativitybench의",
+        "detection",
+        "테스트합니다",
+        "크리에이티브한",
+        "pareto",
+        "creativitybench를",
+        "creativitybench는",
+        "더容易해집니다",
+        "approval"
+      ]
     }
   ],
   "keywords": {
@@ -189,24 +211,24 @@
     "self_determined": [
       "please",
       "tokens",
-      "액추에이터가",
-      "네비게이션을",
-      "futuro",
+      "objetivo에서의",
+      "마이그레이션",
       "forward",
+      "upgrade",
+      "크리에이티브한",
+      "specsmaxxing에",
+      "creativitybench를",
+      "creativitybench는",
+      "approval",
+      "networks",
       "디자이너에게",
       "마이그레이션하는",
+      "futuro",
+      "액추에이터가",
+      "proportional",
       "organization",
-      "프레임워크인",
-      "마이그레이션",
-      "upgrade",
-      "networks",
-      "objetivo에서의",
-      "empresa의",
-      "pinns를",
       "service",
-      "제일브레이크",
-      "specsmaxxing에",
-      "인사이트에서"
+      "creativitybench의"
     ]
   },
   "topic_scores": {
@@ -230,6 +252,9 @@
     "The text mode lie: why modern TUIs are a nightmare for accessibility": 252,
     "TADI: Tool-Augmented Drilling Intelligence via Agentic LLM Orchestration over He": 346,
     "AgentReputation: A Decentralized Agentic AI Reputation Framework": 421,
-    "Minimal, Local, Causal Explanations for Jailbreak Success in Large Language Mode": 429
+    "Minimal, Local, Causal Explanations for Jailbreak Success in Large Language Mode": 429,
+    "CreativityBench: Evaluating Agent Creative Reasoning via Affordance-Based Tool R": 303,
+    "Stable Agentic Control: Tool-Mediated LLM Architecture for Autonomous Cyber Defe": 301,
+    "Computing Thiele Rules on Interval Elections and their Generalizations": 302
   }
 }
