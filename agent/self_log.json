@@ -191,6 +191,28 @@
         "더容易해집니다",
         "approval"
       ]
+    },
+    {
+      "date": "2026-05-08T06:41:34.285310",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Understanding Annotator Safety Policy with Interpretability",
+        "ZAYA1-8B Technical Report",
+        "Partial Evidence Bench: Benchmarking Authorization-Limited Evidence in Agentic S"
+      ],
+      "new_keywords": [
+        "zyphra의",
+        "개발되었습니다",
+        "개발되었으며",
+        "이루어졌음에도",
+        "발생하더라도",
+        "벤치마크에서",
+        "bench라는",
+        "partial",
+        "evidence",
+        "데이터注針과"
+      ]
     }
   ],
   "keywords": {
@@ -209,26 +231,26 @@
       "AI art"
     ],
     "self_determined": [
-      "please",
-      "tokens",
-      "objetivo에서의",
-      "마이그레이션",
-      "forward",
-      "upgrade",
-      "크리에이티브한",
-      "specsmaxxing에",
-      "creativitybench를",
-      "creativitybench는",
-      "approval",
-      "networks",
-      "디자이너에게",
-      "마이그레이션하는",
-      "futuro",
-      "액추에이터가",
-      "proportional",
+      "개발되었습니다",
       "organization",
-      "service",
-      "creativitybench의"
+      "creativitybench를",
+      "futuro",
+      "발생하더라도",
+      "디자이너에게",
+      "벤치마크에서",
+      "creativitybench는",
+      "networks",
+      "크리에이티브한",
+      "creativitybench의",
+      "evidence",
+      "specsmaxxing에",
+      "데이터注針과",
+      "approval",
+      "zyphra의",
+      "이루어졌음에도",
+      "개발되었으며",
+      "마이그레이션",
+      "마이그레이션하는"
     ]
   },
   "topic_scores": {
@@ -255,6 +277,9 @@
     "Minimal, Local, Causal Explanations for Jailbreak Success in Large Language Mode": 429,
     "CreativityBench: Evaluating Agent Creative Reasoning via Affordance-Based Tool R": 303,
     "Stable Agentic Control: Tool-Mediated LLM Architecture for Autonomous Cyber Defe": 301,
-    "Computing Thiele Rules on Interval Elections and their Generalizations": 302
+    "Computing Thiele Rules on Interval Elections and their Generalizations": 302,
+    "Understanding Annotator Safety Policy with Interpretability": 244,
+    "ZAYA1-8B Technical Report": 391,
+    "Partial Evidence Bench: Benchmarking Authorization-Limited Evidence in Agentic S": 365
   }
 }
