@@ -233,6 +233,25 @@
         "불러일으키고",
         "규정했습니다"
       ]
+    },
+    {
+      "date": "2026-05-10T08:06:55.379793",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Debian must ship reproducible packages",
+        "Scouting's Real Crisis Is Not Marketing. It Is Decades of Neglect.",
+        "Gemini API File Search is now multimodal"
+      ],
+      "new_keywords": [
+        "발생하더라도",
+        "search의",
+        "gemini",
+        "사용자들에게",
+        "search가",
+        "이는開発자들이",
+        "확장되었습니다"
+      ]
     }
   ],
   "keywords": {
@@ -251,25 +270,25 @@
       "AI art"
     ],
     "self_determined": [
-      "이루어졌음에도",
-      "specsmaxxing에",
-      "개발되었습니다",
-      "프라이버시의",
       "마이그레이션하는",
-      "데이터注針과",
+      "search의",
       "벤치마크에서",
-      "zyphra의",
-      "불러일으키며",
-      "evidence",
-      "approval",
-      "불러일으키고",
-      "organization",
-      "디자이너에게",
       "나타났습니다",
-      "프라이버시에",
+      "이루어졌음에도",
+      "approval",
+      "gemini",
+      "개발되었습니다",
+      "specsmaxxing에",
+      "사용자들에게",
+      "이는開発자들이",
+      "데이터注針과",
+      "불러일으키며",
       "creativitybench를",
-      "발생하더라도",
+      "organization",
       "creativitybench는",
+      "발생하더라도",
+      "디자이너에게",
+      "evidence",
       "networks"
     ]
   },
@@ -303,6 +322,9 @@
     "Partial Evidence Bench: Benchmarking Authorization-Limited Evidence in Agentic S": 365,
     "EU calls VPNs \"a loophole that needs closing\" in age verification push": 232,
     "Using Claude Code: The unreasonable effectiveness of HTML": 250,
-    "Over 97% of the 'Linux' Foundation's Budget Goes Not to Linux": 251
+    "Over 97% of the 'Linux' Foundation's Budget Goes Not to Linux": 251,
+    "Debian must ship reproducible packages": 329,
+    "Scouting's Real Crisis Is Not Marketing. It Is Decades of Neglect.": 241,
+    "Gemini API File Search is now multimodal": 333
   }
 }
