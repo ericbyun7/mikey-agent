@@ -252,6 +252,28 @@
         "이는開発자들이",
         "확장되었습니다"
       ]
+    },
+    {
+      "date": "2026-05-11T11:19:02.159097",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "GraphDC: A Divide-and-Conquer Multi-Agent System for Scalable Graph Algorithm Re",
+        "More Thinking, More Bias: Length-Driven Position Bias in Reasoning Models",
+        "Fast and Effective Redistricting Optimization via Composite-Move Tabu Search"
+      ],
+      "new_keywords": [
+        "나타났습니다",
+        "프레임워크를介绍합니다",
+        "서브그래프로",
+        "서브그래프를",
+        "그래프에서도",
+        "graphdc는",
+        "기대되었지만",
+        "프레임워크는",
+        "빠르게陷入하지",
+        "graphdc"
+      ]
     }
   ],
   "keywords": {
@@ -270,26 +292,26 @@
       "AI art"
     ],
     "self_determined": [
-      "마이그레이션하는",
-      "search의",
+      "불러일으키며",
+      "발생하더라도",
+      "그래프에서도",
+      "서브그래프로",
+      "서브그래프를",
+      "이루어졌음에도",
+      "gemini",
+      "creativitybench를",
+      "프레임워크는",
+      "빠르게陷入하지",
+      "개발되었습니다",
       "벤치마크에서",
       "나타났습니다",
-      "이루어졌음에도",
-      "approval",
-      "gemini",
-      "개발되었습니다",
-      "specsmaxxing에",
-      "사용자들에게",
-      "이는開発자들이",
-      "데이터注針과",
-      "불러일으키며",
-      "creativitybench를",
-      "organization",
+      "프레임워크를介绍합니다",
       "creativitybench는",
-      "발생하더라도",
-      "디자이너에게",
-      "evidence",
-      "networks"
+      "이는開発자들이",
+      "기대되었지만",
+      "search의",
+      "networks",
+      "graphdc는"
     ]
   },
   "topic_scores": {
@@ -325,6 +347,9 @@
     "Over 97% of the 'Linux' Foundation's Budget Goes Not to Linux": 251,
     "Debian must ship reproducible packages": 329,
     "Scouting's Real Crisis Is Not Marketing. It Is Decades of Neglect.": 241,
-    "Gemini API File Search is now multimodal": 333
+    "Gemini API File Search is now multimodal": 333,
+    "GraphDC: A Divide-and-Conquer Multi-Agent System for Scalable Graph Algorithm Re": 295,
+    "More Thinking, More Bias: Length-Driven Position Bias in Reasoning Models": 310,
+    "Fast and Effective Redistricting Optimization via Composite-Move Tabu Search": 297
   }
 }
