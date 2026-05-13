@@ -296,6 +296,25 @@
         "cứu하였습니다",
         "인사이트입니다"
       ]
+    },
+    {
+      "date": "2026-05-13T10:01:57.795753",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Where Reliability Lives in Vision-Language Models: A Mechanistic Study of Attent",
+        "Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improvi",
+        "Auto-Rubric as Reward: From Implicit Preferences to Explicit Multimodal Generati"
+      ],
+      "new_keywords": [
+        "probe라는",
+        "파이프라인을",
+        "구조를尊重하는",
+        "paligemma",
+        "나타났습니다",
+        "reliability",
+        "priming"
+      ]
     }
   ],
   "keywords": {
@@ -314,26 +333,26 @@
       "AI art"
     ],
     "self_determined": [
-      "프레임워크는",
-      "서브그래프로",
-      "reward",
-      "개발되었습니다",
-      "여전히挑戰입니다",
-      "나타났습니다",
-      "исслед하였습니다",
-      "프레임워크를介绍합니다",
-      "cứu하였습니다",
-      "gemini",
-      "불러일으키며",
-      "인사이트입니다",
-      "creativitybench는",
-      "graphdc는",
-      "벤치마크에서",
+      "paligemma",
       "그래프에서도",
-      "search의",
-      "nghiên",
+      "구조를尊重하는",
+      "프레임워크를介绍합니다",
+      "creativitybench는",
+      "cứu하였습니다",
+      "여전히挑戰입니다",
+      "개발되었습니다",
+      "불러일으키며",
+      "gemini",
+      "attention",
+      "인사이트입니다",
+      "priming",
+      "프레임워크는",
+      "나타났습니다",
+      "벤치마크에서",
+      "probe라는",
+      "파이프라인을",
       "연구를介绍합니다",
-      "attention"
+      "서브그래프로"
     ]
   },
   "topic_scores": {
@@ -373,8 +392,8 @@
     "GraphDC: A Divide-and-Conquer Multi-Agent System for Scalable Graph Algorithm Re": 295,
     "More Thinking, More Bias: Length-Driven Position Bias in Reasoning Models": 310,
     "Fast and Effective Redistricting Optimization via Composite-Move Tabu Search": 297,
-    "Where Reliability Lives in Vision-Language Models: A Mechanistic Study of Attent": 295,
-    "Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improvi": 208,
+    "Where Reliability Lives in Vision-Language Models: A Mechanistic Study of Attent": 317,
+    "Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improvi": 239,
     "Auto-Rubric as Reward: From Implicit Preferences to Explicit Multimodal Generati": 311
   }
 }
