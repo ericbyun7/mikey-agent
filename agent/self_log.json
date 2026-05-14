@@ -315,6 +315,28 @@
         "reliability",
         "priming"
       ]
+    },
+    {
+      "date": "2026-05-14T08:51:11.591564",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents",
+        "Macro-Action Based Multi-Agent Instruction Following through Value Cancellation",
+        "Do Androids Dream of Breaking the Game? Systematically Auditing AI Agent Benchma"
+      ],
+      "new_keywords": [
+        "correction",
+        "프레임워크로서",
+        "개발했습니다",
+        "개발하였습니다",
+        "mavic는",
+        "compliance",
+        "instruction",
+        "향상시켰지만",
+        "프레임워크는",
+        "возможности를"
+      ]
     }
   ],
   "keywords": {
@@ -333,26 +355,26 @@
       "AI art"
     ],
     "self_determined": [
-      "paligemma",
-      "그래프에서도",
-      "구조를尊重하는",
-      "프레임워크를介绍합니다",
+      "correction",
+      "프레임워크로서",
       "creativitybench는",
-      "cứu하였습니다",
-      "여전히挑戰입니다",
-      "개발되었습니다",
-      "불러일으키며",
+      "프레임워크를介绍합니다",
       "gemini",
-      "attention",
-      "인사이트입니다",
-      "priming",
-      "프레임워크는",
+      "mavic는",
+      "compliance",
+      "서브그래프로",
       "나타났습니다",
-      "벤치마크에서",
-      "probe라는",
+      "그래프에서도",
+      "불러일으키며",
       "파이프라인을",
+      "probe라는",
+      "구조를尊重하는",
       "연구를介绍합니다",
-      "서브그래프로"
+      "개발되었습니다",
+      "возможности를",
+      "개발했습니다",
+      "paligemma",
+      "인사이트입니다"
     ]
   },
   "topic_scores": {
@@ -394,6 +416,9 @@
     "Fast and Effective Redistricting Optimization via Composite-Move Tabu Search": 297,
     "Where Reliability Lives in Vision-Language Models: A Mechanistic Study of Attent": 317,
     "Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improvi": 239,
-    "Auto-Rubric as Reward: From Implicit Preferences to Explicit Multimodal Generati": 311
+    "Auto-Rubric as Reward: From Implicit Preferences to Explicit Multimodal Generati": 311,
+    "Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents": 284,
+    "Macro-Action Based Multi-Agent Instruction Following through Value Cancellation": 371,
+    "Do Androids Dream of Breaking the Game? Systematically Auditing AI Agent Benchma": 301
   }
 }
