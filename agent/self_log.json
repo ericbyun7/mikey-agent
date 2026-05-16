@@ -359,6 +359,28 @@
         "에이전트들은",
         "프레임워크에서"
       ]
+    },
+    {
+      "date": "2026-05-16T07:56:31.274804",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration",
+        "Mixed Integer Goal Programming for Personalized Meal Optimization with User-Defi",
+        "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and"
+      ],
+      "new_keywords": [
+        "프레임워크는",
+        "preocup에",
+        "오케스트레이션",
+        "프레임워크에서는",
+        "gemini와",
+        "관점만으로는",
+        "토폴로지라는",
+        "프레임워크들의",
+        "프레임워크들은",
+        "graphbit는"
+      ]
     }
   ],
   "keywords": {
@@ -377,26 +399,26 @@
       "AI art"
     ],
     "self_determined": [
-      "에이전트们의",
-      "프레임워크로서",
-      "프레임워크를介绍합니다",
-      "서브그래프로",
-      "연구를介绍합니다",
-      "수행하는지에",
-      "возможности를",
-      "나타났습니다",
-      "graphbit의",
-      "correction",
       "프레임워크로",
-      "gemini",
-      "integer",
-      "구조를尊重하는",
+      "연구를介绍합니다",
       "파이프라인을",
       "mavic는",
-      "probe라는",
-      "그래프에서도",
+      "프레임워크는",
       "인사이트입니다",
-      "creativitybench는"
+      "preocup에",
+      "возможности를",
+      "오케스트레이션",
+      "프레임워크에서는",
+      "gemini와",
+      "수행하는지에",
+      "gemini",
+      "구조를尊重하는",
+      "서브그래프로",
+      "creativitybench는",
+      "관점만으로는",
+      "프레임워크를介绍합니다",
+      "토폴로지라는",
+      "프레임워크들의"
     ]
   },
   "topic_scores": {
@@ -442,8 +464,8 @@
     "Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents": 284,
     "Macro-Action Based Multi-Agent Instruction Following through Value Cancellation": 371,
     "Do Androids Dream of Breaking the Game? Systematically Auditing AI Agent Benchma": 301,
-    "GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration": 336,
-    "Mixed Integer Goal Programming for Personalized Meal Optimization with User-Defi": 323,
-    "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and": 323
+    "GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration": 341,
+    "Mixed Integer Goal Programming for Personalized Meal Optimization with User-Defi": 304,
+    "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and": 350
   }
 }
