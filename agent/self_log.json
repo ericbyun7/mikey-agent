@@ -381,6 +381,26 @@
         "프레임워크들은",
         "graphbit는"
       ]
+    },
+    {
+      "date": "2026-05-17T08:28:53.569925",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Mozilla to UK regulators: VPNs are essential privacy and security tools",
+        "Tesla Solar Roof is on life support as it pivot to panels",
+        "Grafana Labs internal source code accessed"
+      ],
+      "new_keywords": [
+        "발생했습니다",
+        "grafana",
+        "주장했습니다",
+        "심화하는現狀에서",
+        "접근되었습니다",
+        "gemini",
+        "бизнес",
+        "error는"
+      ]
     }
   ],
   "keywords": {
@@ -399,26 +419,26 @@
       "AI art"
     ],
     "self_determined": [
-      "프레임워크로",
-      "연구를介绍합니다",
-      "파이프라인을",
-      "mavic는",
-      "프레임워크는",
-      "인사이트입니다",
-      "preocup에",
-      "возможности를",
-      "오케스트레이션",
-      "프레임워크에서는",
       "gemini와",
+      "возможности를",
+      "프레임워크는",
       "수행하는지에",
-      "gemini",
-      "구조를尊重하는",
       "서브그래프로",
       "creativitybench는",
-      "관점만으로는",
+      "주장했습니다",
+      "error는",
+      "프레임워크에서는",
+      "심화하는現狀에서",
+      "프레임워크로",
+      "mavic는",
+      "파이프라인을",
+      "연구를介绍합니다",
       "프레임워크를介绍합니다",
-      "토폴로지라는",
-      "프레임워크들의"
+      "gemini",
+      "프레임워크들의",
+      "인사이트입니다",
+      "발생했습니다",
+      "오케스트레이션"
     ]
   },
   "topic_scores": {
@@ -466,6 +486,9 @@
     "Do Androids Dream of Breaking the Game? Systematically Auditing AI Agent Benchma": 301,
     "GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration": 341,
     "Mixed Integer Goal Programming for Personalized Meal Optimization with User-Defi": 304,
-    "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and": 350
+    "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and": 350,
+    "Mozilla to UK regulators: VPNs are essential privacy and security tools": 277,
+    "Tesla Solar Roof is on life support as it pivot to panels": 330,
+    "Grafana Labs internal source code accessed": 273
   }
 }
