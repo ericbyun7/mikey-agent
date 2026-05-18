@@ -401,6 +401,28 @@
         "бизнес",
         "error는"
       ]
+    },
+    {
+      "date": "2026-05-18T12:36:12.274277",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "DeepSlide: From Artifacts to Presentation Delivery",
+        "SDOF: Taming the Alignment Tax in Multi-Agent Orchestration with State-Constrain",
+        "Does Theory of Mind Improvement Really Benefit Human-AI Interactions? Empirical "
+      ],
+      "new_keywords": [
+        "프레젠테이션",
+        "중요한发现입니다",
+        "stateawaredispatcher",
+        "프레임워크의",
+        "hành하여",
+        "시스템입니다",
+        "프레임워크로",
+        "router",
+        "프로세스에서",
+        "커뮤니케이션을"
+      ]
     }
   ],
   "keywords": {
@@ -419,26 +441,26 @@
       "AI art"
     ],
     "self_determined": [
-      "gemini와",
-      "возможности를",
-      "프레임워크는",
-      "수행하는지에",
-      "서브그래프로",
       "creativitybench는",
-      "주장했습니다",
-      "error는",
-      "프레임워크에서는",
-      "심화하는現狀에서",
-      "프레임워크로",
-      "mavic는",
-      "파이프라인을",
-      "연구를介绍합니다",
-      "프레임워크를介绍합니다",
-      "gemini",
-      "프레임워크들의",
       "인사이트입니다",
+      "오케스트레이션",
+      "프레임워크에서는",
+      "프레임워크는",
+      "서브그래프로",
+      "연구를介绍합니다",
+      "프레젠테이션",
+      "중요한发现입니다",
+      "возможности를",
+      "프레임워크들의",
+      "stateawaredispatcher",
+      "수행하는지에",
+      "gemini와",
+      "프레임워크를介绍합니다",
       "발생했습니다",
-      "오케스트레이션"
+      "심화하는現狀에서",
+      "프레임워크의",
+      "hành하여",
+      "mavic는"
     ]
   },
   "topic_scores": {
@@ -489,6 +511,9 @@
     "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and": 350,
     "Mozilla to UK regulators: VPNs are essential privacy and security tools": 277,
     "Tesla Solar Roof is on life support as it pivot to panels": 330,
-    "Grafana Labs internal source code accessed": 273
+    "Grafana Labs internal source code accessed": 273,
+    "DeepSlide: From Artifacts to Presentation Delivery": 279,
+    "SDOF: Taming the Alignment Tax in Multi-Agent Orchestration with State-Constrain": 350,
+    "Does Theory of Mind Improvement Really Benefit Human-AI Interactions? Empirical ": 310
   }
 }
