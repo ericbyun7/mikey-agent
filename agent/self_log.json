@@ -423,6 +423,28 @@
         "프로세스에서",
         "커뮤니케이션을"
       ]
+    },
+    {
+      "date": "2026-05-19T11:20:00.863224",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "AgentWall: A Runtime Safety Layer for Local AI Agents",
+        "ANNEAL: Adapting LLM Agents via Governed Symbolic Patch Learning",
+        "From Prompts to Protocols: An AI Agent for Laboratory Automation"
+      ],
+      "new_keywords": [
+        "오케스트레이션을",
+        "성능을提高하는",
+        "바람직합니다",
+        "소프트웨어를",
+        "업데이트하는",
+        "anneal은",
+        "anneal",
+        "하이퍼파라미터",
+        "에이전트입니다",
+        "효율적으로進行할"
+      ]
     }
   ],
   "keywords": {
@@ -441,26 +463,26 @@
       "AI art"
     ],
     "self_determined": [
-      "creativitybench는",
-      "인사이트입니다",
-      "오케스트레이션",
-      "프레임워크에서는",
-      "프레임워크는",
       "서브그래프로",
+      "stateawaredispatcher",
+      "mavic는",
+      "수행하는지에",
+      "인사이트입니다",
+      "gemini와",
       "연구를介绍합니다",
+      "creativitybench는",
+      "바람직합니다",
+      "소프트웨어를",
+      "심화하는現狀에서",
+      "anneal은",
+      "hành하여",
+      "anneal",
       "프레젠테이션",
-      "중요한发现입니다",
+      "에이전트입니다",
       "возможности를",
       "프레임워크들의",
-      "stateawaredispatcher",
-      "수행하는지에",
-      "gemini와",
-      "프레임워크를介绍합니다",
-      "발생했습니다",
-      "심화하는現狀에서",
-      "프레임워크의",
-      "hành하여",
-      "mavic는"
+      "프레임워크는",
+      "프레임워크를介绍합니다"
     ]
   },
   "topic_scores": {
@@ -514,6 +536,9 @@
     "Grafana Labs internal source code accessed": 273,
     "DeepSlide: From Artifacts to Presentation Delivery": 279,
     "SDOF: Taming the Alignment Tax in Multi-Agent Orchestration with State-Constrain": 350,
-    "Does Theory of Mind Improvement Really Benefit Human-AI Interactions? Empirical ": 310
+    "Does Theory of Mind Improvement Really Benefit Human-AI Interactions? Empirical ": 310,
+    "AgentWall: A Runtime Safety Layer for Local AI Agents": 212,
+    "ANNEAL: Adapting LLM Agents via Governed Symbolic Patch Learning": 278,
+    "From Prompts to Protocols: An AI Agent for Laboratory Automation": 327
   }
 }
