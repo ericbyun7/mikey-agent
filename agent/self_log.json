@@ -445,6 +445,28 @@
         "에이전트입니다",
         "효율적으로進行할"
       ]
+    },
+    {
+      "date": "2026-05-20T11:05:18.325344",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects",
+        "Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipeli",
+        "Evaluating the Utility of Personal Health Records in Personalized Health AI"
+      ],
+      "new_keywords": [
+        "language",
+        "가이드라인을",
+        "records",
+        "프로세스를简化하고",
+        "평가했습니다",
+        "제공함으로써",
+        "health",
+        "사용자들에게",
+        "개선함으로써",
+        "결정하는지에"
+      ]
     }
   ],
   "keywords": {
@@ -463,26 +485,26 @@
       "AI art"
     ],
     "self_determined": [
-      "서브그래프로",
-      "stateawaredispatcher",
-      "mavic는",
       "수행하는지에",
-      "인사이트입니다",
-      "gemini와",
-      "연구를介绍합니다",
-      "creativitybench는",
-      "바람직합니다",
-      "소프트웨어를",
-      "심화하는現狀에서",
-      "anneal은",
-      "hành하여",
-      "anneal",
-      "프레젠테이션",
-      "에이전트입니다",
-      "возможности를",
-      "프레임워크들의",
+      "mavic는",
       "프레임워크는",
-      "프레임워크를介绍합니다"
+      "바람직합니다",
+      "서브그래프로",
+      "에이전트입니다",
+      "records",
+      "anneal은",
+      "평가했습니다",
+      "제공함으로써",
+      "연구를介绍합니다",
+      "health",
+      "anneal",
+      "개선함으로써",
+      "결정하는지에",
+      "프레임워크를介绍합니다",
+      "프로세스를简化하고",
+      "프레임워크들의",
+      "creativitybench는",
+      "возможности를"
     ]
   },
   "topic_scores": {
@@ -539,6 +561,9 @@
     "Does Theory of Mind Improvement Really Benefit Human-AI Interactions? Empirical ": 310,
     "AgentWall: A Runtime Safety Layer for Local AI Agents": 212,
     "ANNEAL: Adapting LLM Agents via Governed Symbolic Patch Learning": 278,
-    "From Prompts to Protocols: An AI Agent for Laboratory Automation": 327
+    "From Prompts to Protocols: An AI Agent for Laboratory Automation": 327,
+    "Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects": 272,
+    "Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipeli": 288,
+    "Evaluating the Utility of Personal Health Records in Personalized Health AI": 349
   }
 }
