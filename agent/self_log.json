@@ -467,6 +467,25 @@
         "개선함으로써",
         "결정하는지에"
       ]
+    },
+    {
+      "date": "2026-05-21T11:24:21.235928",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects",
+        "Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipeli",
+        "Evaluating the Utility of Personal Health Records in Personalized Health AI"
+      ],
+      "new_keywords": [
+        "평가했습니다",
+        "language",
+        "파이프라인을",
+        "health",
+        "records",
+        "아키텍처이다",
+        "personal"
+      ]
     }
   ],
   "keywords": {
@@ -485,26 +504,26 @@
       "AI art"
     ],
     "self_determined": [
-      "수행하는지에",
-      "mavic는",
-      "프레임워크는",
-      "바람직합니다",
-      "서브그래프로",
-      "에이전트입니다",
-      "records",
-      "anneal은",
       "평가했습니다",
-      "제공함으로써",
+      "language",
+      "anneal은",
+      "결정하는지에",
       "연구를介绍합니다",
       "health",
-      "anneal",
+      "서브그래프로",
+      "records",
       "개선함으로써",
-      "결정하는지에",
-      "프레임워크를介绍합니다",
+      "mavic는",
+      "아키텍처이다",
+      "에이전트입니다",
       "프로세스를简化하고",
-      "프레임워크들의",
-      "creativitybench는",
-      "возможности를"
+      "anneal",
+      "personal",
+      "파이프라인을",
+      "возможности를",
+      "바람직합니다",
+      "수행하는지에",
+      "제공함으로써"
     ]
   },
   "topic_scores": {
@@ -562,8 +581,8 @@
     "AgentWall: A Runtime Safety Layer for Local AI Agents": 212,
     "ANNEAL: Adapting LLM Agents via Governed Symbolic Patch Learning": 278,
     "From Prompts to Protocols: An AI Agent for Laboratory Automation": 327,
-    "Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects": 272,
-    "Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipeli": 288,
-    "Evaluating the Utility of Personal Health Records in Personalized Health AI": 349
+    "Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects": 262,
+    "Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipeli": 301,
+    "Evaluating the Utility of Personal Health Records in Personalized Health AI": 341
   }
 }
