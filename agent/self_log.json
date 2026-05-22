@@ -486,6 +486,28 @@
         "아키텍처이다",
         "personal"
       ]
+    },
+    {
+      "date": "2026-05-22T11:04:36.267367",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "SOLAR: A Self-Optimizing Open-Ended Autonomous Agent for Lifelong Learning and C",
+        "Tool-Augmented Agent for Closed-loop Optimization,Simulation,and Modeling Orches",
+        "OSCToM: RL-Guided Adversarial Generation for High-Order Theory of Mind"
+      ],
+      "new_keywords": [
+        "engineering",
+        "solar에",
+        "프레임워크가",
+        "처리분야에서는",
+        "theory",
+        "발생하였지만",
+        "osctom",
+        "solar이",
+        "일반화되는지",
+        "프레임워크는"
+      ]
     }
   ],
   "keywords": {
@@ -504,26 +526,26 @@
       "AI art"
     ],
     "self_determined": [
-      "평가했습니다",
-      "language",
-      "anneal은",
-      "결정하는지에",
-      "연구를介绍합니다",
-      "health",
       "서브그래프로",
-      "records",
-      "개선함으로써",
-      "mavic는",
-      "아키텍처이다",
-      "에이전트입니다",
       "프로세스를简化하고",
       "anneal",
-      "personal",
+      "engineering",
+      "records",
       "파이프라인을",
-      "возможности를",
-      "바람직합니다",
+      "개선함으로써",
+      "solar에",
+      "프레임워크가",
+      "theory",
+      "처리분야에서는",
+      "anneal은",
+      "발생하였지만",
+      "language",
+      "osctom",
       "수행하는지에",
-      "제공함으로써"
+      "아키텍처이다",
+      "평가했습니다",
+      "solar이",
+      "health"
     ]
   },
   "topic_scores": {
@@ -583,6 +605,9 @@
     "From Prompts to Protocols: An AI Agent for Laboratory Automation": 327,
     "Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects": 262,
     "Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipeli": 301,
-    "Evaluating the Utility of Personal Health Records in Personalized Health AI": 341
+    "Evaluating the Utility of Personal Health Records in Personalized Health AI": 341,
+    "SOLAR: A Self-Optimizing Open-Ended Autonomous Agent for Lifelong Learning and C": 347,
+    "Tool-Augmented Agent for Closed-loop Optimization,Simulation,and Modeling Orches": 342,
+    "OSCToM: RL-Guided Adversarial Generation for High-Order Theory of Mind": 368
   }
 }
