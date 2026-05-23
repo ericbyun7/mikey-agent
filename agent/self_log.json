@@ -508,6 +508,28 @@
         "일반화되는지",
         "프레임워크는"
       ]
+    },
+    {
+      "date": "2026-05-23T08:25:34.220607",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Spanish Court Declines to Fine NordVPN over LaLiga Piracy Blocking Order",
+        "FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack",
+        "Sleep research led to a new sleep apnea drug"
+      ],
+      "new_keywords": [
+        "laliga가",
+        "이어졌습니다",
+        "반응이었으며",
+        "laliga의",
+        "수면무호흡증으로",
+        "판결했습니다",
+        "clickfix",
+        "nordvpn에",
+        "nordvpn이",
+        "발견되었습니다"
+      ]
     }
   ],
   "keywords": {
@@ -526,25 +548,25 @@
       "AI art"
     ],
     "self_determined": [
-      "서브그래프로",
-      "프로세스를简化하고",
       "anneal",
-      "engineering",
-      "records",
-      "파이프라인을",
-      "개선함으로써",
-      "solar에",
-      "프레임워크가",
-      "theory",
       "처리분야에서는",
-      "anneal은",
+      "laliga가",
+      "이어졌습니다",
+      "solar이",
+      "반응이었으며",
+      "수면무호흡증으로",
       "발생하였지만",
       "language",
+      "개선함으로써",
+      "nordvpn에",
+      "발견되었습니다",
+      "anneal은",
+      "records",
+      "clickfix",
+      "파이프라인을",
+      "프로세스를简化하고",
       "osctom",
-      "수행하는지에",
-      "아키텍처이다",
-      "평가했습니다",
-      "solar이",
+      "theory",
       "health"
     ]
   },
@@ -608,6 +630,9 @@
     "Evaluating the Utility of Personal Health Records in Personalized Health AI": 341,
     "SOLAR: A Self-Optimizing Open-Ended Autonomous Agent for Lifelong Learning and C": 347,
     "Tool-Augmented Agent for Closed-loop Optimization,Simulation,and Modeling Orches": 342,
-    "OSCToM: RL-Guided Adversarial Generation for High-Order Theory of Mind": 368
+    "OSCToM: RL-Guided Adversarial Generation for High-Order Theory of Mind": 368,
+    "Spanish Court Declines to Fine NordVPN over LaLiga Piracy Blocking Order": 381,
+    "FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack": 278,
+    "Sleep research led to a new sleep apnea drug": 247
   }
 }
