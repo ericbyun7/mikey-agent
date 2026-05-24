@@ -530,6 +530,26 @@
         "nordvpn이",
         "발견되었습니다"
       ]
+    },
+    {
+      "date": "2026-05-24T00:20:02.597163",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "My I3-Emacs Integration",
+        "Bun.Image",
+        "Don't Roll Your Own"
+      ],
+      "new_keywords": [
+        "emacs는",
+        "개발자들에게",
+        "gemini",
+        "사용자들에게",
+        "인사이트입니다",
+        "편집기입니다",
+        "emacs를",
+        "인사이트와는"
+      ]
     }
   ],
   "keywords": {
@@ -548,26 +568,26 @@
       "AI art"
     ],
     "self_determined": [
-      "anneal",
-      "처리분야에서는",
-      "laliga가",
-      "이어졌습니다",
-      "solar이",
-      "반응이었으며",
-      "수면무호흡증으로",
-      "발생하였지만",
-      "language",
-      "개선함으로써",
-      "nordvpn에",
-      "발견되었습니다",
-      "anneal은",
-      "records",
-      "clickfix",
-      "파이프라인을",
+      "emacs는",
       "프로세스를简化하고",
-      "osctom",
+      "records",
+      "anneal",
+      "개발자들에게",
+      "사용자들에게",
+      "개선함으로써",
+      "laliga가",
+      "수면무호흡증으로",
+      "emacs를",
       "theory",
-      "health"
+      "이어졌습니다",
+      "clickfix",
+      "인사이트와는",
+      "anneal은",
+      "nordvpn에",
+      "gemini",
+      "파이프라인을",
+      "인사이트입니다",
+      "osctom"
     ]
   },
   "topic_scores": {
@@ -633,6 +653,9 @@
     "OSCToM: RL-Guided Adversarial Generation for High-Order Theory of Mind": 368,
     "Spanish Court Declines to Fine NordVPN over LaLiga Piracy Blocking Order": 381,
     "FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack": 278,
-    "Sleep research led to a new sleep apnea drug": 247
+    "Sleep research led to a new sleep apnea drug": 247,
+    "My I3-Emacs Integration": 305,
+    "Bun.Image": 292,
+    "Don't Roll Your Own": 309
   }
 }
