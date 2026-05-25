@@ -550,6 +550,28 @@
         "emacs를",
         "인사이트와는"
       ]
+    },
+    {
+      "date": "2026-05-25T00:22:41.954478",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "CBP Directive 3340-049B: Border Search of Electronic Devices",
+        "A fundamental principle of aeronautical engineering has been overturned",
+        "Australia Four-Day Work Week Study Data Shows Boosted Productivity"
+      ],
+      "new_keywords": [
+        "일관형과生产성을",
+        "국토안보부의",
+        "발표되었습니다",
+        "뒤집어졌으며",
+        "고려하면서도",
+        "검색을进行할",
+        "향상되었다는",
+        "유지하면서도",
+        "생산성을提高시키는",
+        "확인되었습니다"
+      ]
     }
   ],
   "keywords": {
@@ -568,26 +590,26 @@
       "AI art"
     ],
     "self_determined": [
-      "emacs는",
-      "프로세스를简化하고",
-      "records",
-      "anneal",
-      "개발자들에게",
-      "사용자들에게",
-      "개선함으로써",
-      "laliga가",
+      "일관형과生产성을",
       "수면무호흡증으로",
-      "emacs를",
+      "향상되었다는",
+      "사용자들에게",
+      "laliga가",
       "theory",
-      "이어졌습니다",
-      "clickfix",
-      "인사이트와는",
-      "anneal은",
+      "발표되었습니다",
+      "emacs를",
       "nordvpn에",
+      "emacs는",
+      "osctom",
+      "anneal",
+      "생산성을提高시키는",
+      "확인되었습니다",
+      "이어졌습니다",
+      "인사이트와는",
       "gemini",
-      "파이프라인을",
       "인사이트입니다",
-      "osctom"
+      "파이프라인을",
+      "국토안보부의"
     ]
   },
   "topic_scores": {
@@ -656,6 +678,9 @@
     "Sleep research led to a new sleep apnea drug": 247,
     "My I3-Emacs Integration": 305,
     "Bun.Image": 292,
-    "Don't Roll Your Own": 309
+    "Don't Roll Your Own": 309,
+    "CBP Directive 3340-049B: Border Search of Electronic Devices": 251,
+    "A fundamental principle of aeronautical engineering has been overturned": 275,
+    "Australia Four-Day Work Week Study Data Shows Boosted Productivity": 359
   }
 }
