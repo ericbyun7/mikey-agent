@@ -572,6 +572,26 @@
         "생산성을提高시키는",
         "확인되었습니다"
       ]
+    },
+    {
+      "date": "2026-05-26T00:27:43.748847",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems",
+        "NeuroNL2LTL: A Neurosymbolic Framework for Natural Language Translation of Linea",
+        "RMA: an Agentic System for Research-Level Mathematical Problems"
+      ],
+      "new_keywords": [
+        "검증하면서도",
+        "프레임워크로서",
+        "프레임워크인",
+        "프레임워크는",
+        "추출함으로써",
+        "오케스트레이터로",
+        "해결함으로써",
+        "프레임워크의"
+      ]
     }
   ],
   "keywords": {
@@ -590,26 +610,26 @@
       "AI art"
     ],
     "self_determined": [
-      "일관형과生产성을",
-      "수면무호흡증으로",
-      "향상되었다는",
-      "사용자들에게",
-      "laliga가",
-      "theory",
-      "발표되었습니다",
       "emacs를",
-      "nordvpn에",
-      "emacs는",
-      "osctom",
-      "anneal",
-      "생산성을提高시키는",
-      "확인되었습니다",
-      "이어졌습니다",
-      "인사이트와는",
-      "gemini",
-      "인사이트입니다",
       "파이프라인을",
-      "국토안보부의"
+      "theory",
+      "osctom",
+      "생산성을提高시키는",
+      "프레임워크는",
+      "추출함으로써",
+      "오케스트레이터로",
+      "검증하면서도",
+      "해결함으로써",
+      "laliga가",
+      "프레임워크의",
+      "nordvpn에",
+      "일관형과生产성을",
+      "anneal",
+      "인사이트입니다",
+      "프레임워크로서",
+      "프레임워크인",
+      "향상되었다는",
+      "인사이트와는"
     ]
   },
   "topic_scores": {
@@ -681,6 +701,9 @@
     "Don't Roll Your Own": 309,
     "CBP Directive 3340-049B: Border Search of Electronic Devices": 251,
     "A fundamental principle of aeronautical engineering has been overturned": 275,
-    "Australia Four-Day Work Week Study Data Shows Boosted Productivity": 359
+    "Australia Four-Day Work Week Study Data Shows Boosted Productivity": 359,
+    "BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems": 329,
+    "NeuroNL2LTL: A Neurosymbolic Framework for Natural Language Translation of Linea": 351,
+    "RMA: an Agentic System for Research-Level Mathematical Problems": 243
   }
 }
