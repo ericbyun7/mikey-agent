@@ -592,6 +592,28 @@
         "해결함으로써",
         "프레임워크의"
       ]
+    },
+    {
+      "date": "2026-05-27T00:27:56.226937",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "In Search of the Ingredients of Open-Endedness: Replicating Picbreeder with Larg",
+        "Confidence Calibration in Large Language Models",
+        "How Much Thinking is Enough? Quantifying and Understanding Redundancy in LLM Rea"
+      ],
+      "new_keywords": [
+        "lifeeval을",
+        "생성可能性을",
+        "발견되었습니다",
+        "picbreeder",
+        "개발되었습니다",
+        "테스트에서는",
+        "맡으며自動화되는",
+        "인공지능이人类와",
+        "lifeeval이",
+        "lifeeval의"
+      ]
     }
   ],
   "keywords": {
@@ -610,26 +632,26 @@
       "AI art"
     ],
     "self_determined": [
-      "emacs를",
-      "파이프라인을",
-      "theory",
-      "osctom",
-      "생산성을提高시키는",
-      "프레임워크는",
-      "추출함으로써",
-      "오케스트레이터로",
-      "검증하면서도",
-      "해결함으로써",
-      "laliga가",
-      "프레임워크의",
-      "nordvpn에",
-      "일관형과生产성을",
-      "anneal",
-      "인사이트입니다",
-      "프레임워크로서",
       "프레임워크인",
-      "향상되었다는",
-      "인사이트와는"
+      "프레임워크의",
+      "인사이트와는",
+      "오케스트레이터로",
+      "추출함으로써",
+      "laliga가",
+      "nordvpn에",
+      "lifeeval을",
+      "프레임워크는",
+      "파이프라인을",
+      "생성可能性을",
+      "일관형과生产성을",
+      "발견되었습니다",
+      "picbreeder",
+      "해결함으로써",
+      "anneal",
+      "맡으며自動화되는",
+      "개발되었습니다",
+      "생산성을提高시키는",
+      "인사이트입니다"
     ]
   },
   "topic_scores": {
@@ -704,6 +726,9 @@
     "Australia Four-Day Work Week Study Data Shows Boosted Productivity": 359,
     "BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems": 329,
     "NeuroNL2LTL: A Neurosymbolic Framework for Natural Language Translation of Linea": 351,
-    "RMA: an Agentic System for Research-Level Mathematical Problems": 243
+    "RMA: an Agentic System for Research-Level Mathematical Problems": 243,
+    "In Search of the Ingredients of Open-Endedness: Replicating Picbreeder with Larg": 313,
+    "Confidence Calibration in Large Language Models": 258,
+    "How Much Thinking is Enough? Quantifying and Understanding Redundancy in LLM Rea": 288
   }
 }
