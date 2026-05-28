@@ -614,6 +614,28 @@
         "lifeeval이",
         "lifeeval의"
       ]
+    },
+    {
+      "date": "2026-05-28T00:24:57.441438",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "BrickAnything: Geometry-Conditioned Buildable Brick Generation with Structure-Aw",
+        "Can LLMs Introspect? A Reality Check",
+        "Is Agent Memory a Database? Rethinking Data Foundations for Long-Term AI Agent M"
+      ],
+      "new_keywords": [
+        "방법론입니다",
+        "결합되어야만",
+        "quyết정을",
+        "brickanything는",
+        "데이터베이스와",
+        "인터페이스를",
+        "감지하고報告하는",
+        "정의함으로써",
+        "더全面적으로",
+        "감지하고報告할"
+      ]
     }
   ],
   "keywords": {
@@ -632,26 +654,26 @@
       "AI art"
     ],
     "self_determined": [
-      "프레임워크인",
-      "프레임워크의",
-      "인사이트와는",
-      "오케스트레이터로",
-      "추출함으로써",
+      "방법론입니다",
       "laliga가",
-      "nordvpn에",
-      "lifeeval을",
-      "프레임워크는",
-      "파이프라인을",
-      "생성可能性을",
-      "일관형과生产성을",
-      "발견되었습니다",
+      "오케스트레이터로",
+      "인사이트입니다",
       "picbreeder",
-      "해결함으로써",
-      "anneal",
-      "맡으며自動화되는",
-      "개발되었습니다",
+      "인사이트와는",
+      "quyết정을",
+      "데이터베이스와",
+      "추출함으로써",
+      "일관형과生产성을",
+      "정의함으로써",
+      "결합되어야만",
+      "감지하고報告할",
+      "프레임워크의",
+      "파이프라인을",
+      "더全面적으로",
+      "생성可能性을",
       "생산성을提高시키는",
-      "인사이트입니다"
+      "발견되었습니다",
+      "brickanything는"
     ]
   },
   "topic_scores": {
@@ -729,6 +751,9 @@
     "RMA: an Agentic System for Research-Level Mathematical Problems": 243,
     "In Search of the Ingredients of Open-Endedness: Replicating Picbreeder with Larg": 313,
     "Confidence Calibration in Large Language Models": 258,
-    "How Much Thinking is Enough? Quantifying and Understanding Redundancy in LLM Rea": 288
+    "How Much Thinking is Enough? Quantifying and Understanding Redundancy in LLM Rea": 288,
+    "BrickAnything: Geometry-Conditioned Buildable Brick Generation with Structure-Aw": 327,
+    "Can LLMs Introspect? A Reality Check": 359,
+    "Is Agent Memory a Database? Rethinking Data Foundations for Long-Term AI Agent M": 323
   }
 }
