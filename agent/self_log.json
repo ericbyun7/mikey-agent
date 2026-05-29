@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-04-29T06:48:46.448363",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "An Intelligent Fault Diagnosis Method for General Aviation Aircraft Based on Mul",
-        "PExA: Parallel Exploration Agent for Complex Text-to-SQL",
-        "The Power of Power Law: Asymmetry Enables Compositional Reasoning"
-      ],
-      "new_keywords": [
-        "significantly",
-        "latency",
-        "therefore",
-        "benefits",
-        "queries",
-        "appears",
-        "mitigated",
-        "biased",
-        "selecting",
-        "substantive"
-      ]
-    },
-    {
       "date": "2026-04-29T07:32:51.184284",
       "articles_collected": 10,
       "debates_run": 3,
@@ -636,6 +614,28 @@
         "더全面적으로",
         "감지하고報告할"
       ]
+    },
+    {
+      "date": "2026-05-29T00:34:10.893911",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Identifying and Understanding Human Values in Text: A Tailorable LLM-based Archi",
+        "Soro: A Lightweight Foundation Model and Chatbot for Tajik",
+        "On the Origin of Synthetic Information by Means of Steganographic Inheritance"
+      ],
+      "new_keywords": [
+        "제안하였으며",
+        "soro는gemaa",
+        "방식으로人类와",
+        "ekonomi와",
+        "제안하였습니다",
+        "체크포인트를",
+        "프레임워크의",
+        "timeout",
+        "프레임워크를",
+        "타지키스탄과"
+      ]
     }
   ],
   "keywords": {
@@ -654,26 +654,26 @@
       "AI art"
     ],
     "self_determined": [
-      "방법론입니다",
-      "laliga가",
-      "오케스트레이터로",
-      "인사이트입니다",
+      "발견되었습니다",
+      "제안하였으며",
+      "soro는gemaa",
       "picbreeder",
-      "인사이트와는",
       "quyết정을",
-      "데이터베이스와",
+      "인사이트입니다",
+      "방식으로人类와",
+      "더全面적으로",
+      "체크포인트를",
       "추출함으로써",
       "일관형과生产성을",
-      "정의함으로써",
-      "결합되어야만",
-      "감지하고報告할",
-      "프레임워크의",
-      "파이프라인을",
-      "더全面적으로",
       "생성可能性을",
-      "생산성을提高시키는",
-      "발견되었습니다",
-      "brickanything는"
+      "타지키스탄과",
+      "결합되어야만",
+      "정의함으로써",
+      "감지하고報告할",
+      "방법론입니다",
+      "brickanything는",
+      "laliga가",
+      "파이프라인을"
     ]
   },
   "topic_scores": {
@@ -754,6 +754,9 @@
     "How Much Thinking is Enough? Quantifying and Understanding Redundancy in LLM Rea": 288,
     "BrickAnything: Geometry-Conditioned Buildable Brick Generation with Structure-Aw": 327,
     "Can LLMs Introspect? A Reality Check": 359,
-    "Is Agent Memory a Database? Rethinking Data Foundations for Long-Term AI Agent M": 323
+    "Is Agent Memory a Database? Rethinking Data Foundations for Long-Term AI Agent M": 323,
+    "Identifying and Understanding Human Values in Text: A Tailorable LLM-based Archi": 273,
+    "Soro: A Lightweight Foundation Model and Chatbot for Tajik": 343,
+    "On the Origin of Synthetic Information by Means of Steganographic Inheritance": 262
   }
 }
