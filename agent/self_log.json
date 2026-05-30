@@ -1,25 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-04-29T07:32:51.184284",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "An Intelligent Fault Diagnosis Method for General Aviation Aircraft Based on Mul",
-        "PExA: Parallel Exploration Agent for Complex Text-to-SQL",
-        "The Power of Power Law: Asymmetry Enables Compositional Reasoning"
-      ],
-      "new_keywords": [
-        "프레임워크로",
-        "프레임워크는",
-        "текст에서",
-        "진단하고报告합니다",
-        "정의했습니다",
-        "트레이드오프를",
-        "트레이드오프에"
-      ]
-    },
-    {
       "date": "2026-04-30T08:10:42.851779",
       "articles_collected": 10,
       "debates_run": 3,
@@ -636,6 +617,28 @@
         "프레임워크를",
         "타지키스탄과"
       ]
+    },
+    {
+      "date": "2026-05-30T00:32:42.666882",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Behavior-Induced Mirror-Prox Temporal-Difference Learning for Faster Off-Policy ",
+        "Behavior-Aware Auxiliary Corrections for Off-Policy Temporal-Difference Predicti",
+        "The Cognitive Categorical Transformer: Category-Theoretic Inductive Biases for L"
+      ],
+      "new_keywords": [
+        "데이터셋에서",
+        "metric에",
+        "퍼플렉스에서",
+        "categorical",
+        "결정되는幾何学적",
+        "향상시킵니다",
+        "아키텍처이다",
+        "하이퍼파라미터를",
+        "covariance",
+        "불안정해지는"
+      ]
     }
   ],
   "keywords": {
@@ -654,26 +657,26 @@
       "AI art"
     ],
     "self_determined": [
-      "발견되었습니다",
-      "제안하였으며",
-      "soro는gemaa",
-      "picbreeder",
+      "데이터셋에서",
       "quyết정을",
-      "인사이트입니다",
-      "방식으로人类와",
-      "더全面적으로",
-      "체크포인트를",
-      "추출함으로써",
-      "일관형과生产성을",
-      "생성可能性을",
-      "타지키스탄과",
-      "결합되어야만",
+      "metric에",
       "정의함으로써",
-      "감지하고報告할",
-      "방법론입니다",
+      "categorical",
+      "발견되었습니다",
+      "아키텍처이다",
+      "하이퍼파라미터를",
       "brickanything는",
+      "체크포인트를",
       "laliga가",
-      "파이프라인을"
+      "감지하고報告할",
+      "인사이트입니다",
+      "퍼플렉스에서",
+      "추출함으로써",
+      "방식으로人类와",
+      "결합되어야만",
+      "soro는gemaa",
+      "일관형과生产성을",
+      "방법론입니다"
     ]
   },
   "topic_scores": {
@@ -757,6 +760,9 @@
     "Is Agent Memory a Database? Rethinking Data Foundations for Long-Term AI Agent M": 323,
     "Identifying and Understanding Human Values in Text: A Tailorable LLM-based Archi": 273,
     "Soro: A Lightweight Foundation Model and Chatbot for Tajik": 343,
-    "On the Origin of Synthetic Information by Means of Steganographic Inheritance": 262
+    "On the Origin of Synthetic Information by Means of Steganographic Inheritance": 262,
+    "Behavior-Induced Mirror-Prox Temporal-Difference Learning for Faster Off-Policy ": 365,
+    "Behavior-Aware Auxiliary Corrections for Off-Policy Temporal-Difference Predicti": 309,
+    "The Cognitive Categorical Transformer: Category-Theoretic Inductive Biases for L": 333
   }
 }
