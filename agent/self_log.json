@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-04-30T08:10:42.851779",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Operating-Layer Controls for Onchain Language-Model Agents Under Real Capital",
-        "Distill-Belief: Closed-Loop Inverse Source Localization and Characterization in ",
-        "Evaluating Strategic Reasoning in Forecasting Agents"
-      ],
-      "new_keywords": [
-        "localization",
-        "프레임워크인",
-        "분석했습니다",
-        "이러한課題를",
-        "objetivo에서의",
-        "terminal",
-        "생성했습니다",
-        "수행하였으며",
-        "거래를performed",
-        "source"
-      ]
-    },
-    {
       "date": "2026-05-01T08:09:40.944205",
       "articles_collected": 10,
       "debates_run": 3,
@@ -639,6 +617,28 @@
         "covariance",
         "불안정해지는"
       ]
+    },
+    {
+      "date": "2026-05-31T00:24:18.880421",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Microsoft degrades functionality of perpetually-licensed offline products",
+        "Custom Errors Are Non-Negotiable in My Rust Applications",
+        "Cheese Paper: a text editor specifically designed for writing"
+      ],
+      "new_keywords": [
+        "향상시키고자",
+        "생산성을增强하는",
+        "소프트웨어가",
+        "편집기입니다",
+        "인터페이스와",
+        "경험을享受할",
+        "간소화합니다",
+        "gemini",
+        "paper는",
+        "애플리케이션을"
+      ]
     }
   ],
   "keywords": {
@@ -657,26 +657,26 @@
       "AI art"
     ],
     "self_determined": [
-      "데이터셋에서",
-      "quyết정을",
-      "metric에",
-      "정의함으로써",
+      "향상시키고자",
       "categorical",
-      "발견되었습니다",
-      "아키텍처이다",
-      "하이퍼파라미터를",
-      "brickanything는",
-      "체크포인트를",
-      "laliga가",
-      "감지하고報告할",
-      "인사이트입니다",
-      "퍼플렉스에서",
-      "추출함으로써",
-      "방식으로人类와",
+      "생산성을增强하는",
       "결합되어야만",
-      "soro는gemaa",
       "일관형과生产성을",
-      "방법론입니다"
+      "정의함으로써",
+      "추출함으로써",
+      "인터페이스와",
+      "경험을享受할",
+      "간소화합니다",
+      "방법론입니다",
+      "laliga가",
+      "체크포인트를",
+      "metric에",
+      "brickanything는",
+      "gemini",
+      "soro는gemaa",
+      "퍼플렉스에서",
+      "소프트웨어가",
+      "데이터셋에서"
     ]
   },
   "topic_scores": {
@@ -763,6 +763,9 @@
     "On the Origin of Synthetic Information by Means of Steganographic Inheritance": 262,
     "Behavior-Induced Mirror-Prox Temporal-Difference Learning for Faster Off-Policy ": 365,
     "Behavior-Aware Auxiliary Corrections for Off-Policy Temporal-Difference Predicti": 309,
-    "The Cognitive Categorical Transformer: Category-Theoretic Inductive Biases for L": 333
+    "The Cognitive Categorical Transformer: Category-Theoretic Inductive Biases for L": 333,
+    "Microsoft degrades functionality of perpetually-licensed offline products": 272,
+    "Custom Errors Are Non-Negotiable in My Rust Applications": 295,
+    "Cheese Paper: a text editor specifically designed for writing": 349
   }
 }
