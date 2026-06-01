@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-01T08:09:40.944205",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Compositional Meta-Learning for Mitigating Task Heterogeneity in Physics-Informe",
-        "Binary Spiking Neural Networks as Causal Models",
-        "When Your LLM Reaches End-of-Life: A Framework for Confident Model Migration in "
-      ],
-      "new_keywords": [
-        "마이그레이션",
-        "프레임워크를",
-        "마이그레이션하는",
-        "pinns를",
-        "networks",
-        "neural",
-        "pde家族에서",
-        "마이그레이션을",
-        "프레임워크는",
-        "pinns는"
-      ]
-    },
-    {
       "date": "2026-05-02T06:53:26.527979",
       "articles_collected": 10,
       "debates_run": 3,
@@ -639,6 +617,27 @@
         "paper는",
         "애플리케이션을"
       ]
+    },
+    {
+      "date": "2026-06-01T00:28:53.813084",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Chuwi Minibook X: the netbook we deserve",
+        "It's Not Just X. It's Y",
+        "New solar desalination breakthrough makes fresh water without toxic brine"
+      ],
+      "new_keywords": [
+        "minibook",
+        "시장需求이나",
+        "가능해졌습니다",
+        "재탄생시키는",
+        "노력은人类이",
+        "사용자들의需求을",
+        "возмож해진",
+        "여러方面에서",
+        "친환경적이고"
+      ]
     }
   ],
   "keywords": {
@@ -657,26 +656,26 @@
       "AI art"
     ],
     "self_determined": [
-      "향상시키고자",
-      "categorical",
-      "생산성을增强하는",
-      "결합되어야만",
-      "일관형과生产성을",
-      "정의함으로써",
-      "추출함으로써",
-      "인터페이스와",
-      "경험을享受할",
-      "간소화합니다",
-      "방법론입니다",
-      "laliga가",
-      "체크포인트를",
-      "metric에",
-      "brickanything는",
+      "minibook",
       "gemini",
-      "soro는gemaa",
+      "추출함으로써",
+      "데이터셋에서",
       "퍼플렉스에서",
-      "소프트웨어가",
-      "데이터셋에서"
+      "categorical",
+      "재탄생시키는",
+      "향상시키고자",
+      "노력은人类이",
+      "사용자들의需求을",
+      "возмож해진",
+      "간소화합니다",
+      "생산성을增强하는",
+      "여러方面에서",
+      "친환경적이고",
+      "metric에",
+      "laliga가",
+      "일관형과生产성을",
+      "방법론입니다",
+      "체크포인트를"
     ]
   },
   "topic_scores": {
@@ -766,6 +765,9 @@
     "The Cognitive Categorical Transformer: Category-Theoretic Inductive Biases for L": 333,
     "Microsoft degrades functionality of perpetually-licensed offline products": 272,
     "Custom Errors Are Non-Negotiable in My Rust Applications": 295,
-    "Cheese Paper: a text editor specifically designed for writing": 349
+    "Cheese Paper: a text editor specifically designed for writing": 349,
+    "Chuwi Minibook X: the netbook we deserve": 316,
+    "It's Not Just X. It's Y": 250,
+    "New solar desalination breakthrough makes fresh water without toxic brine": 326
   }
 }
