@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-02T06:53:26.527979",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "CollectWise (YC F24) Is Hiring",
-        "Why does it take so long to release black fan versions?",
-        "Ask.com has closed"
-      ],
-      "new_keywords": [
-        "engineer를",
-        "collectwise의",
-        "empresa의",
-        "forward",
-        "인사이트에서",
-        "σημαν한",
-        "senior",
-        "collectwise는",
-        "deployed",
-        "폐쇄되었습니다"
-      ]
-    },
-    {
       "date": "2026-05-03T07:56:36.171715",
       "articles_collected": 10,
       "debates_run": 3,
@@ -638,6 +616,28 @@
         "여러方面에서",
         "친환경적이고"
       ]
+    },
+    {
+      "date": "2026-06-02T00:38:46.735594",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "PhyDrawGen: Physically Grounded Diagram Generation from Natural Language",
+        "Physically Viable World Models: A Case for Query-Conditioned Embodied AI",
+        "Transforming and Encoding FTS for SAT Solving: What Helps, What Hurts (Extended "
+      ],
+      "new_keywords": [
+        "변환함으로써",
+        "효율적으로解决하기",
+        "комп팩트한",
+        "factored",
+        "tasks를",
+        "궁극적으로는",
+        "다이어그램을",
+        "파이프라인입니다",
+        "파이프라인으로",
+        "phydrawgen은"
+      ]
     }
   ],
   "keywords": {
@@ -656,26 +656,26 @@
       "AI art"
     ],
     "self_determined": [
-      "minibook",
       "gemini",
-      "추출함으로써",
-      "데이터셋에서",
-      "퍼플렉스에서",
-      "categorical",
-      "재탄생시키는",
-      "향상시키고자",
-      "노력은人类이",
+      "tasks를",
       "사용자들의需求을",
-      "возмож해진",
-      "간소화합니다",
-      "생산성을增强하는",
-      "여러方面에서",
-      "친환경적이고",
-      "metric에",
-      "laliga가",
+      "minibook",
+      "categorical",
       "일관형과生产성을",
+      "퍼플렉스에서",
+      "재탄생시키는",
+      "파이프라인입니다",
+      "생산성을增强하는",
+      "laliga가",
+      "phydrawgen은",
+      "향상시키고자",
+      "간소화합니다",
+      "변환함으로써",
+      "체크포인트를",
+      "комп팩트한",
       "방법론입니다",
-      "체크포인트를"
+      "효율적으로解决하기",
+      "factored"
     ]
   },
   "topic_scores": {
@@ -768,6 +768,9 @@
     "Cheese Paper: a text editor specifically designed for writing": 349,
     "Chuwi Minibook X: the netbook we deserve": 316,
     "It's Not Just X. It's Y": 250,
-    "New solar desalination breakthrough makes fresh water without toxic brine": 326
+    "New solar desalination breakthrough makes fresh water without toxic brine": 326,
+    "PhyDrawGen: Physically Grounded Diagram Generation from Natural Language": 374,
+    "Physically Viable World Models: A Case for Query-Conditioned Embodied AI": 292,
+    "Transforming and Encoding FTS for SAT Solving: What Helps, What Hurts (Extended ": 312
   }
 }
