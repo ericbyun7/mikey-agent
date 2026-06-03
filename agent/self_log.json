@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-03T07:56:36.171715",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
-        "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-        "Windows API is Successful Cross-Platform API (2024)"
-      ],
-      "new_keywords": [
-        "successful",
-        "психоз를",
-        "모델의卓越한",
-        "차지했습니다",
-        "프로젝트에서",
-        "specsmaxxing에",
-        "gemini를",
-        "챌린지에서의",
-        "claude",
-        "개발자들에게"
-      ]
-    },
-    {
       "date": "2026-05-04T08:39:22.608337",
       "articles_collected": 10,
       "debates_run": 3,
@@ -638,6 +616,27 @@
         "파이프라인으로",
         "phydrawgen은"
       ]
+    },
+    {
+      "date": "2026-06-03T00:53:37.649124",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Position Paper: Post-Solve Robustness in Decision Engines: Feasible Regions and ",
+        "Emergent Collaborative Deliberation in Multi-Model AI Systems: A BFT-Derived Pro",
+        "Deliberative Curation: A Protocol for Multi-Agent Knowledge Bases"
+      ],
+      "new_keywords": [
+        "protocol을",
+        "개발함으로써",
+        "protocol은",
+        "경험적으로裏付け된",
+        "시스템에서보다",
+        "파이프라인에",
+        "consilium",
+        "에이전트들이",
+        "프레임워크를"
+      ]
     }
   ],
   "keywords": {
@@ -656,26 +655,26 @@
       "AI art"
     ],
     "self_determined": [
-      "gemini",
-      "tasks를",
+      "factored",
       "사용자들의需求을",
-      "minibook",
-      "categorical",
+      "protocol을",
+      "에이전트들이",
+      "프레임워크를",
+      "phydrawgen은",
+      "개발함으로써",
+      "체크포인트를",
+      "protocol은",
+      "변환함으로써",
+      "간소화합니다",
+      "파이프라인에",
       "일관형과生产성을",
-      "퍼플렉스에서",
-      "재탄생시키는",
+      "gemini",
+      "효율적으로解决하기",
       "파이프라인입니다",
       "생산성을增强하는",
+      "minibook",
       "laliga가",
-      "phydrawgen은",
-      "향상시키고자",
-      "간소화합니다",
-      "변환함으로써",
-      "체크포인트를",
-      "комп팩트한",
-      "방법론입니다",
-      "효율적으로解决하기",
-      "factored"
+      "시스템에서보다"
     ]
   },
   "topic_scores": {
@@ -771,6 +770,9 @@
     "New solar desalination breakthrough makes fresh water without toxic brine": 326,
     "PhyDrawGen: Physically Grounded Diagram Generation from Natural Language": 374,
     "Physically Viable World Models: A Case for Query-Conditioned Embodied AI": 292,
-    "Transforming and Encoding FTS for SAT Solving: What Helps, What Hurts (Extended ": 312
+    "Transforming and Encoding FTS for SAT Solving: What Helps, What Hurts (Extended ": 312,
+    "Position Paper: Post-Solve Robustness in Decision Engines: Feasible Regions and ": 306,
+    "Emergent Collaborative Deliberation in Multi-Model AI Systems: A BFT-Derived Pro": 297,
+    "Deliberative Curation: A Protocol for Multi-Agent Knowledge Bases": 326
   }
 }
