@@ -1,25 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-04T08:39:22.608337",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Stitch Together Lots of Little HTML Pages with Navigations for Interactions",
-        "Humanoid Robot Actuators",
-        "The text mode lie: why modern TUIs are a nightmare for accessibility"
-      ],
-      "new_keywords": [
-        "액추에이터는",
-        "네비게이션을",
-        "사용자들에게",
-        "디자이너에게",
-        "액추에이터의",
-        "필수적입니다",
-        "액추에이터가"
-      ]
-    },
-    {
       "date": "2026-05-05T07:09:30.432364",
       "articles_collected": 10,
       "debates_run": 3,
@@ -637,6 +618,28 @@
         "에이전트들이",
         "프레임워크를"
       ]
+    },
+    {
+      "date": "2026-06-04T00:55:40.664296",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Visual Graph Scaffolds for Structural Reasoning in Large Language Models",
+        "AURA: Action-Gated Memory for Robot Policies at Constant VRAM",
+        "Evaluating Transformer and LSTM Frameworks for Prediction in Ungauged Basins"
+      ],
+      "new_keywords": [
+        "디바이스에서",
+        "lstm보다",
+        "구조적推론을",
+        "transformer",
+        "transformer와",
+        "프레임워크가",
+        "데이터센터에서",
+        "프레임워크의",
+        "memory",
+        "비교분석하였다"
+      ]
     }
   ],
   "keywords": {
@@ -656,25 +659,25 @@
     ],
     "self_determined": [
       "factored",
-      "사용자들의需求을",
-      "protocol을",
-      "에이전트들이",
+      "디바이스에서",
       "프레임워크를",
-      "phydrawgen은",
-      "개발함으로써",
-      "체크포인트를",
-      "protocol은",
-      "변환함으로써",
       "간소화합니다",
-      "파이프라인에",
-      "일관형과生产성을",
-      "gemini",
-      "효율적으로解决하기",
       "파이프라인입니다",
-      "생산성을增强하는",
-      "minibook",
+      "변환함으로써",
+      "비교분석하였다",
+      "lstm보다",
+      "구조적推론을",
+      "protocol은",
+      "시스템에서보다",
+      "에이전트들이",
+      "phydrawgen은",
+      "transformer",
       "laliga가",
-      "시스템에서보다"
+      "생산성을增强하는",
+      "gemini",
+      "transformer와",
+      "효율적으로解决하기",
+      "프레임워크가"
     ]
   },
   "topic_scores": {
@@ -773,6 +776,9 @@
     "Transforming and Encoding FTS for SAT Solving: What Helps, What Hurts (Extended ": 312,
     "Position Paper: Post-Solve Robustness in Decision Engines: Feasible Regions and ": 306,
     "Emergent Collaborative Deliberation in Multi-Model AI Systems: A BFT-Derived Pro": 297,
-    "Deliberative Curation: A Protocol for Multi-Agent Knowledge Bases": 326
+    "Deliberative Curation: A Protocol for Multi-Agent Knowledge Bases": 326,
+    "Visual Graph Scaffolds for Structural Reasoning in Large Language Models": 293,
+    "AURA: Action-Gated Memory for Robot Policies at Constant VRAM": 326,
+    "Evaluating Transformer and LSTM Frameworks for Prediction in Ungauged Basins": 233
   }
 }
