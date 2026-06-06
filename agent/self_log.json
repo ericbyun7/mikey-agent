@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-07T08:36:41.573311",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "CreativityBench: Evaluating Agent Creative Reasoning via Affordance-Based Tool R",
-        "Stable Agentic Control: Tool-Mediated LLM Architecture for Autonomous Cyber Defe",
-        "Computing Thiele Rules on Interval Elections and their Generalizations"
-      ],
-      "new_keywords": [
-        "proportional",
-        "creativitybench의",
-        "detection",
-        "테스트합니다",
-        "크리에이티브한",
-        "pareto",
-        "creativitybench를",
-        "creativitybench는",
-        "더容易해집니다",
-        "approval"
-      ]
-    },
-    {
       "date": "2026-05-08T06:41:34.285310",
       "articles_collected": 10,
       "debates_run": 3,
@@ -640,6 +618,28 @@
         "literacy",
         "프레임워크가"
       ]
+    },
+    {
+      "date": "2026-06-06T00:32:54.693019",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simu",
+        "Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Huma",
+        "Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Account"
+      ],
+      "new_keywords": [
+        "エージェント의",
+        "поддерж을",
+        "형성하는지에",
+        "이해를促进할",
+        "literacy",
+        "프레임워크는",
+        "정의함으로써",
+        "desarroll할",
+        "시뮬레이션과",
+        "프레임워크의"
+      ]
     }
   ],
   "keywords": {
@@ -658,26 +658,26 @@
       "AI art"
     ],
     "self_determined": [
-      "epistemically",
-      "구조적推론을",
-      "에이전트들이",
-      "laliga가",
       "비교분석하였다",
-      "프레임워크의",
-      "파이프라인입니다",
-      "factored",
-      "시스템에서보다",
-      "language",
-      "결정론적遠读과",
-      "생산성을增强하는",
-      "lstm보다",
-      "protocol은",
-      "효율적으로解决하기",
-      "프레임워크를",
+      "エージェント의",
+      "에이전트들이",
+      "이해를促进할",
+      "구조적推론을",
       "phydrawgen은",
-      "engaged",
-      "literacy",
-      "변환함으로써"
+      "정의함으로써",
+      "desarroll할",
+      "프레임워크를",
+      "프레임워크의",
+      "결정론적遠读과",
+      "epistemically",
+      "생산성을增强하는",
+      "factored",
+      "변환함으로써",
+      "language",
+      "효율적으로解决하기",
+      "형성하는지에",
+      "поддерж을",
+      "파이프라인입니다"
     ]
   },
   "topic_scores": {
@@ -780,8 +780,8 @@
     "Visual Graph Scaffolds for Structural Reasoning in Large Language Models": 293,
     "AURA: Action-Gated Memory for Robot Policies at Constant VRAM": 326,
     "Evaluating Transformer and LSTM Frameworks for Prediction in Ungauged Basins": 233,
-    "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simu": 251,
-    "Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Huma": 248,
-    "Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Account": 357
+    "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simu": 292,
+    "Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Huma": 319,
+    "Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Account": 229
   }
 }
