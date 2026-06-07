@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-08T06:41:34.285310",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Understanding Annotator Safety Policy with Interpretability",
-        "ZAYA1-8B Technical Report",
-        "Partial Evidence Bench: Benchmarking Authorization-Limited Evidence in Agentic S"
-      ],
-      "new_keywords": [
-        "zyphra의",
-        "개발되었습니다",
-        "개발되었으며",
-        "이루어졌음에도",
-        "발생하더라도",
-        "벤치마크에서",
-        "bench라는",
-        "partial",
-        "evidence",
-        "데이터注針과"
-      ]
-    },
-    {
       "date": "2026-05-09T07:03:21.874754",
       "articles_collected": 10,
       "debates_run": 3,
@@ -640,6 +618,28 @@
         "시뮬레이션과",
         "프레임워크의"
       ]
+    },
+    {
+      "date": "2026-06-07T00:27:20.880638",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinu",
+        "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Sys",
+        "I Know What You Meme, Even If it Emerged Today: Understanding Evolving Memes thr"
+      ],
+      "new_keywords": [
+        "소진하여ระบบ",
+        "conclude는",
+        "conclude라고",
+        "프레임워크인",
+        "프레임워크는",
+        "진행되었지만",
+        "스케줄などの",
+        "조사하였습니다",
+        "reddit의",
+        "수행되었으며"
+      ]
     }
   ],
   "keywords": {
@@ -658,26 +658,26 @@
       "AI art"
     ],
     "self_determined": [
-      "비교분석하였다",
-      "エージェント의",
-      "에이전트들이",
-      "이해를促进할",
-      "구조적推론을",
-      "phydrawgen은",
-      "정의함으로써",
-      "desarroll할",
-      "프레임워크를",
-      "프레임워크의",
-      "결정론적遠读과",
-      "epistemically",
-      "생산성을增强하는",
-      "factored",
-      "변환함으로써",
-      "language",
-      "효율적으로解决하기",
+      "소진하여ระบบ",
+      "conclude는",
+      "reddit의",
+      "수행되었으며",
+      "파이프라인입니다",
       "형성하는지에",
+      "conclude라고",
+      "프레임워크인",
+      "프레임워크를",
+      "프레임워크는",
+      "phydrawgen은",
+      "エージェント의",
+      "비교분석하였다",
+      "진행되었지만",
+      "desarroll할",
+      "factored",
       "поддерж을",
-      "파이프라인입니다"
+      "구조적推론을",
+      "스케줄などの",
+      "생산성을增强하는"
     ]
   },
   "topic_scores": {
@@ -782,6 +782,9 @@
     "Evaluating Transformer and LSTM Frameworks for Prediction in Ungauged Basins": 233,
     "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simu": 292,
     "Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Huma": 319,
-    "Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Account": 229
+    "Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Account": 229,
+    "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinu": 297,
+    "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Sys": 370,
+    "I Know What You Meme, Even If it Emerged Today: Understanding Evolving Memes thr": 343
   }
 }
