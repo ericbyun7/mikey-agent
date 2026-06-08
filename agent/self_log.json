@@ -1,26 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-09T07:03:21.874754",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "EU calls VPNs \"a loophole that needs closing\" in age verification push",
-        "Using Claude Code: The unreasonable effectiveness of HTML",
-        "Over 97% of the 'Linux' Foundation's Budget Goes Not to Linux"
-      ],
-      "new_keywords": [
-        "나타났습니다",
-        "프라이버시에",
-        "프라이버시의",
-        "importante",
-        "불러일으키며",
-        "접근하고자하는",
-        "불러일으키고",
-        "규정했습니다"
-      ]
-    },
-    {
       "date": "2026-05-10T08:06:55.379793",
       "articles_collected": 10,
       "debates_run": 3,
@@ -640,6 +620,28 @@
         "reddit의",
         "수행되었으며"
       ]
+    },
+    {
+      "date": "2026-06-08T00:30:26.894872",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Firefox Merges Support for Vulkan Video Decoding",
+        "VibeOS: First ever AI-native operating system",
+        "Show HN: Nightwatch, The open-source, read-only AI SRE"
+      ],
+      "new_keywords": [
+        "검증되었으며",
+        "vibeos는",
+        "개발过程에서",
+        "nightwatch는",
+        "브라우저에서",
+        "통합되었다고",
+        "ож망됩니다",
+        "kubernetes",
+        "파이어폭스에서",
+        "vulkan"
+      ]
     }
   ],
   "keywords": {
@@ -658,26 +660,26 @@
       "AI art"
     ],
     "self_determined": [
-      "소진하여ระบบ",
-      "conclude는",
-      "reddit의",
-      "수행되었으며",
-      "파이프라인입니다",
-      "형성하는지에",
       "conclude라고",
-      "프레임워크인",
-      "프레임워크를",
-      "프레임워크는",
+      "vibeos는",
+      "파이프라인입니다",
       "phydrawgen은",
-      "エージェント의",
-      "비교분석하였다",
-      "진행되었지만",
-      "desarroll할",
+      "nightwatch는",
+      "생산성을增强하는",
+      "kubernetes",
       "factored",
-      "поддерж을",
-      "구조적推론을",
+      "프레임워크는",
+      "검증되었으며",
+      "프레임워크를",
+      "desarroll할",
+      "수행되었으며",
+      "형성하는지에",
+      "개발过程에서",
+      "진행되었지만",
+      "브라우저에서",
       "스케줄などの",
-      "생산성을增强하는"
+      "비교분석하였다",
+      "통합되었다고"
     ]
   },
   "topic_scores": {
@@ -785,6 +787,9 @@
     "Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Account": 229,
     "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinu": 297,
     "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Sys": 370,
-    "I Know What You Meme, Even If it Emerged Today: Understanding Evolving Memes thr": 343
+    "I Know What You Meme, Even If it Emerged Today: Understanding Evolving Memes thr": 343,
+    "Firefox Merges Support for Vulkan Video Decoding": 250,
+    "VibeOS: First ever AI-native operating system": 330,
+    "Show HN: Nightwatch, The open-source, read-only AI SRE": 398
   }
 }
