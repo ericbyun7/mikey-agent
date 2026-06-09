@@ -1,25 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-10T08:06:55.379793",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Debian must ship reproducible packages",
-        "Scouting's Real Crisis Is Not Marketing. It Is Decades of Neglect.",
-        "Gemini API File Search is now multimodal"
-      ],
-      "new_keywords": [
-        "발생하더라도",
-        "search의",
-        "gemini",
-        "사용자들에게",
-        "search가",
-        "이는開発자들이",
-        "확장되었습니다"
-      ]
-    },
-    {
       "date": "2026-05-11T11:19:02.159097",
       "articles_collected": 10,
       "debates_run": 3,
@@ -642,6 +623,27 @@
         "파이어폭스에서",
         "vulkan"
       ]
+    },
+    {
+      "date": "2026-06-09T00:28:12.212991",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation",
+        "DiBS: Diffusion-Informed Branch Selection",
+        "SafeGene: Reusable Adapters for Transferable Safety Alignment"
+      ],
+      "new_keywords": [
+        "기술적이슈가",
+        "branch",
+        "제안했습니다",
+        "변경하더라도",
+        "safegene는",
+        "프레임워크는",
+        "데이터셋에서",
+        "safegene와",
+        "프레임워크를"
+      ]
     }
   ],
   "keywords": {
@@ -660,26 +662,26 @@
       "AI art"
     ],
     "self_determined": [
-      "conclude라고",
-      "vibeos는",
-      "파이프라인입니다",
-      "phydrawgen은",
-      "nightwatch는",
-      "생산성을增强하는",
+      "스케줄などの",
+      "브라우저에서",
       "kubernetes",
       "factored",
-      "프레임워크는",
-      "검증되었으며",
-      "프레임워크를",
       "desarroll할",
-      "수행되었으며",
+      "기술적이슈가",
+      "통합되었다고",
+      "safegene는",
+      "데이터셋에서",
+      "nightwatch는",
+      "프레임워크를",
+      "safegene와",
       "형성하는지에",
-      "개발过程에서",
-      "진행되었지만",
-      "브라우저에서",
-      "스케줄などの",
+      "수행되었으며",
+      "생산성을增强하는",
       "비교분석하였다",
-      "통합되었다고"
+      "제안했습니다",
+      "branch",
+      "개발过程에서",
+      "진행되었지만"
     ]
   },
   "topic_scores": {
@@ -790,6 +792,9 @@
     "I Know What You Meme, Even If it Emerged Today: Understanding Evolving Memes thr": 343,
     "Firefox Merges Support for Vulkan Video Decoding": 250,
     "VibeOS: First ever AI-native operating system": 330,
-    "Show HN: Nightwatch, The open-source, read-only AI SRE": 398
+    "Show HN: Nightwatch, The open-source, read-only AI SRE": 398,
+    "Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation": 262,
+    "DiBS: Diffusion-Informed Branch Selection": 314,
+    "SafeGene: Reusable Adapters for Transferable Safety Alignment": 287
   }
 }
