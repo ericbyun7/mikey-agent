@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-12T08:44:40.044427",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Where Reliability Lives in Vision-Language Models: A Mechanistic Study of Attent",
-        "Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improvi",
-        "Auto-Rubric as Reward: From Implicit Preferences to Explicit Multimodal Generati"
-      ],
-      "new_keywords": [
-        "nghiên",
-        "reward",
-        "연구를介绍합니다",
-        "attention",
-        "구조를尊重하는",
-        "assumption을",
-        "여전히挑戰입니다",
-        "исслед하였습니다",
-        "cứu하였습니다",
-        "인사이트입니다"
-      ]
-    },
-    {
       "date": "2026-05-13T10:01:57.795753",
       "articles_collected": 10,
       "debates_run": 3,
@@ -644,6 +622,26 @@
         "발생하더라도",
         "워크플로우를"
       ]
+    },
+    {
+      "date": "2026-06-11T00:39:41.448948",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Business World Model",
+        "Deployment-Time Memorization in Foundation-Model Agents",
+        "Exploratory Responsiveness and Adaptive Rigidity under AI-Assisted Optimization"
+      ],
+      "new_keywords": [
+        "탐색적응성과",
+        "탐색적응성이",
+        "상호작용하는지에",
+        "상호작용에서",
+        "전략목표부터",
+        "능력과剛性가",
+        "향상시키면서",
+        "비즈니스에서"
+      ]
     }
   ],
   "keywords": {
@@ -662,26 +660,26 @@
       "AI art"
     ],
     "self_determined": [
-      "제안했습니다",
-      "워크플로우는",
-      "스케줄などの",
-      "비교분석하였다",
-      "safegene와",
-      "프레임워크로",
-      "kubernetes",
-      "제안하였습니다",
-      "통합되었다고",
       "pathosage라는",
-      "진행되었지만",
       "branch",
-      "발생하더라도",
-      "desarroll할",
-      "워크플로우를",
-      "데이터셋에서",
-      "기술적이슈가",
-      "프레임워크를",
+      "스케줄などの",
+      "상호작용하는지에",
+      "워크플로우는",
       "개발过程에서",
-      "브라우저에서"
+      "데이터셋에서",
+      "kubernetes",
+      "브라우저에서",
+      "전략목표부터",
+      "프레임워크로",
+      "상호작용에서",
+      "진행되었지만",
+      "desarroll할",
+      "비교분석하였다",
+      "비즈니스에서",
+      "safegene와",
+      "프레임워크를",
+      "제안하였습니다",
+      "탐색적응성과"
     ]
   },
   "topic_scores": {
@@ -798,6 +796,9 @@
     "SafeGene: Reusable Adapters for Transferable Safety Alignment": 287,
     "PathoSage: Towards Multi-Source Evidence Adjudication in Pathology via Experienc": 332,
     "OmniMem: Perturbation-aware Memory Compression for Streaming Audio-Visual LLMs": 335,
-    "Syll: Open-Source Personal Automation with Cross-Surface Execution": 270
+    "Syll: Open-Source Personal Automation with Cross-Surface Execution": 270,
+    "Business World Model": 340,
+    "Deployment-Time Memorization in Foundation-Model Agents": 274,
+    "Exploratory Responsiveness and Adaptive Rigidity under AI-Assisted Optimization": 281
   }
 }
