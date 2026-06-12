@@ -1,25 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-13T10:01:57.795753",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Where Reliability Lives in Vision-Language Models: A Mechanistic Study of Attent",
-        "Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improvi",
-        "Auto-Rubric as Reward: From Implicit Preferences to Explicit Multimodal Generati"
-      ],
-      "new_keywords": [
-        "probe라는",
-        "파이프라인을",
-        "구조를尊重하는",
-        "paligemma",
-        "나타났습니다",
-        "reliability",
-        "priming"
-      ]
-    },
-    {
       "date": "2026-05-14T08:51:11.591564",
       "articles_collected": 10,
       "debates_run": 3,
@@ -642,6 +623,28 @@
         "향상시키면서",
         "비즈니스에서"
       ]
+    },
+    {
+      "date": "2026-06-12T00:45:12.751308",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "From Explicit Elements to Implicit Intent: A Predefined Library for Auditable Be",
+        "Position: Hippocampal Explicit Memory Is the Cornerstone for AGI",
+        "Can AI Agents Synthesize Scientific Conclusions?"
+      ],
+      "new_keywords": [
+        "sciconbench와",
+        "gemini",
+        "sciconbench라는",
+        "전자상거래가",
+        "프레임워크의",
+        "라이브러리를",
+        "인지기능들이",
+        "프레임워크이다",
+        "재현성을优先하며",
+        "semanticlean의"
+      ]
     }
   ],
   "keywords": {
@@ -660,26 +663,26 @@
       "AI art"
     ],
     "self_determined": [
-      "pathosage라는",
-      "branch",
-      "스케줄などの",
-      "상호작용하는지에",
-      "워크플로우는",
-      "개발过程에서",
-      "데이터셋에서",
-      "kubernetes",
-      "브라우저에서",
-      "전략목표부터",
-      "프레임워크로",
-      "상호작용에서",
-      "진행되었지만",
       "desarroll할",
-      "비교분석하였다",
+      "전략목표부터",
+      "sciconbench와",
+      "브라우저에서",
+      "sciconbench라는",
+      "라이브러리를",
+      "데이터셋에서",
       "비즈니스에서",
-      "safegene와",
+      "프레임워크로",
+      "pathosage라는",
       "프레임워크를",
+      "스케줄などの",
+      "개발过程에서",
+      "워크플로우는",
+      "상호작용하는지에",
       "제안하였습니다",
-      "탐색적응성과"
+      "kubernetes",
+      "gemini",
+      "전자상거래가",
+      "프레임워크의"
     ]
   },
   "topic_scores": {
@@ -799,6 +802,9 @@
     "Syll: Open-Source Personal Automation with Cross-Surface Execution": 270,
     "Business World Model": 340,
     "Deployment-Time Memorization in Foundation-Model Agents": 274,
-    "Exploratory Responsiveness and Adaptive Rigidity under AI-Assisted Optimization": 281
+    "Exploratory Responsiveness and Adaptive Rigidity under AI-Assisted Optimization": 281,
+    "From Explicit Elements to Implicit Intent: A Predefined Library for Auditable Be": 346,
+    "Position: Hippocampal Explicit Memory Is the Cornerstone for AGI": 308,
+    "Can AI Agents Synthesize Scientific Conclusions?": 320
   }
 }
