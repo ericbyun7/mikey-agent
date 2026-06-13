@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-14T08:51:11.591564",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents",
-        "Macro-Action Based Multi-Agent Instruction Following through Value Cancellation",
-        "Do Androids Dream of Breaking the Game? Systematically Auditing AI Agent Benchma"
-      ],
-      "new_keywords": [
-        "correction",
-        "프레임워크로서",
-        "개발했습니다",
-        "개발하였습니다",
-        "mavic는",
-        "compliance",
-        "instruction",
-        "향상시켰지만",
-        "프레임워크는",
-        "возможности를"
-      ]
-    },
-    {
       "date": "2026-05-15T10:06:10.888655",
       "articles_collected": 10,
       "debates_run": 3,
@@ -645,6 +623,28 @@
         "재현성을优先하며",
         "semanticlean의"
       ]
+    },
+    {
+      "date": "2026-06-13T00:43:57.584660",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs",
+        "Arbor: Tree Search as a Cognition Layer for Autonomous Agents",
+        "Strategic Decision Support for AI Agents"
+      ],
+      "new_keywords": [
+        "프레임워크를",
+        "프레임워크는",
+        "발생하더라도",
+        "프레임워크입니다",
+        "arbor은",
+        "메커니즘으로",
+        "encoding하여",
+        "프레임워크로",
+        "프레임워크의",
+        "toolsense는"
+      ]
     }
   ],
   "keywords": {
@@ -663,26 +663,26 @@
       "AI art"
     ],
     "self_determined": [
-      "desarroll할",
-      "전략목표부터",
-      "sciconbench와",
-      "브라우저에서",
-      "sciconbench라는",
-      "라이브러리를",
-      "데이터셋에서",
-      "비즈니스에서",
-      "프레임워크로",
-      "pathosage라는",
-      "프레임워크를",
-      "스케줄などの",
-      "개발过程에서",
-      "워크플로우는",
       "상호작용하는지에",
+      "sciconbench와",
+      "발생하더라도",
+      "브라우저에서",
       "제안하였습니다",
-      "kubernetes",
       "gemini",
+      "arbor은",
+      "pathosage라는",
+      "encoding하여",
+      "프레임워크의",
+      "데이터셋에서",
+      "kubernetes",
+      "비즈니스에서",
+      "프레임워크를",
+      "프레임워크는",
+      "스케줄などの",
+      "워크플로우는",
       "전자상거래가",
-      "프레임워크의"
+      "전략목표부터",
+      "sciconbench라는"
     ]
   },
   "topic_scores": {
@@ -805,6 +805,9 @@
     "Exploratory Responsiveness and Adaptive Rigidity under AI-Assisted Optimization": 281,
     "From Explicit Elements to Implicit Intent: A Predefined Library for Auditable Be": 346,
     "Position: Hippocampal Explicit Memory Is the Cornerstone for AGI": 308,
-    "Can AI Agents Synthesize Scientific Conclusions?": 320
+    "Can AI Agents Synthesize Scientific Conclusions?": 320,
+    "ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs": 346,
+    "Arbor: Tree Search as a Cognition Layer for Autonomous Agents": 329,
+    "Strategic Decision Support for AI Agents": 250
   }
 }
