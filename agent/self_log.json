@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-15T10:06:10.888655",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration",
-        "Mixed Integer Goal Programming for Personalized Meal Optimization with User-Defi",
-        "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and"
-      ],
-      "new_keywords": [
-        "에이전트们의",
-        "수행하는지에",
-        "graphbit의",
-        "프레임워크로",
-        "integer",
-        "graphbit에서",
-        "프로그래밍을",
-        "프레임워크의",
-        "에이전트들은",
-        "프레임워크에서"
-      ]
-    },
-    {
       "date": "2026-05-16T07:56:31.274804",
       "articles_collected": 10,
       "debates_run": 3,
@@ -645,6 +623,23 @@
         "프레임워크의",
         "toolsense는"
       ]
+    },
+    {
+      "date": "2026-06-14T00:29:45.899011",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Show HN: I built 80 mini-games using Fable before it was shut down",
+        "Derbyshire Police officer accused of using AI to 'create evidence'",
+        "Human Routers of Machine Words"
+      ],
+      "new_keywords": [
+        "알려졌습니다",
+        "지지와协力を",
+        "의혹은警察의",
+        "제공함으로써",
+        "사용자들에게"
+      ]
     }
   ],
   "keywords": {
@@ -663,26 +658,26 @@
       "AI art"
     ],
     "self_determined": [
-      "상호작용하는지에",
-      "sciconbench와",
-      "발생하더라도",
-      "브라우저에서",
-      "제안하였습니다",
       "gemini",
+      "비즈니스에서",
+      "전자상거래가",
+      "지지와协力を",
+      "상호작용하는지에",
       "arbor은",
-      "pathosage라는",
+      "브라우저에서",
+      "의혹은警察의",
       "encoding하여",
+      "제공함으로써",
+      "사용자들에게",
+      "kubernetes",
+      "스케줄などの",
+      "알려졌습니다",
+      "프레임워크를",
+      "워크플로우는",
+      "발생하더라도",
       "프레임워크의",
       "데이터셋에서",
-      "kubernetes",
-      "비즈니스에서",
-      "프레임워크를",
-      "프레임워크는",
-      "스케줄などの",
-      "워크플로우는",
-      "전자상거래가",
-      "전략목표부터",
-      "sciconbench라는"
+      "제안하였습니다"
     ]
   },
   "topic_scores": {
@@ -808,6 +803,9 @@
     "Can AI Agents Synthesize Scientific Conclusions?": 320,
     "ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs": 346,
     "Arbor: Tree Search as a Cognition Layer for Autonomous Agents": 329,
-    "Strategic Decision Support for AI Agents": 250
+    "Strategic Decision Support for AI Agents": 250,
+    "Show HN: I built 80 mini-games using Fable before it was shut down": 239,
+    "Derbyshire Police officer accused of using AI to 'create evidence'": 288,
+    "Human Routers of Machine Words": 235
   }
 }
