@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-16T07:56:31.274804",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration",
-        "Mixed Integer Goal Programming for Personalized Meal Optimization with User-Defi",
-        "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and"
-      ],
-      "new_keywords": [
-        "프레임워크는",
-        "preocup에",
-        "오케스트레이션",
-        "프레임워크에서는",
-        "gemini와",
-        "관점만으로는",
-        "토폴로지라는",
-        "프레임워크들의",
-        "프레임워크들은",
-        "graphbit는"
-      ]
-    },
-    {
       "date": "2026-05-17T08:28:53.569925",
       "articles_collected": 10,
       "debates_run": 3,
@@ -640,6 +618,26 @@
         "제공함으로써",
         "사용자들에게"
       ]
+    },
+    {
+      "date": "2026-06-15T00:33:25.688544",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Your ePub Is Fine. Kobo Disagrees. Blame Adobe",
+        "What even is food authenticity? Why we guard carbonara, and flatten chicken rice",
+        "Stanford grads walk out on Google CEO Sundar Pichai speech"
+      ],
+      "new_keywords": [
+        "동남아시아의",
+        "물러났습니다",
+        "adobe에게",
+        "조성했습니다",
+        "adobe의",
+        "背后的文化적",
+        "카르보나라나",
+        "kobo에서"
+      ]
     }
   ],
   "keywords": {
@@ -658,26 +656,26 @@
       "AI art"
     ],
     "self_determined": [
-      "gemini",
-      "비즈니스에서",
-      "전자상거래가",
-      "지지와协力を",
-      "상호작용하는지에",
-      "arbor은",
-      "브라우저에서",
+      "워크플로우는",
+      "물러났습니다",
       "의혹은警察의",
       "encoding하여",
+      "조성했습니다",
+      "비즈니스에서",
+      "kobo에서",
+      "스케줄などの",
+      "gemini",
+      "브라우저에서",
+      "arbor은",
+      "adobe의",
+      "카르보나라나",
       "제공함으로써",
       "사용자들에게",
+      "제안하였습니다",
+      "동남아시아의",
       "kubernetes",
-      "스케줄などの",
-      "알려졌습니다",
       "프레임워크를",
-      "워크플로우는",
-      "발생하더라도",
-      "프레임워크의",
-      "데이터셋에서",
-      "제안하였습니다"
+      "발생하더라도"
     ]
   },
   "topic_scores": {
@@ -806,6 +804,9 @@
     "Strategic Decision Support for AI Agents": 250,
     "Show HN: I built 80 mini-games using Fable before it was shut down": 239,
     "Derbyshire Police officer accused of using AI to 'create evidence'": 288,
-    "Human Routers of Machine Words": 235
+    "Human Routers of Machine Words": 235,
+    "Your ePub Is Fine. Kobo Disagrees. Blame Adobe": 244,
+    "What even is food authenticity? Why we guard carbonara, and flatten chicken rice": 345,
+    "Stanford grads walk out on Google CEO Sundar Pichai speech": 320
   }
 }
