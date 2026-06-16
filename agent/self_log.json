@@ -1,26 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-17T08:28:53.569925",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Mozilla to UK regulators: VPNs are essential privacy and security tools",
-        "Tesla Solar Roof is on life support as it pivot to panels",
-        "Grafana Labs internal source code accessed"
-      ],
-      "new_keywords": [
-        "발생했습니다",
-        "grafana",
-        "주장했습니다",
-        "심화하는現狀에서",
-        "접근되었습니다",
-        "gemini",
-        "бизнес",
-        "error는"
-      ]
-    },
-    {
       "date": "2026-05-18T12:36:12.274277",
       "articles_collected": 10,
       "debates_run": 3,
@@ -638,6 +618,28 @@
         "카르보나라나",
         "kobo에서"
       ]
+    },
+    {
+      "date": "2026-06-16T00:54:10.884864",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "A Deep Reinforcement Learning (DRL)-Based Transformer Method for Solving the Ope",
+        "UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning with ",
+        "History of the Muddy Children Puzzle"
+      ],
+      "new_keywords": [
+        "problem",
+        "인스턴스에서",
+        "프레임워크는",
+        "트랜스포머를",
+        "timeout",
+        "프레임워크의",
+        "scheduling",
+        "개발하였습니다",
+        "공정ス케줄링",
+        "리인포스먼트"
+      ]
     }
   ],
   "keywords": {
@@ -656,26 +658,26 @@
       "AI art"
     ],
     "self_determined": [
-      "워크플로우는",
-      "물러났습니다",
-      "의혹은警察의",
+      "problem",
+      "kobo에서",
+      "사용자들에게",
       "encoding하여",
       "조성했습니다",
-      "비즈니스에서",
-      "kobo에서",
-      "스케줄などの",
-      "gemini",
-      "브라우저에서",
-      "arbor은",
-      "adobe의",
-      "카르보나라나",
-      "제공함으로써",
-      "사용자들에게",
       "제안하였습니다",
+      "발생하더라도",
+      "scheduling",
+      "개발하였습니다",
+      "브라우저에서",
       "동남아시아의",
-      "kubernetes",
+      "공정ス케줄링",
+      "물러났습니다",
+      "스케줄などの",
       "프레임워크를",
-      "발생하더라도"
+      "인스턴스에서",
+      "의혹은警察의",
+      "프레임워크는",
+      "kubernetes",
+      "트랜스포머를"
     ]
   },
   "topic_scores": {
@@ -807,6 +809,9 @@
     "Human Routers of Machine Words": 235,
     "Your ePub Is Fine. Kobo Disagrees. Blame Adobe": 244,
     "What even is food authenticity? Why we guard carbonara, and flatten chicken rice": 345,
-    "Stanford grads walk out on Google CEO Sundar Pichai speech": 320
+    "Stanford grads walk out on Google CEO Sundar Pichai speech": 320,
+    "A Deep Reinforcement Learning (DRL)-Based Transformer Method for Solving the Ope": 314,
+    "UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning with ": 317,
+    "History of the Muddy Children Puzzle": 229
   }
 }
