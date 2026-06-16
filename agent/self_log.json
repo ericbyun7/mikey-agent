@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-18T12:36:12.274277",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "DeepSlide: From Artifacts to Presentation Delivery",
-        "SDOF: Taming the Alignment Tax in Multi-Agent Orchestration with State-Constrain",
-        "Does Theory of Mind Improvement Really Benefit Human-AI Interactions? Empirical "
-      ],
-      "new_keywords": [
-        "프레젠테이션",
-        "중요한发现입니다",
-        "stateawaredispatcher",
-        "프레임워크의",
-        "hành하여",
-        "시스템입니다",
-        "프레임워크로",
-        "router",
-        "프로세스에서",
-        "커뮤니케이션을"
-      ]
-    },
-    {
       "date": "2026-05-19T11:20:00.863224",
       "articles_collected": 10,
       "debates_run": 3,
@@ -640,6 +618,28 @@
         "공정ス케줄링",
         "리인포스먼트"
       ]
+    },
+    {
+      "date": "2026-06-16T02:11:28.783544",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "A Deep Reinforcement Learning (DRL)-Based Transformer Method for Solving the Ope",
+        "UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning with ",
+        "History of the Muddy Children Puzzle"
+      ],
+      "new_keywords": [
+        "사용자满意도를",
+        "퍼즐을介绍한다",
+        "children",
+        "problem",
+        "reinforcement",
+        "transformer",
+        "대규모问题에",
+        "policy",
+        "portrait",
+        "taillard"
+      ]
     }
   ],
   "keywords": {
@@ -658,26 +658,26 @@
       "AI art"
     ],
     "self_determined": [
-      "problem",
-      "kobo에서",
-      "사용자들에게",
+      "사용자满意도를",
       "encoding하여",
-      "조성했습니다",
-      "제안하였습니다",
-      "발생하더라도",
-      "scheduling",
-      "개발하였습니다",
-      "브라우저에서",
-      "동남아시아의",
       "공정ス케줄링",
-      "물러났습니다",
+      "problem",
+      "발생하더라도",
+      "조성했습니다",
+      "트랜스포머를",
+      "대규모问题에",
       "스케줄などの",
       "프레임워크를",
-      "인스턴스에서",
-      "의혹은警察의",
+      "portrait",
       "프레임워크는",
-      "kubernetes",
-      "트랜스포머를"
+      "개발하였습니다",
+      "퍼즐을介绍한다",
+      "사용자들에게",
+      "children",
+      "제안하였습니다",
+      "브라우저에서",
+      "reinforcement",
+      "물러났습니다"
     ]
   },
   "topic_scores": {
@@ -810,8 +810,8 @@
     "Your ePub Is Fine. Kobo Disagrees. Blame Adobe": 244,
     "What even is food authenticity? Why we guard carbonara, and flatten chicken rice": 345,
     "Stanford grads walk out on Google CEO Sundar Pichai speech": 320,
-    "A Deep Reinforcement Learning (DRL)-Based Transformer Method for Solving the Ope": 314,
-    "UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning with ": 317,
-    "History of the Muddy Children Puzzle": 229
+    "A Deep Reinforcement Learning (DRL)-Based Transformer Method for Solving the Ope": 361,
+    "UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning with ": 320,
+    "History of the Muddy Children Puzzle": 237
   }
 }
