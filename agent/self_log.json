@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-19T11:20:00.863224",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "AgentWall: A Runtime Safety Layer for Local AI Agents",
-        "ANNEAL: Adapting LLM Agents via Governed Symbolic Patch Learning",
-        "From Prompts to Protocols: An AI Agent for Laboratory Automation"
-      ],
-      "new_keywords": [
-        "오케스트레이션을",
-        "성능을提高하는",
-        "바람직합니다",
-        "소프트웨어를",
-        "업데이트하는",
-        "anneal은",
-        "anneal",
-        "하이퍼파라미터",
-        "에이전트입니다",
-        "효율적으로進行할"
-      ]
-    },
-    {
       "date": "2026-05-20T11:05:18.325344",
       "articles_collected": 10,
       "debates_run": 3,
@@ -640,6 +618,24 @@
         "portrait",
         "taillard"
       ]
+    },
+    {
+      "date": "2026-06-17T00:40:33.286332",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "A Definition of Good Explanations and the Challenges Explaining LLM Outputs",
+        "Dr-DCI: Scaling Direct Corpus Interaction via Dynamic Workspace Expansion",
+        "Relational Structural Causal Models"
+      ],
+      "new_keywords": [
+        "interaction",
+        "محدود점을",
+        "dci방식을",
+        "corpus",
+        "explanation",
+        "direct"
+      ]
     }
   ],
   "keywords": {
@@ -658,26 +654,26 @@
       "AI art"
     ],
     "self_determined": [
-      "사용자满意도를",
-      "encoding하여",
-      "공정ス케줄링",
-      "problem",
-      "발생하더라도",
-      "조성했습니다",
-      "트랜스포머를",
-      "대규모问题에",
-      "스케줄などの",
-      "프레임워크를",
-      "portrait",
-      "프레임워크는",
-      "개발하였습니다",
-      "퍼즐을介绍한다",
       "사용자들에게",
+      "물러났습니다",
+      "공정ス케줄링",
+      "interaction",
+      "encoding하여",
+      "스케줄などの",
+      "dci방식을",
+      "브라우저에서",
       "children",
       "제안하였습니다",
-      "브라우저에서",
-      "reinforcement",
-      "물러났습니다"
+      "problem",
+      "direct",
+      "발생하더라도",
+      "트랜스포머를",
+      "개발하였습니다",
+      "portrait",
+      "대규모问题에",
+      "محدود점을",
+      "사용자满意도를",
+      "corpus"
     ]
   },
   "topic_scores": {
@@ -812,6 +808,9 @@
     "Stanford grads walk out on Google CEO Sundar Pichai speech": 320,
     "A Deep Reinforcement Learning (DRL)-Based Transformer Method for Solving the Ope": 361,
     "UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning with ": 320,
-    "History of the Muddy Children Puzzle": 237
+    "History of the Muddy Children Puzzle": 237,
+    "A Definition of Good Explanations and the Challenges Explaining LLM Outputs": 270,
+    "Dr-DCI: Scaling Direct Corpus Interaction via Dynamic Workspace Expansion": 335,
+    "Relational Structural Causal Models": 299
   }
 }
