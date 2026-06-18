@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-20T11:05:18.325344",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects",
-        "Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipeli",
-        "Evaluating the Utility of Personal Health Records in Personalized Health AI"
-      ],
-      "new_keywords": [
-        "language",
-        "가이드라인을",
-        "records",
-        "프로세스를简化하고",
-        "평가했습니다",
-        "제공함으로써",
-        "health",
-        "사용자들에게",
-        "개선함으로써",
-        "결정하는지에"
-      ]
-    },
-    {
       "date": "2026-05-21T11:24:21.235928",
       "articles_collected": 10,
       "debates_run": 3,
@@ -636,6 +614,28 @@
         "explanation",
         "direct"
       ]
+    },
+    {
+      "date": "2026-06-18T00:38:53.604148",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search",
+        "When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval",
+        "SkillChain-Gym: A Benchmark for Reskilling-Aware Production-Inventory Control un"
+      ],
+      "new_keywords": [
+        "다변화함으로써",
+        "고려함으로써",
+        "프레임워크는",
+        "테스트베드로서의",
+        "테스트베드는",
+        "재고관리에서",
+        "벤치마크에서는",
+        "divinit",
+        "verbess할",
+        "지원함으로써"
+      ]
     }
   ],
   "keywords": {
@@ -654,26 +654,26 @@
       "AI art"
     ],
     "self_determined": [
-      "사용자들에게",
-      "물러났습니다",
-      "공정ス케줄링",
-      "interaction",
-      "encoding하여",
-      "스케줄などの",
-      "dci방식을",
-      "브라우저에서",
-      "children",
-      "제안하였습니다",
-      "problem",
+      "다변화함으로써",
       "direct",
-      "발생하더라도",
-      "트랜스포머를",
-      "개발하였습니다",
+      "제안하였습니다",
+      "재고관리에서",
+      "problem",
       "portrait",
-      "대규모问题에",
-      "محدود점을",
+      "encoding하여",
+      "트랜스포머를",
       "사용자满意도를",
-      "corpus"
+      "divinit",
+      "verbess할",
+      "개발하였습니다",
+      "대규모问题에",
+      "고려함으로써",
+      "프레임워크는",
+      "interaction",
+      "테스트베드로서의",
+      "corpus",
+      "발생하더라도",
+      "브라우저에서"
     ]
   },
   "topic_scores": {
@@ -811,6 +811,9 @@
     "History of the Muddy Children Puzzle": 237,
     "A Definition of Good Explanations and the Challenges Explaining LLM Outputs": 270,
     "Dr-DCI: Scaling Direct Corpus Interaction via Dynamic Workspace Expansion": 335,
-    "Relational Structural Causal Models": 299
+    "Relational Structural Causal Models": 299,
+    "Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search": 276,
+    "When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval": 300,
+    "SkillChain-Gym: A Benchmark for Reskilling-Aware Production-Inventory Control un": 317
   }
 }
