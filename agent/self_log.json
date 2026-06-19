@@ -1,25 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-21T11:24:21.235928",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects",
-        "Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipeli",
-        "Evaluating the Utility of Personal Health Records in Personalized Health AI"
-      ],
-      "new_keywords": [
-        "평가했습니다",
-        "language",
-        "파이프라인을",
-        "health",
-        "records",
-        "아키텍처이다",
-        "personal"
-      ]
-    },
-    {
       "date": "2026-05-22T11:04:36.267367",
       "articles_collected": 10,
       "debates_run": 3,
@@ -636,6 +617,27 @@
         "verbess할",
         "지원함으로써"
       ]
+    },
+    {
+      "date": "2026-06-19T00:50:27.319241",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "NAVI-Orbital: First In-Orbit Demonstration of a Zero-Shot Vision-Language Model ",
+        "CaVe-VLM-CoT: An Interpretable Vision-Language Model Framework",
+        "Searching for Synergy in Shared Workspace Human-AI Collaboration"
+      ],
+      "new_keywords": [
+        "인공위성에서",
+        "업데이트되고",
+        "프레임워크로",
+        "성공했습니다",
+        "프레임워크입니다",
+        "향상시키는지",
+        "injector",
+        "파이프라인을",
+        "이어지는지를"
+      ]
     }
   ],
   "keywords": {
@@ -654,26 +656,26 @@
       "AI art"
     ],
     "self_determined": [
-      "다변화함으로써",
       "direct",
-      "제안하였습니다",
-      "재고관리에서",
-      "problem",
-      "portrait",
-      "encoding하여",
-      "트랜스포머를",
-      "사용자满意도를",
-      "divinit",
-      "verbess할",
       "개발하였습니다",
-      "대규모问题에",
-      "고려함으로써",
-      "프레임워크는",
-      "interaction",
-      "테스트베드로서의",
-      "corpus",
+      "인공위성에서",
       "발생하더라도",
-      "브라우저에서"
+      "corpus",
+      "프레임워크로",
+      "대규모问题에",
+      "verbess할",
+      "interaction",
+      "성공했습니다",
+      "사용자满意도를",
+      "제안하였습니다",
+      "portrait",
+      "프레임워크입니다",
+      "divinit",
+      "problem",
+      "파이프라인을",
+      "테스트베드로서의",
+      "이어지는지를",
+      "고려함으로써"
     ]
   },
   "topic_scores": {
@@ -814,6 +816,9 @@
     "Relational Structural Causal Models": 299,
     "Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search": 276,
     "When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval": 300,
-    "SkillChain-Gym: A Benchmark for Reskilling-Aware Production-Inventory Control un": 317
+    "SkillChain-Gym: A Benchmark for Reskilling-Aware Production-Inventory Control un": 317,
+    "NAVI-Orbital: First In-Orbit Demonstration of a Zero-Shot Vision-Language Model ": 287,
+    "CaVe-VLM-CoT: An Interpretable Vision-Language Model Framework": 342,
+    "Searching for Synergy in Shared Workspace Human-AI Collaboration": 209
   }
 }
