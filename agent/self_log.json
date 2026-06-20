@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-22T11:04:36.267367",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "SOLAR: A Self-Optimizing Open-Ended Autonomous Agent for Lifelong Learning and C",
-        "Tool-Augmented Agent for Closed-loop Optimization,Simulation,and Modeling Orches",
-        "OSCToM: RL-Guided Adversarial Generation for High-Order Theory of Mind"
-      ],
-      "new_keywords": [
-        "engineering",
-        "solar에",
-        "프레임워크가",
-        "처리분야에서는",
-        "theory",
-        "발생하였지만",
-        "osctom",
-        "solar이",
-        "일반화되는지",
-        "프레임워크는"
-      ]
-    },
-    {
       "date": "2026-05-23T08:25:34.220607",
       "articles_collected": 10,
       "debates_run": 3,
@@ -638,6 +616,25 @@
         "파이프라인을",
         "이어지는지를"
       ]
+    },
+    {
+      "date": "2026-06-20T00:31:45.629033",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Deontic Policies for Runtime Governance of Agentic AI Systems",
+        "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitiv",
+        "Diffusion Language Models: An Experimental Analysis"
+      ],
+      "new_keywords": [
+        "models",
+        "시퀀스를병렬로",
+        "가져왔습니다",
+        "제어만으로는",
+        "매우重要합니다",
+        "language",
+        "하이퍼파라미터가"
+      ]
     }
   ],
   "keywords": {
@@ -656,26 +653,26 @@
       "AI art"
     ],
     "self_determined": [
-      "direct",
-      "개발하였습니다",
-      "인공위성에서",
-      "발생하더라도",
-      "corpus",
-      "프레임워크로",
-      "대규모问题에",
-      "verbess할",
       "interaction",
-      "성공했습니다",
-      "사용자满意도를",
-      "제안하였습니다",
-      "portrait",
-      "프레임워크입니다",
-      "divinit",
-      "problem",
+      "direct",
+      "대규모问题에",
+      "제어만으로는",
+      "발생하더라도",
+      "고려함으로써",
       "파이프라인을",
+      "divinit",
+      "verbess할",
+      "프레임워크로",
+      "사용자满意도를",
+      "개발하였습니다",
+      "하이퍼파라미터가",
+      "models",
+      "시퀀스를병렬로",
+      "가져왔습니다",
+      "problem",
+      "성공했습니다",
       "테스트베드로서의",
-      "이어지는지를",
-      "고려함으로써"
+      "portrait"
     ]
   },
   "topic_scores": {
@@ -819,6 +816,9 @@
     "SkillChain-Gym: A Benchmark for Reskilling-Aware Production-Inventory Control un": 317,
     "NAVI-Orbital: First In-Orbit Demonstration of a Zero-Shot Vision-Language Model ": 287,
     "CaVe-VLM-CoT: An Interpretable Vision-Language Model Framework": 342,
-    "Searching for Synergy in Shared Workspace Human-AI Collaboration": 209
+    "Searching for Synergy in Shared Workspace Human-AI Collaboration": 209,
+    "Deontic Policies for Runtime Governance of Agentic AI Systems": 237,
+    "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitiv": 244,
+    "Diffusion Language Models: An Experimental Analysis": 241
   }
 }
