@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-23T08:25:34.220607",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Spanish Court Declines to Fine NordVPN over LaLiga Piracy Blocking Order",
-        "FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack",
-        "Sleep research led to a new sleep apnea drug"
-      ],
-      "new_keywords": [
-        "laliga가",
-        "이어졌습니다",
-        "반응이었으며",
-        "laliga의",
-        "수면무호흡증으로",
-        "판결했습니다",
-        "clickfix",
-        "nordvpn에",
-        "nordvpn이",
-        "발견되었습니다"
-      ]
-    },
-    {
       "date": "2026-05-24T00:20:02.597163",
       "articles_collected": 10,
       "debates_run": 3,
@@ -635,6 +613,28 @@
         "language",
         "하이퍼파라미터가"
       ]
+    },
+    {
+      "date": "2026-06-21T00:29:54.431508",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Deontic Policies for Runtime Governance of Agentic AI Systems",
+        "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitiv",
+        "Diffusion Language Models: An Experimental Analysis"
+      ],
+      "new_keywords": [
+        "적용되었습니다",
+        "소프트웨어를",
+        "models",
+        "prediction",
+        "하이퍼파라미터",
+        "제안되었지만",
+        "diffusion",
+        "패러다임으로",
+        "패러다임으로서",
+        "오토레그레시브"
+      ]
     }
   ],
   "keywords": {
@@ -653,26 +653,26 @@
       "AI art"
     ],
     "self_determined": [
-      "interaction",
-      "direct",
-      "대규모问题에",
-      "제어만으로는",
-      "발생하더라도",
-      "고려함으로써",
-      "파이프라인을",
-      "divinit",
-      "verbess할",
-      "프레임워크로",
-      "사용자满意도를",
-      "개발하였습니다",
-      "하이퍼파라미터가",
+      "적용되었습니다",
       "models",
+      "소프트웨어를",
+      "제안되었지만",
       "시퀀스를병렬로",
-      "가져왔습니다",
-      "problem",
-      "성공했습니다",
+      "divinit",
+      "프레임워크로",
+      "verbess할",
+      "패러다임으로",
+      "오토레그레시브",
       "테스트베드로서의",
-      "portrait"
+      "고려함으로써",
+      "portrait",
+      "대규모问题에",
+      "개발하였습니다",
+      "interaction",
+      "prediction",
+      "problem",
+      "사용자满意도를",
+      "하이퍼파라미터가"
     ]
   },
   "topic_scores": {
@@ -817,8 +817,8 @@
     "NAVI-Orbital: First In-Orbit Demonstration of a Zero-Shot Vision-Language Model ": 287,
     "CaVe-VLM-CoT: An Interpretable Vision-Language Model Framework": 342,
     "Searching for Synergy in Shared Workspace Human-AI Collaboration": 209,
-    "Deontic Policies for Runtime Governance of Agentic AI Systems": 237,
-    "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitiv": 244,
-    "Diffusion Language Models: An Experimental Analysis": 241
+    "Deontic Policies for Runtime Governance of Agentic AI Systems": 249,
+    "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitiv": 290,
+    "Diffusion Language Models: An Experimental Analysis": 289
   }
 }
