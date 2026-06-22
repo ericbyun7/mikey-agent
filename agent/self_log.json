@@ -1,26 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-24T00:20:02.597163",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "My I3-Emacs Integration",
-        "Bun.Image",
-        "Don't Roll Your Own"
-      ],
-      "new_keywords": [
-        "emacs는",
-        "개발자들에게",
-        "gemini",
-        "사용자들에게",
-        "인사이트입니다",
-        "편집기입니다",
-        "emacs를",
-        "인사이트와는"
-      ]
-    },
-    {
       "date": "2026-05-25T00:22:41.954478",
       "articles_collected": 10,
       "debates_run": 3,
@@ -635,6 +615,28 @@
         "패러다임으로서",
         "오토레그레시브"
       ]
+    },
+    {
+      "date": "2026-06-22T00:34:29.358790",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Simple hard way to conjugate Japanese verbs",
+        "I Gave an AI a Civilization to Run. It Built a Nuke – Launching CivBench",
+        "Did my old job only exist because of fraud?"
+      ],
+      "new_keywords": [
+        "japanese어",
+        "수행되었으며",
+        "행동하는지에",
+        "일치하는지에",
+        "업무의의미에",
+        "이러한疑問은",
+        "인사이트에서",
+        "japonese어",
+        "japon語",
+        "japan어"
+      ]
     }
   ],
   "keywords": {
@@ -653,26 +655,26 @@
       "AI art"
     ],
     "self_determined": [
-      "적용되었습니다",
-      "models",
-      "소프트웨어를",
-      "제안되었지만",
       "시퀀스를병렬로",
-      "divinit",
-      "프레임워크로",
-      "verbess할",
+      "수행되었으며",
+      "일치하는지에",
       "패러다임으로",
-      "오토레그레시브",
-      "테스트베드로서의",
-      "고려함으로써",
-      "portrait",
-      "대규모问题에",
-      "개발하였습니다",
+      "업무의의미에",
       "interaction",
-      "prediction",
-      "problem",
+      "하이퍼파라미터가",
       "사용자满意도를",
-      "하이퍼파라미터가"
+      "problem",
+      "prediction",
+      "portrait",
+      "japonese어",
+      "japon語",
+      "japan어",
+      "테스트베드로서의",
+      "제안되었지만",
+      "divinit",
+      "japanese어",
+      "고려함으로써",
+      "행동하는지에"
     ]
   },
   "topic_scores": {
@@ -819,6 +821,9 @@
     "Searching for Synergy in Shared Workspace Human-AI Collaboration": 209,
     "Deontic Policies for Runtime Governance of Agentic AI Systems": 249,
     "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitiv": 290,
-    "Diffusion Language Models: An Experimental Analysis": 289
+    "Diffusion Language Models: An Experimental Analysis": 289,
+    "Simple hard way to conjugate Japanese verbs": 291,
+    "I Gave an AI a Civilization to Run. It Built a Nuke – Launching CivBench": 314,
+    "Did my old job only exist because of fraud?": 265
   }
 }
