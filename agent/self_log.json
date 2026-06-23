@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-25T00:22:41.954478",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "CBP Directive 3340-049B: Border Search of Electronic Devices",
-        "A fundamental principle of aeronautical engineering has been overturned",
-        "Australia Four-Day Work Week Study Data Shows Boosted Productivity"
-      ],
-      "new_keywords": [
-        "일관형과生产성을",
-        "국토안보부의",
-        "발표되었습니다",
-        "뒤집어졌으며",
-        "고려하면서도",
-        "검색을进行할",
-        "향상되었다는",
-        "유지하면서도",
-        "생산성을提高시키는",
-        "확인되었습니다"
-      ]
-    },
-    {
       "date": "2026-05-26T00:27:43.748847",
       "articles_collected": 10,
       "debates_run": 3,
@@ -637,6 +615,28 @@
         "japon語",
         "japan어"
       ]
+    },
+    {
+      "date": "2026-06-23T00:33:26.197143",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "ytr: YouTube Radio for Emacs",
+        "Unsloth GLM-5.2 – How to Run Locally",
+        "Kyber (YC W23) Is Hiring a Head of Engineering"
+      ],
+      "new_keywords": [
+        "kyber에서",
+        "증가시킵니다",
+        "gemini",
+        "emacs용으로",
+        "timeout",
+        "kyber의",
+        "일시적이거나",
+        "사용자들에게",
+        "winter",
+        "exceeded"
+      ]
     }
   ],
   "keywords": {
@@ -655,26 +655,26 @@
       "AI art"
     ],
     "self_determined": [
-      "시퀀스를병렬로",
-      "수행되었으며",
-      "일치하는지에",
-      "패러다임으로",
-      "업무의의미에",
-      "interaction",
-      "하이퍼파라미터가",
       "사용자满意도를",
-      "problem",
-      "prediction",
-      "portrait",
-      "japonese어",
-      "japon語",
       "japan어",
-      "테스트베드로서의",
+      "interaction",
+      "kyber에서",
       "제안되었지만",
-      "divinit",
-      "japanese어",
+      "업무의의미에",
+      "수행되었으며",
+      "증가시킵니다",
+      "행동하는지에",
+      "portrait",
+      "gemini",
+      "테스트베드로서의",
+      "prediction",
       "고려함으로써",
-      "행동하는지에"
+      "일치하는지에",
+      "emacs용으로",
+      "timeout",
+      "divinit",
+      "시퀀스를병렬로",
+      "kyber의"
     ]
   },
   "topic_scores": {
@@ -824,6 +824,9 @@
     "Diffusion Language Models: An Experimental Analysis": 289,
     "Simple hard way to conjugate Japanese verbs": 291,
     "I Gave an AI a Civilization to Run. It Built a Nuke – Launching CivBench": 314,
-    "Did my old job only exist because of fraud?": 265
+    "Did my old job only exist because of fraud?": 265,
+    "ytr: YouTube Radio for Emacs": 247,
+    "Unsloth GLM-5.2 – How to Run Locally": 323,
+    "Kyber (YC W23) Is Hiring a Head of Engineering": 272
   }
 }
