@@ -1,26 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-26T00:27:43.748847",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems",
-        "NeuroNL2LTL: A Neurosymbolic Framework for Natural Language Translation of Linea",
-        "RMA: an Agentic System for Research-Level Mathematical Problems"
-      ],
-      "new_keywords": [
-        "검증하면서도",
-        "프레임워크로서",
-        "프레임워크인",
-        "프레임워크는",
-        "추출함으로써",
-        "오케스트레이터로",
-        "해결함으로써",
-        "프레임워크의"
-      ]
-    },
-    {
       "date": "2026-05-27T00:27:56.226937",
       "articles_collected": 10,
       "debates_run": 3,
@@ -637,6 +617,27 @@
         "winter",
         "exceeded"
       ]
+    },
+    {
+      "date": "2026-06-24T00:19:18.200802",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "California AB 2047 makes 3D printers off-limits to students, educators, business",
+        "United Wizards of the Coast recognized by NLRB",
+        "ATProto Permissioned Data Proposal Draft"
+      ],
+      "new_keywords": [
+        "본질적으로는",
+        "인정받았다는",
+        "proposal",
+        "wizards",
+        "제한함으로써",
+        "permissioned",
+        "доступ과",
+        "atproto",
+        "draft는"
+      ]
     }
   ],
   "keywords": {
@@ -655,26 +656,26 @@
       "AI art"
     ],
     "self_determined": [
-      "사용자满意도를",
-      "japan어",
-      "interaction",
-      "kyber에서",
-      "제안되었지만",
-      "업무의의미에",
-      "수행되었으며",
-      "증가시킵니다",
-      "행동하는지에",
-      "portrait",
       "gemini",
-      "테스트베드로서의",
-      "prediction",
-      "고려함으로써",
-      "일치하는지에",
-      "emacs용으로",
-      "timeout",
-      "divinit",
+      "본질적으로는",
+      "proposal",
       "시퀀스를병렬로",
-      "kyber의"
+      "wizards",
+      "고려함으로써",
+      "업무의의미에",
+      "일치하는지에",
+      "수행되었으며",
+      "divinit",
+      "permissioned",
+      "доступ과",
+      "atproto",
+      "prediction",
+      "kyber의",
+      "사용자满意도를",
+      "interaction",
+      "인정받았다는",
+      "증가시킵니다",
+      "테스트베드로서의"
     ]
   },
   "topic_scores": {
@@ -827,6 +828,9 @@
     "Did my old job only exist because of fraud?": 265,
     "ytr: YouTube Radio for Emacs": 247,
     "Unsloth GLM-5.2 – How to Run Locally": 323,
-    "Kyber (YC W23) Is Hiring a Head of Engineering": 272
+    "Kyber (YC W23) Is Hiring a Head of Engineering": 272,
+    "California AB 2047 makes 3D printers off-limits to students, educators, business": 227,
+    "United Wizards of the Coast recognized by NLRB": 258,
+    "ATProto Permissioned Data Proposal Draft": 307
   }
 }
