@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-27T00:27:56.226937",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "In Search of the Ingredients of Open-Endedness: Replicating Picbreeder with Larg",
-        "Confidence Calibration in Large Language Models",
-        "How Much Thinking is Enough? Quantifying and Understanding Redundancy in LLM Rea"
-      ],
-      "new_keywords": [
-        "lifeeval을",
-        "생성可能性을",
-        "발견되었습니다",
-        "picbreeder",
-        "개발되었습니다",
-        "테스트에서는",
-        "맡으며自動화되는",
-        "인공지능이人类와",
-        "lifeeval이",
-        "lifeeval의"
-      ]
-    },
-    {
       "date": "2026-05-28T00:24:57.441438",
       "articles_collected": 10,
       "debates_run": 3,
@@ -638,6 +616,28 @@
         "atproto",
         "draft는"
       ]
+    },
+    {
+      "date": "2026-06-25T00:29:33.073471",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
+        "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
+        "Critique of Agent Model"
+      ],
+      "new_keywords": [
+        "llm弱点을",
+        "language",
+        "제시하였습니다",
+        "기술을활용하여",
+        "대한透明성과",
+        "필수적입니다",
+        "프레임워크의",
+        "recent",
+        "향상시킵니다",
+        "프레임워크는"
+      ]
     }
   ],
   "keywords": {
@@ -656,26 +656,26 @@
       "AI art"
     ],
     "self_determined": [
-      "gemini",
-      "본질적으로는",
-      "proposal",
-      "시퀀스를병렬로",
-      "wizards",
-      "고려함으로써",
       "업무의의미에",
+      "kyber의",
+      "language",
+      "사용자满意도를",
+      "시퀀스를병렬로",
+      "대한透明성과",
+      "기술을활용하여",
+      "필수적입니다",
+      "proposal",
       "일치하는지에",
       "수행되었으며",
-      "divinit",
-      "permissioned",
-      "доступ과",
-      "atproto",
       "prediction",
-      "kyber의",
-      "사용자满意도를",
+      "향상시킵니다",
+      "프레임워크는",
+      "доступ과",
+      "본질적으로는",
+      "atproto",
+      "llm弱点을",
       "interaction",
-      "인정받았다는",
-      "증가시킵니다",
-      "테스트베드로서의"
+      "divinit"
     ]
   },
   "topic_scores": {
@@ -831,6 +831,9 @@
     "Kyber (YC W23) Is Hiring a Head of Engineering": 272,
     "California AB 2047 makes 3D printers off-limits to students, educators, business": 227,
     "United Wizards of the Coast recognized by NLRB": 258,
-    "ATProto Permissioned Data Proposal Draft": 307
+    "ATProto Permissioned Data Proposal Draft": 307,
+    "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems": 257,
+    "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs": 298,
+    "Critique of Agent Model": 239
   }
 }
