@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-28T00:24:57.441438",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "BrickAnything: Geometry-Conditioned Buildable Brick Generation with Structure-Aw",
-        "Can LLMs Introspect? A Reality Check",
-        "Is Agent Memory a Database? Rethinking Data Foundations for Long-Term AI Agent M"
-      ],
-      "new_keywords": [
-        "방법론입니다",
-        "결합되어야만",
-        "quyết정을",
-        "brickanything는",
-        "데이터베이스와",
-        "인터페이스를",
-        "감지하고報告하는",
-        "정의함으로써",
-        "더全面적으로",
-        "감지하고報告할"
-      ]
-    },
-    {
       "date": "2026-05-29T00:34:10.893911",
       "articles_collected": 10,
       "debates_run": 3,
@@ -638,6 +616,28 @@
         "향상시킵니다",
         "프레임워크는"
       ]
+    },
+    {
+      "date": "2026-06-26T00:34:54.911611",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
+        "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
+        "Critique of Agent Model"
+      ],
+      "new_keywords": [
+        "automation과",
+        "drive는",
+        "domaine에",
+        "society에",
+        "sistema의",
+        "정확성을提高하는",
+        "sistema를统一적으로",
+        "정의가必要하며",
+        "필수적입니다",
+        "semenantics가"
+      ]
     }
   ],
   "keywords": {
@@ -656,26 +656,26 @@
       "AI art"
     ],
     "self_determined": [
-      "업무의의미에",
-      "kyber의",
-      "language",
-      "사용자满意도를",
-      "시퀀스를병렬로",
-      "대한透明성과",
-      "기술을활용하여",
-      "필수적입니다",
-      "proposal",
-      "일치하는지에",
+      "atproto",
+      "automation과",
       "수행되었으며",
       "prediction",
-      "향상시킵니다",
-      "프레임워크는",
       "доступ과",
-      "본질적으로는",
-      "atproto",
+      "프레임워크는",
+      "drive는",
+      "기술을활용하여",
+      "sistema의",
+      "정확성을提高하는",
+      "sistema를统一적으로",
+      "시퀀스를병렬로",
+      "semenantics가",
       "llm弱点을",
       "interaction",
-      "divinit"
+      "업무의의미에",
+      "kyber의",
+      "divinit",
+      "사용자满意도를",
+      "proposal"
     ]
   },
   "topic_scores": {
@@ -832,8 +832,8 @@
     "California AB 2047 makes 3D printers off-limits to students, educators, business": 227,
     "United Wizards of the Coast recognized by NLRB": 258,
     "ATProto Permissioned Data Proposal Draft": 307,
-    "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems": 257,
-    "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs": 298,
-    "Critique of Agent Model": 239
+    "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems": 345,
+    "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs": 341,
+    "Critique of Agent Model": 280
   }
 }
