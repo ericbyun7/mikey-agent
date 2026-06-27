@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-29T00:34:10.893911",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Identifying and Understanding Human Values in Text: A Tailorable LLM-based Archi",
-        "Soro: A Lightweight Foundation Model and Chatbot for Tajik",
-        "On the Origin of Synthetic Information by Means of Steganographic Inheritance"
-      ],
-      "new_keywords": [
-        "제안하였으며",
-        "soro는gemaa",
-        "방식으로人类와",
-        "ekonomi와",
-        "제안하였습니다",
-        "체크포인트를",
-        "프레임워크의",
-        "timeout",
-        "프레임워크를",
-        "타지키스탄과"
-      ]
-    },
-    {
       "date": "2026-05-30T00:32:42.666882",
       "articles_collected": 10,
       "debates_run": 3,
@@ -638,6 +616,28 @@
         "필수적입니다",
         "semenantics가"
       ]
+    },
+    {
+      "date": "2026-06-27T00:26:19.449760",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Detecting and Controlling Sycophancy with Cascading Linear Features",
+        "Life After Benchmark Saturation: A Case Study of CORE-Bench",
+        "Refusal Lives Downstream of Persona in Chat Models"
+      ],
+      "new_keywords": [
+        "상호작용하는",
+        "감소하였으며",
+        "밝혀졌습니다",
+        "hard라는",
+        "프레임워크이기",
+        "프레임워크의",
+        "나타나는지를",
+        "phá하였으며",
+        "refusal과",
+        "responsibility"
+      ]
     }
   ],
   "keywords": {
@@ -656,26 +656,26 @@
       "AI art"
     ],
     "self_determined": [
-      "atproto",
-      "automation과",
-      "수행되었으며",
-      "prediction",
-      "доступ과",
-      "프레임워크는",
-      "drive는",
-      "기술을활용하여",
-      "sistema의",
-      "정확성을提高하는",
-      "sistema를统一적으로",
-      "시퀀스를병렬로",
       "semenantics가",
-      "llm弱点을",
+      "상호작용하는",
+      "감소하였으며",
       "interaction",
+      "수행되었으며",
+      "나타나는지를",
+      "프레임워크의",
       "업무의의미에",
-      "kyber의",
       "divinit",
-      "사용자满意도를",
-      "proposal"
+      "atproto",
+      "kyber의",
+      "responsibility",
+      "hard라는",
+      "프레임워크는",
+      "밝혀졌습니다",
+      "시퀀스를병렬로",
+      "доступ과",
+      "프레임워크이기",
+      "prediction",
+      "정확성을提高하는"
     ]
   },
   "topic_scores": {
@@ -834,6 +834,9 @@
     "ATProto Permissioned Data Proposal Draft": 307,
     "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems": 345,
     "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs": 341,
-    "Critique of Agent Model": 280
+    "Critique of Agent Model": 280,
+    "Detecting and Controlling Sycophancy with Cascading Linear Features": 251,
+    "Life After Benchmark Saturation: A Case Study of CORE-Bench": 280,
+    "Refusal Lives Downstream of Persona in Chat Models": 302
   }
 }
