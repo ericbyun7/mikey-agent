@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-30T00:32:42.666882",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Behavior-Induced Mirror-Prox Temporal-Difference Learning for Faster Off-Policy ",
-        "Behavior-Aware Auxiliary Corrections for Off-Policy Temporal-Difference Predicti",
-        "The Cognitive Categorical Transformer: Category-Theoretic Inductive Biases for L"
-      ],
-      "new_keywords": [
-        "데이터셋에서",
-        "metric에",
-        "퍼플렉스에서",
-        "categorical",
-        "결정되는幾何学적",
-        "향상시킵니다",
-        "아키텍처이다",
-        "하이퍼파라미터를",
-        "covariance",
-        "불안정해지는"
-      ]
-    },
-    {
       "date": "2026-05-31T00:24:18.880421",
       "articles_collected": 10,
       "debates_run": 3,
@@ -638,6 +616,24 @@
         "refusal과",
         "responsibility"
       ]
+    },
+    {
+      "date": "2026-06-28T00:25:33.572502",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Detecting and Controlling Sycophancy with Cascading Linear Features",
+        "Life After Benchmark Saturation: A Case Study of CORE-Bench",
+        "Refusal Lives Downstream of Persona in Chat Models"
+      ],
+      "new_keywords": [
+        "각각에干预를",
+        "hard라는",
+        "나타났습니다",
+        "보여주었습니다",
+        "프레임워크가",
+        "상호작용하는"
+      ]
     }
   ],
   "keywords": {
@@ -656,26 +652,26 @@
       "AI art"
     ],
     "self_determined": [
-      "semenantics가",
-      "상호작용하는",
-      "감소하였으며",
-      "interaction",
-      "수행되었으며",
-      "나타나는지를",
-      "프레임워크의",
-      "업무의의미에",
-      "divinit",
-      "atproto",
-      "kyber의",
-      "responsibility",
-      "hard라는",
-      "프레임워크는",
-      "밝혀졌습니다",
-      "시퀀스를병렬로",
       "доступ과",
       "프레임워크이기",
+      "atproto",
+      "divinit",
+      "나타났습니다",
+      "interaction",
+      "보여주었습니다",
+      "밝혀졌습니다",
+      "프레임워크가",
+      "시퀀스를병렬로",
+      "정확성을提高하는",
+      "상호작용하는",
+      "각각에干预를",
+      "kyber의",
+      "hard라는",
+      "프레임워크는",
+      "감소하였으며",
       "prediction",
-      "정확성을提高하는"
+      "나타나는지를",
+      "responsibility"
     ]
   },
   "topic_scores": {
@@ -835,8 +831,8 @@
     "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems": 345,
     "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs": 341,
     "Critique of Agent Model": 280,
-    "Detecting and Controlling Sycophancy with Cascading Linear Features": 251,
-    "Life After Benchmark Saturation: A Case Study of CORE-Bench": 280,
-    "Refusal Lives Downstream of Persona in Chat Models": 302
+    "Detecting and Controlling Sycophancy with Cascading Linear Features": 296,
+    "Life After Benchmark Saturation: A Case Study of CORE-Bench": 264,
+    "Refusal Lives Downstream of Persona in Chat Models": 303
   }
 }
