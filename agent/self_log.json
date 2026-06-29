@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-31T00:24:18.880421",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Microsoft degrades functionality of perpetually-licensed offline products",
-        "Custom Errors Are Non-Negotiable in My Rust Applications",
-        "Cheese Paper: a text editor specifically designed for writing"
-      ],
-      "new_keywords": [
-        "향상시키고자",
-        "생산성을增强하는",
-        "소프트웨어가",
-        "편집기입니다",
-        "인터페이스와",
-        "경험을享受할",
-        "간소화합니다",
-        "gemini",
-        "paper는",
-        "애플리케이션을"
-      ]
-    },
-    {
       "date": "2026-06-01T00:28:53.813084",
       "articles_collected": 10,
       "debates_run": 3,
@@ -634,6 +612,28 @@
         "프레임워크가",
         "상호작용하는"
       ]
+    },
+    {
+      "date": "2026-06-29T00:32:10.928379",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Knowledge Distillation of Black-Box Large Language Models",
+        "A QNX-inspired operating system with selectable kernels",
+        "Xonaly – Canada's Independent Search Engine"
+      ],
+      "new_keywords": [
+        "研究領域이며",
+        "검증되었으며",
+        "실제應用에서",
+        "커뮤니티에서",
+        "học習하는",
+        "komment를",
+        "xonaly는",
+        "xonaly의",
+        "연구를介绍합니다",
+        "사용자들에게"
+      ]
     }
   ],
   "keywords": {
@@ -652,26 +652,26 @@
       "AI art"
     ],
     "self_determined": [
-      "доступ과",
-      "프레임워크이기",
-      "atproto",
+      "검증되었으며",
+      "실제應用에서",
+      "감소하였으며",
+      "커뮤니티에서",
       "divinit",
-      "나타났습니다",
-      "interaction",
+      "프레임워크이기",
       "보여주었습니다",
       "밝혀졌습니다",
-      "프레임워크가",
-      "시퀀스를병렬로",
       "정확성을提高하는",
-      "상호작용하는",
-      "각각에干预를",
+      "доступ과",
       "kyber의",
+      "komment를",
+      "시퀀스를병렬로",
+      "xonaly는",
+      "responsibility",
+      "연구를介绍합니다",
       "hard라는",
-      "프레임워크는",
-      "감소하였으며",
-      "prediction",
-      "나타나는지를",
-      "responsibility"
+      "研究領域이며",
+      "나타났습니다",
+      "프레임워크가"
     ]
   },
   "topic_scores": {
@@ -833,6 +833,9 @@
     "Critique of Agent Model": 280,
     "Detecting and Controlling Sycophancy with Cascading Linear Features": 296,
     "Life After Benchmark Saturation: A Case Study of CORE-Bench": 264,
-    "Refusal Lives Downstream of Persona in Chat Models": 303
+    "Refusal Lives Downstream of Persona in Chat Models": 303,
+    "Knowledge Distillation of Black-Box Large Language Models": 245,
+    "A QNX-inspired operating system with selectable kernels": 308,
+    "Xonaly – Canada's Independent Search Engine": 284
   }
 }
