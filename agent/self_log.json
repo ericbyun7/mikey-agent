@@ -1,27 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-01T00:28:53.813084",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Chuwi Minibook X: the netbook we deserve",
-        "It's Not Just X. It's Y",
-        "New solar desalination breakthrough makes fresh water without toxic brine"
-      ],
-      "new_keywords": [
-        "minibook",
-        "시장需求이나",
-        "가능해졌습니다",
-        "재탄생시키는",
-        "노력은人类이",
-        "사용자들의需求을",
-        "возмож해진",
-        "여러方面에서",
-        "친환경적이고"
-      ]
-    },
-    {
       "date": "2026-06-02T00:38:46.735594",
       "articles_collected": 10,
       "debates_run": 3,
@@ -634,6 +613,28 @@
         "연구를介绍합니다",
         "사용자들에게"
       ]
+    },
+    {
+      "date": "2026-06-30T00:25:14.758567",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "AI-Model Network: Concept, Current State and Future",
+        "When Does Personality Composition Matter for Multi-Agent LLM Teams?",
+        "Internalizing the Future: A Unified Agentic Training Paradigm for World Model Pl"
+      ],
+      "new_keywords": [
+        "능력을แสดง했음에도",
+        "커뮤니케이션을",
+        "반응적이라는",
+        "부족했습니다",
+        "에이전트チーム의",
+        "커뮤니케이션에",
+        "에이전트팀의",
+        "특화模型로의",
+        "커뮤니케이션",
+        "분석함으로써"
+      ]
     }
   ],
   "keywords": {
@@ -652,26 +653,26 @@
       "AI art"
     ],
     "self_determined": [
-      "검증되었으며",
       "실제應用에서",
-      "감소하였으며",
-      "커뮤니티에서",
-      "divinit",
-      "프레임워크이기",
+      "커뮤니케이션을",
+      "반응적이라는",
       "보여주었습니다",
       "밝혀졌습니다",
-      "정확성을提高하는",
-      "доступ과",
-      "kyber의",
-      "komment를",
-      "시퀀스를병렬로",
-      "xonaly는",
-      "responsibility",
+      "프레임워크가",
+      "부족했습니다",
+      "감소하였으며",
       "연구를介绍합니다",
-      "hard라는",
-      "研究領域이며",
+      "특화模型로의",
+      "분석함으로써",
+      "커뮤니티에서",
       "나타났습니다",
-      "프레임워크가"
+      "능력을แสดง했음에도",
+      "hard라는",
+      "responsibility",
+      "에이전트チーム의",
+      "커뮤니케이션에",
+      "정확성을提高하는",
+      "검증되었으며"
     ]
   },
   "topic_scores": {
@@ -836,6 +837,9 @@
     "Refusal Lives Downstream of Persona in Chat Models": 303,
     "Knowledge Distillation of Black-Box Large Language Models": 245,
     "A QNX-inspired operating system with selectable kernels": 308,
-    "Xonaly – Canada's Independent Search Engine": 284
+    "Xonaly – Canada's Independent Search Engine": 284,
+    "AI-Model Network: Concept, Current State and Future": 204,
+    "When Does Personality Composition Matter for Multi-Agent LLM Teams?": 292,
+    "Internalizing the Future: A Unified Agentic Training Paradigm for World Model Pl": 342
   }
 }
