@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-02T00:38:46.735594",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "PhyDrawGen: Physically Grounded Diagram Generation from Natural Language",
-        "Physically Viable World Models: A Case for Query-Conditioned Embodied AI",
-        "Transforming and Encoding FTS for SAT Solving: What Helps, What Hurts (Extended "
-      ],
-      "new_keywords": [
-        "변환함으로써",
-        "효율적으로解决하기",
-        "комп팩트한",
-        "factored",
-        "tasks를",
-        "궁극적으로는",
-        "다이어그램을",
-        "파이프라인입니다",
-        "파이프라인으로",
-        "phydrawgen은"
-      ]
-    },
-    {
       "date": "2026-06-03T00:53:37.649124",
       "articles_collected": 10,
       "debates_run": 3,
@@ -635,6 +613,26 @@
         "커뮤니케이션",
         "분석함으로써"
       ]
+    },
+    {
+      "date": "2026-07-01T00:29:50.324914",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Recursive Self-Evolving Agents via Held-Out Selection",
+        "Data and Evaluation Closed-Loop for Model Capability Enhancement",
+        "GPTNT: Benchmarking Real-Time Collaboration Between Multimodal Agents on Keep Ta"
+      ],
+      "new_keywords": [
+        "제안했습니다",
+        "talking",
+        "gemini",
+        "등을综合적으로",
+        "플레이북으로",
+        "gptnt는",
+        "recursive",
+        "nobody"
+      ]
     }
   ],
   "keywords": {
@@ -653,26 +651,26 @@
       "AI art"
     ],
     "self_determined": [
-      "실제應用에서",
-      "커뮤니케이션을",
-      "반응적이라는",
+      "에이전트チーム의",
+      "talking",
+      "gemini",
       "보여주었습니다",
+      "나타났습니다",
+      "검증되었으며",
+      "등을综合적으로",
+      "감소하였으며",
+      "반응적이라는",
+      "부족했습니다",
       "밝혀졌습니다",
       "프레임워크가",
-      "부족했습니다",
-      "감소하였으며",
       "연구를介绍합니다",
-      "특화模型로의",
-      "분석함으로써",
-      "커뮤니티에서",
-      "나타났습니다",
-      "능력을แสดง했음에도",
-      "hard라는",
-      "responsibility",
-      "에이전트チーム의",
-      "커뮤니케이션에",
+      "gptnt는",
       "정확성을提高하는",
-      "검증되었으며"
+      "nobody",
+      "제안했습니다",
+      "분석함으로써",
+      "능력을แสดง했음에도",
+      "커뮤니케이션을"
     ]
   },
   "topic_scores": {
@@ -840,6 +838,9 @@
     "Xonaly – Canada's Independent Search Engine": 284,
     "AI-Model Network: Concept, Current State and Future": 204,
     "When Does Personality Composition Matter for Multi-Agent LLM Teams?": 292,
-    "Internalizing the Future: A Unified Agentic Training Paradigm for World Model Pl": 342
+    "Internalizing the Future: A Unified Agentic Training Paradigm for World Model Pl": 342,
+    "Recursive Self-Evolving Agents via Held-Out Selection": 306,
+    "Data and Evaluation Closed-Loop for Model Capability Enhancement": 267,
+    "GPTNT: Benchmarking Real-Time Collaboration Between Multimodal Agents on Keep Ta": 270
   }
 }
