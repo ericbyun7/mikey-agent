@@ -1,27 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-03T00:53:37.649124",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Position Paper: Post-Solve Robustness in Decision Engines: Feasible Regions and ",
-        "Emergent Collaborative Deliberation in Multi-Model AI Systems: A BFT-Derived Pro",
-        "Deliberative Curation: A Protocol for Multi-Agent Knowledge Bases"
-      ],
-      "new_keywords": [
-        "protocol을",
-        "개발함으로써",
-        "protocol은",
-        "경험적으로裏付け된",
-        "시스템에서보다",
-        "파이프라인에",
-        "consilium",
-        "에이전트들이",
-        "프레임워크를"
-      ]
-    },
-    {
       "date": "2026-06-04T00:55:40.664296",
       "articles_collected": 10,
       "debates_run": 3,
@@ -633,6 +612,26 @@
         "recursive",
         "nobody"
       ]
+    },
+    {
+      "date": "2026-07-02T00:31:29.958975",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "What Drives Interactive Improvement from Feedback?",
+        "Contrastive Reflection for Iterative Prompt Optimization",
+        "How Can AI Find My Model? A Model-Finding Experimental Study Considering Data Fo"
+      ],
+      "new_keywords": [
+        "reflection이라는",
+        "reflection",
+        "조사하였으며",
+        "사용했습니다",
+        "에이전트에서",
+        "contrastive",
+        "시뮬레이션에서",
+        "조사하였습니다"
+      ]
     }
   ],
   "keywords": {
@@ -651,26 +650,26 @@
       "AI art"
     ],
     "self_determined": [
-      "에이전트チーム의",
-      "talking",
-      "gemini",
-      "보여주었습니다",
-      "나타났습니다",
       "검증되었으며",
-      "등을综合적으로",
-      "감소하였으며",
       "반응적이라는",
-      "부족했습니다",
-      "밝혀졌습니다",
-      "프레임워크가",
-      "연구를介绍합니다",
-      "gptnt는",
-      "정확성을提高하는",
       "nobody",
-      "제안했습니다",
-      "분석함으로써",
-      "능력을แสดง했음에도",
-      "커뮤니케이션을"
+      "부족했습니다",
+      "reflection",
+      "커뮤니케이션을",
+      "프레임워크가",
+      "gemini",
+      "talking",
+      "contrastive",
+      "감소하였으며",
+      "조사하였습니다",
+      "reflection이라는",
+      "등을综合적으로",
+      "정확성을提高하는",
+      "조사하였으며",
+      "밝혀졌습니다",
+      "사용했습니다",
+      "에이전트チーム의",
+      "나타났습니다"
     ]
   },
   "topic_scores": {
@@ -841,6 +840,9 @@
     "Internalizing the Future: A Unified Agentic Training Paradigm for World Model Pl": 342,
     "Recursive Self-Evolving Agents via Held-Out Selection": 306,
     "Data and Evaluation Closed-Loop for Model Capability Enhancement": 267,
-    "GPTNT: Benchmarking Real-Time Collaboration Between Multimodal Agents on Keep Ta": 270
+    "GPTNT: Benchmarking Real-Time Collaboration Between Multimodal Agents on Keep Ta": 270,
+    "What Drives Interactive Improvement from Feedback?": 264,
+    "Contrastive Reflection for Iterative Prompt Optimization": 338,
+    "How Can AI Find My Model? A Model-Finding Experimental Study Considering Data Fo": 312
   }
 }
