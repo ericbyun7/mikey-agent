@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-04T00:55:40.664296",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Visual Graph Scaffolds for Structural Reasoning in Large Language Models",
-        "AURA: Action-Gated Memory for Robot Policies at Constant VRAM",
-        "Evaluating Transformer and LSTM Frameworks for Prediction in Ungauged Basins"
-      ],
-      "new_keywords": [
-        "디바이스에서",
-        "lstm보다",
-        "구조적推론을",
-        "transformer",
-        "transformer와",
-        "프레임워크가",
-        "데이터센터에서",
-        "프레임워크의",
-        "memory",
-        "비교분석하였다"
-      ]
-    },
-    {
       "date": "2026-06-05T00:30:12.282815",
       "articles_collected": 10,
       "debates_run": 3,
@@ -632,6 +610,28 @@
         "시뮬레이션에서",
         "조사하였습니다"
       ]
+    },
+    {
+      "date": "2026-07-03T00:26:07.246502",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction",
+        "Bounded Morality: Defining the Space of Moral Computation",
+        "The MMM Data Model -- A Normative Specification for Knowledge Interoperability i"
+      ],
+      "new_keywords": [
+        "정형화하는데",
+        "thực체의",
+        "محدود점을",
+        "프레임워크는",
+        "프레임워크를",
+        "도덕적推論을",
+        "해결하면서도",
+        "상호작용에서",
+        "형성되고改变된다는",
+        "필요があります"
+      ]
     }
   ],
   "keywords": {
@@ -650,26 +650,26 @@
       "AI art"
     ],
     "self_determined": [
-      "검증되었으며",
+      "정형화하는데",
+      "thực체의",
       "반응적이라는",
-      "nobody",
-      "부족했습니다",
-      "reflection",
-      "커뮤니케이션을",
-      "프레임워크가",
-      "gemini",
-      "talking",
-      "contrastive",
-      "감소하였으며",
-      "조사하였습니다",
-      "reflection이라는",
-      "등을综合적으로",
-      "정확성을提高하는",
       "조사하였으며",
+      "조사하였습니다",
+      "도덕적推論을",
+      "프레임워크가",
+      "reflection이라는",
+      "해결하면서도",
+      "상호작용에서",
+      "형성되고改变된다는",
+      "contrastive",
+      "talking",
       "밝혀졌습니다",
-      "사용했습니다",
+      "reflection",
       "에이전트チーム의",
-      "나타났습니다"
+      "정확성을提高하는",
+      "검증되었으며",
+      "감소하였으며",
+      "محدود점을"
     ]
   },
   "topic_scores": {
@@ -843,6 +843,9 @@
     "GPTNT: Benchmarking Real-Time Collaboration Between Multimodal Agents on Keep Ta": 270,
     "What Drives Interactive Improvement from Feedback?": 264,
     "Contrastive Reflection for Iterative Prompt Optimization": 338,
-    "How Can AI Find My Model? A Model-Finding Experimental Study Considering Data Fo": 312
+    "How Can AI Find My Model? A Model-Finding Experimental Study Considering Data Fo": 312,
+    "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction": 259,
+    "Bounded Morality: Defining the Space of Moral Computation": 325,
+    "The MMM Data Model -- A Normative Specification for Knowledge Interoperability i": 283
   }
 }
