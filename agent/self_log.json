@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-05T00:30:12.282815",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simu",
-        "Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Huma",
-        "Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Account"
-      ],
-      "new_keywords": [
-        "엔터프라이즈",
-        "epistemically",
-        "프레임워크는",
-        "프레임워크의",
-        "인공지능에서",
-        "language",
-        "결정론적遠读과",
-        "engaged",
-        "literacy",
-        "프레임워크가"
-      ]
-    },
-    {
       "date": "2026-06-06T00:32:54.693019",
       "articles_collected": 10,
       "debates_run": 3,
@@ -632,6 +610,28 @@
         "형성되고改变된다는",
         "필요があります"
       ]
+    },
+    {
+      "date": "2026-07-04T00:27:23.801413",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Exp",
+        "Auto-FL-Research: Agentic Search for Federated Learning Algorithms",
+        "The Wiola Architecture for Efficient Small Language Models"
+      ],
+      "new_keywords": [
+        "spiral",
+        "learning",
+        "attention",
+        "wiola는",
+        "language",
+        "아키텍처를测试하고",
+        "프레임워크입니다",
+        "시간을缩短할",
+        "비현실적이거나",
+        "결합함으로써"
+      ]
     }
   ],
   "keywords": {
@@ -650,25 +650,25 @@
       "AI art"
     ],
     "self_determined": [
-      "정형화하는데",
-      "thực체의",
-      "반응적이라는",
-      "조사하였으며",
-      "조사하였습니다",
       "도덕적推論을",
-      "프레임워크가",
-      "reflection이라는",
       "해결하면서도",
-      "상호작용에서",
-      "형성되고改变된다는",
-      "contrastive",
-      "talking",
-      "밝혀졌습니다",
       "reflection",
-      "에이전트チーム의",
-      "정확성을提高하는",
-      "검증되었으며",
+      "spiral",
       "감소하였으며",
+      "결합함으로써",
+      "정확성을提高하는",
+      "조사하였습니다",
+      "에이전트チーム의",
+      "learning",
+      "attention",
+      "형성되고改变된다는",
+      "조사하였으며",
+      "wiola는",
+      "reflection이라는",
+      "정형화하는데",
+      "language",
+      "아키텍처를测试하고",
+      "talking",
       "محدود점을"
     ]
   },
@@ -846,6 +846,9 @@
     "How Can AI Find My Model? A Model-Finding Experimental Study Considering Data Fo": 312,
     "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction": 259,
     "Bounded Morality: Defining the Space of Moral Computation": 325,
-    "The MMM Data Model -- A Normative Specification for Knowledge Interoperability i": 283
+    "The MMM Data Model -- A Normative Specification for Knowledge Interoperability i": 283,
+    "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Exp": 277,
+    "Auto-FL-Research: Agentic Search for Federated Learning Algorithms": 292,
+    "The Wiola Architecture for Efficient Small Language Models": 346
   }
 }
