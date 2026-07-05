@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-06T00:32:54.693019",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simu",
-        "Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Huma",
-        "Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Account"
-      ],
-      "new_keywords": [
-        "エージェント의",
-        "поддерж을",
-        "형성하는지에",
-        "이해를促进할",
-        "literacy",
-        "프레임워크는",
-        "정의함으로써",
-        "desarroll할",
-        "시뮬레이션과",
-        "프레임워크의"
-      ]
-    },
-    {
       "date": "2026-06-07T00:27:20.880638",
       "articles_collected": 10,
       "debates_run": 3,
@@ -632,6 +610,28 @@
         "비현실적이거나",
         "결합함으로써"
       ]
+    },
+    {
+      "date": "2026-07-05T00:24:03.515441",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "New bacterial species discovered in NASA's cleanrooms",
+        "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+        "Protocol Prying: Vulnerability Research in AirDrop and Quick Share"
+      ],
+      "new_keywords": [
+        "발견되었습니다",
+        "설계되었지만",
+        "airdrop",
+        "nghiên",
+        "vulnerability",
+        "protocol",
+        "발견되었으며",
+        "이러한发现은",
+        "research",
+        "cứu에서는"
+      ]
     }
   ],
   "keywords": {
@@ -650,26 +650,26 @@
       "AI art"
     ],
     "self_determined": [
-      "도덕적推論을",
-      "해결하면서도",
-      "reflection",
-      "spiral",
-      "감소하였으며",
-      "결합함으로써",
-      "정확성을提高하는",
-      "조사하였습니다",
-      "에이전트チーム의",
-      "learning",
-      "attention",
-      "형성되고改变된다는",
-      "조사하였으며",
       "wiola는",
+      "설계되었지만",
+      "nghiên",
+      "learning",
+      "airdrop",
+      "vulnerability",
+      "talking",
+      "형성되고改变된다는",
+      "발견되었으며",
+      "research",
+      "감소하였으며",
+      "에이전트チーム의",
+      "cứu에서는",
+      "محدود점을",
       "reflection이라는",
-      "정형화하는데",
+      "protocol",
       "language",
       "아키텍처를测试하고",
-      "talking",
-      "محدود점을"
+      "발견되었습니다",
+      "조사하였습니다"
     ]
   },
   "topic_scores": {
@@ -849,6 +849,9 @@
     "The MMM Data Model -- A Normative Specification for Knowledge Interoperability i": 283,
     "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Exp": 277,
     "Auto-FL-Research: Agentic Search for Federated Learning Algorithms": 292,
-    "The Wiola Architecture for Efficient Small Language Models": 346
+    "The Wiola Architecture for Efficient Small Language Models": 346,
+    "New bacterial species discovered in NASA's cleanrooms": 298,
+    "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance": 248,
+    "Protocol Prying: Vulnerability Research in AirDrop and Quick Share": 253
   }
 }
