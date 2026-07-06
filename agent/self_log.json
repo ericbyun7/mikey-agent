@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-07T00:27:20.880638",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinu",
-        "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Sys",
-        "I Know What You Meme, Even If it Emerged Today: Understanding Evolving Memes thr"
-      ],
-      "new_keywords": [
-        "소진하여ระบบ",
-        "conclude는",
-        "conclude라고",
-        "프레임워크인",
-        "프레임워크는",
-        "진행되었지만",
-        "스케줄などの",
-        "조사하였습니다",
-        "reddit의",
-        "수행되었으며"
-      ]
-    },
-    {
       "date": "2026-06-08T00:30:26.894872",
       "articles_collected": 10,
       "debates_run": 3,
@@ -632,6 +610,28 @@
         "research",
         "cứu에서는"
       ]
+    },
+    {
+      "date": "2026-07-06T00:28:06.204046",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Connections in Math: the two kinds of random",
+        "DNSGlobe – Rust TUI to watch DNS propagate around the world",
+        "Composite Video on the NES: Why's it so wobbly?"
+      ],
+      "new_keywords": [
+        "개발자들에게",
+        "제공함으로써",
+        "무작위성隨機性의",
+        "dnsglobe의",
+        "error와",
+        "설계되었으며",
+        "현상을分析하여",
+        "dnsglobe는",
+        "전세계적으로",
+        "gemini"
+      ]
     }
   ],
   "keywords": {
@@ -650,26 +650,26 @@
       "AI art"
     ],
     "self_determined": [
-      "wiola는",
-      "설계되었지만",
-      "nghiên",
-      "learning",
-      "airdrop",
-      "vulnerability",
-      "talking",
+      "전세계적으로",
       "형성되고改变된다는",
-      "발견되었으며",
-      "research",
-      "감소하였으며",
-      "에이전트チーム의",
-      "cứu에서는",
-      "محدود점을",
-      "reflection이라는",
-      "protocol",
-      "language",
+      "제공함으로써",
+      "error와",
+      "설계되었지만",
       "아키텍처를测试하고",
+      "wiola는",
+      "vulnerability",
+      "protocol",
+      "조사하였습니다",
       "발견되었습니다",
-      "조사하였습니다"
+      "talking",
+      "reflection이라는",
+      "에이전트チーム의",
+      "개발자들에게",
+      "무작위성隨機性의",
+      "발견되었으며",
+      "dnsglobe의",
+      "설계되었으며",
+      "research"
     ]
   },
   "topic_scores": {
@@ -852,6 +852,9 @@
     "The Wiola Architecture for Efficient Small Language Models": 346,
     "New bacterial species discovered in NASA's cleanrooms": 298,
     "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance": 248,
-    "Protocol Prying: Vulnerability Research in AirDrop and Quick Share": 253
+    "Protocol Prying: Vulnerability Research in AirDrop and Quick Share": 253,
+    "Connections in Math: the two kinds of random": 288,
+    "DNSGlobe – Rust TUI to watch DNS propagate around the world": 321,
+    "Composite Video on the NES: Why's it so wobbly?": 334
   }
 }
