@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-08T00:30:26.894872",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Firefox Merges Support for Vulkan Video Decoding",
-        "VibeOS: First ever AI-native operating system",
-        "Show HN: Nightwatch, The open-source, read-only AI SRE"
-      ],
-      "new_keywords": [
-        "검증되었으며",
-        "vibeos는",
-        "개발过程에서",
-        "nightwatch는",
-        "브라우저에서",
-        "통합되었다고",
-        "ож망됩니다",
-        "kubernetes",
-        "파이어폭스에서",
-        "vulkan"
-      ]
-    },
-    {
       "date": "2026-06-09T00:28:12.212991",
       "articles_collected": 10,
       "debates_run": 3,
@@ -632,6 +610,28 @@
         "전세계적으로",
         "gemini"
       ]
+    },
+    {
+      "date": "2026-07-07T00:29:24.019561",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Ternlight – 7 MB embedding model that runs in browser (WASM)",
+        "Fable turned remarkable into Tom Riddle's diary from Harry Potter",
+        "Vessel"
+      ],
+      "new_keywords": [
+        "시리즈의重要한",
+        "결합되었습니다",
+        "적용했습니다",
+        "timeout",
+        "브라우저에서",
+        "인공지능聊天봇의",
+        "응용하여聊天봇을",
+        "maximerivest라는",
+        "경험하였습니다",
+        "만들었습니다"
+      ]
     }
   ],
   "keywords": {
@@ -650,26 +650,26 @@
       "AI art"
     ],
     "self_determined": [
-      "전세계적으로",
-      "형성되고改变된다는",
-      "제공함으로써",
-      "error와",
-      "설계되었지만",
-      "아키텍처를测试하고",
-      "wiola는",
-      "vulnerability",
       "protocol",
-      "조사하였습니다",
-      "발견되었습니다",
-      "talking",
-      "reflection이라는",
+      "결합되었습니다",
       "에이전트チーム의",
-      "개발자들에게",
-      "무작위성隨機性의",
-      "발견되었으며",
-      "dnsglobe의",
+      "적용했습니다",
+      "브라우저에서",
+      "인공지능聊天봇의",
+      "error와",
       "설계되었으며",
-      "research"
+      "vulnerability",
+      "응용하여聊天봇을",
+      "maximerivest라는",
+      "만들었습니다",
+      "발견되었습니다",
+      "timeout",
+      "시리즈의重要한",
+      "형성되고改变된다는",
+      "발견되었으며",
+      "조사하였습니다",
+      "dnsglobe의",
+      "reflection이라는"
     ]
   },
   "topic_scores": {
@@ -855,6 +855,9 @@
     "Protocol Prying: Vulnerability Research in AirDrop and Quick Share": 253,
     "Connections in Math: the two kinds of random": 288,
     "DNSGlobe – Rust TUI to watch DNS propagate around the world": 321,
-    "Composite Video on the NES: Why's it so wobbly?": 334
+    "Composite Video on the NES: Why's it so wobbly?": 334,
+    "Ternlight – 7 MB embedding model that runs in browser (WASM)": 268,
+    "Fable turned remarkable into Tom Riddle's diary from Harry Potter": 264,
+    "Vessel": 221
   }
 }
