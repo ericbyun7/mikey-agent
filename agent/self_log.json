@@ -1,27 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-09T00:28:12.212991",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation",
-        "DiBS: Diffusion-Informed Branch Selection",
-        "SafeGene: Reusable Adapters for Transferable Safety Alignment"
-      ],
-      "new_keywords": [
-        "기술적이슈가",
-        "branch",
-        "제안했습니다",
-        "변경하더라도",
-        "safegene는",
-        "프레임워크는",
-        "데이터셋에서",
-        "safegene와",
-        "프레임워크를"
-      ]
-    },
-    {
       "date": "2026-06-10T00:35:28.758917",
       "articles_collected": 10,
       "debates_run": 3,
@@ -632,6 +611,25 @@
         "경험하였습니다",
         "만들었습니다"
       ]
+    },
+    {
+      "date": "2026-07-08T00:19:09.894410",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "iFLYTEK-Embodied-Omni Technical Report",
+        "Internal Pluralism and the Limits of Pairwise Comparisons",
+        "ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability"
+      ],
+      "new_keywords": [
+        "약화시킵니다",
+        "에이전트에게",
+        "설계되었습니다",
+        "데에는不足한",
+        "접근법입니다",
+        "어려웠습니다",
+        "결정적答案을"
+      ]
     }
   ],
   "keywords": {
@@ -650,26 +648,26 @@
       "AI art"
     ],
     "self_determined": [
-      "protocol",
       "결합되었습니다",
+      "설계되었습니다",
+      "인공지능聊天봇의",
+      "vulnerability",
+      "접근법입니다",
+      "시리즈의重要한",
+      "발견되었습니다",
+      "발견되었으며",
+      "응용하여聊天봇을",
+      "dnsglobe의",
+      "조사하였습니다",
       "에이전트チーム의",
       "적용했습니다",
-      "브라우저에서",
-      "인공지능聊天봇의",
-      "error와",
-      "설계되었으며",
-      "vulnerability",
-      "응용하여聊天봇을",
-      "maximerivest라는",
+      "protocol",
       "만들었습니다",
-      "발견되었습니다",
+      "약화시킵니다",
+      "에이전트에게",
       "timeout",
-      "시리즈의重要한",
-      "형성되고改变된다는",
-      "발견되었으며",
-      "조사하였습니다",
-      "dnsglobe의",
-      "reflection이라는"
+      "error와",
+      "형성되고改变된다는"
     ]
   },
   "topic_scores": {
@@ -858,6 +856,9 @@
     "Composite Video on the NES: Why's it so wobbly?": 334,
     "Ternlight – 7 MB embedding model that runs in browser (WASM)": 268,
     "Fable turned remarkable into Tom Riddle's diary from Harry Potter": 264,
-    "Vessel": 221
+    "Vessel": 221,
+    "iFLYTEK-Embodied-Omni Technical Report": 297,
+    "Internal Pluralism and the Limits of Pairwise Comparisons": 284,
+    "ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability": 356
   }
 }
