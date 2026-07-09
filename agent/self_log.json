@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-10T00:35:28.758917",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "PathoSage: Towards Multi-Source Evidence Adjudication in Pathology via Experienc",
-        "OmniMem: Perturbation-aware Memory Compression for Streaming Audio-Visual LLMs",
-        "Syll: Open-Source Personal Automation with Cross-Surface Execution"
-      ],
-      "new_keywords": [
-        "워크플로우는",
-        "보여주었지만",
-        "프레임워크로",
-        "제안하였습니다",
-        "플랫폼입니다",
-        "프레임워크는",
-        "pathosage라는",
-        "pathosage",
-        "발생하더라도",
-        "워크플로우를"
-      ]
-    },
-    {
       "date": "2026-06-11T00:39:41.448948",
       "articles_collected": 10,
       "debates_run": 3,
@@ -630,6 +608,28 @@
         "어려웠습니다",
         "결정적答案을"
       ]
+    },
+    {
+      "date": "2026-07-09T00:30:51.566696",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Prompt-to-Paper: Agentic AI System for Bioinformatics",
+        "From Graphs to Gradients: Physics-Inspired Structural Attribution for Cyber-Phys",
+        "CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Progr"
+      ],
+      "new_keywords": [
+        "language",
+        "노력을代表합니다",
+        "벤치마크로서",
+        "cstutorbench는",
+        "프레임워크가",
+        "제시되었는데",
+        "프로그래밍을",
+        "프레임워크는",
+        "상관관계만을",
+        "프레임워크를"
+      ]
     }
   ],
   "keywords": {
@@ -648,26 +648,26 @@
       "AI art"
     ],
     "self_determined": [
-      "결합되었습니다",
-      "설계되었습니다",
-      "인공지능聊天봇의",
-      "vulnerability",
-      "접근법입니다",
-      "시리즈의重要한",
-      "발견되었습니다",
-      "발견되었으며",
-      "응용하여聊天봇을",
-      "dnsglobe의",
-      "조사하였습니다",
-      "에이전트チーム의",
       "적용했습니다",
+      "language",
       "protocol",
       "만들었습니다",
-      "약화시킵니다",
-      "에이전트에게",
-      "timeout",
       "error와",
-      "형성되고改变된다는"
+      "형성되고改变된다는",
+      "노력을代表합니다",
+      "시리즈의重要한",
+      "cstutorbench는",
+      "인공지능聊天봇의",
+      "약화시킵니다",
+      "설계되었습니다",
+      "응용하여聊天봇을",
+      "조사하였습니다",
+      "제시되었는데",
+      "프레임워크를",
+      "접근법입니다",
+      "timeout",
+      "에이전트에게",
+      "에이전트チーム의"
     ]
   },
   "topic_scores": {
@@ -859,6 +859,9 @@
     "Vessel": 221,
     "iFLYTEK-Embodied-Omni Technical Report": 297,
     "Internal Pluralism and the Limits of Pairwise Comparisons": 284,
-    "ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability": 356
+    "ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability": 356,
+    "Prompt-to-Paper: Agentic AI System for Bioinformatics": 323,
+    "From Graphs to Gradients: Physics-Inspired Structural Attribution for Cyber-Phys": 282,
+    "CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Progr": 278
   }
 }
