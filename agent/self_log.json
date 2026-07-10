@@ -1,26 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-11T00:39:41.448948",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Business World Model",
-        "Deployment-Time Memorization in Foundation-Model Agents",
-        "Exploratory Responsiveness and Adaptive Rigidity under AI-Assisted Optimization"
-      ],
-      "new_keywords": [
-        "탐색적응성과",
-        "탐색적응성이",
-        "상호작용하는지에",
-        "상호작용에서",
-        "전략목표부터",
-        "능력과剛性가",
-        "향상시키면서",
-        "비즈니스에서"
-      ]
-    },
-    {
       "date": "2026-06-12T00:45:12.751308",
       "articles_collected": 10,
       "debates_run": 3,
@@ -630,6 +610,28 @@
         "상관관계만을",
         "프레임워크를"
       ]
+    },
+    {
+      "date": "2026-07-10T00:28:19.772593",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
+        "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Dri",
+        "LLM-powered reasoning in agent-based modeling"
+      ],
+      "new_keywords": [
+        "프레임워크를",
+        "gemini와",
+        "agentlens의",
+        "해결함으로써",
+        "가능해집니다",
+        "보여주었습니다",
+        "업데이트하는",
+        "agentlens는",
+        "벤치마크보다",
+        "тради적인"
+      ]
     }
   ],
   "keywords": {
@@ -648,26 +650,26 @@
       "AI art"
     ],
     "self_determined": [
-      "적용했습니다",
-      "language",
-      "protocol",
-      "만들었습니다",
-      "error와",
-      "형성되고改变된다는",
-      "노력을代表합니다",
-      "시리즈의重要한",
-      "cstutorbench는",
-      "인공지능聊天봇의",
-      "약화시킵니다",
-      "설계되었습니다",
-      "응용하여聊天봇을",
-      "조사하였습니다",
-      "제시되었는데",
       "프레임워크를",
-      "접근법입니다",
-      "timeout",
+      "해결함으로써",
+      "약화시킵니다",
+      "agentlens의",
+      "보여주었습니다",
+      "에이전트チーム의",
+      "agentlens는",
+      "protocol",
+      "벤치마크보다",
+      "cstutorbench는",
+      "설계되었습니다",
       "에이전트에게",
-      "에이전트チーム의"
+      "조사하였습니다",
+      "적용했습니다",
+      "시리즈의重要한",
+      "응용하여聊天봇을",
+      "노력을代表합니다",
+      "timeout",
+      "gemini와",
+      "가능해집니다"
     ]
   },
   "topic_scores": {
@@ -862,6 +864,9 @@
     "ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability": 356,
     "Prompt-to-Paper: Agentic AI System for Bioinformatics": 323,
     "From Graphs to Gradients: Physics-Inspired Structural Attribution for Cyber-Phys": 282,
-    "CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Progr": 278
+    "CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Progr": 278,
+    "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation": 301,
+    "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Dri": 292,
+    "LLM-powered reasoning in agent-based modeling": 300
   }
 }
