@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-12T00:45:12.751308",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "From Explicit Elements to Implicit Intent: A Predefined Library for Auditable Be",
-        "Position: Hippocampal Explicit Memory Is the Cornerstone for AGI",
-        "Can AI Agents Synthesize Scientific Conclusions?"
-      ],
-      "new_keywords": [
-        "sciconbench와",
-        "gemini",
-        "sciconbench라는",
-        "전자상거래가",
-        "프레임워크의",
-        "라이브러리를",
-        "인지기능들이",
-        "프레임워크이다",
-        "재현성을优先하며",
-        "semanticlean의"
-      ]
-    },
-    {
       "date": "2026-06-13T00:43:57.584660",
       "articles_collected": 10,
       "debates_run": 3,
@@ -632,6 +610,28 @@
         "벤치마크보다",
         "тради적인"
       ]
+    },
+    {
+      "date": "2026-07-11T00:20:53.430965",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Context Graphs for Proactive Enterprise Agents",
+        "AI-integrated models for assessing agricultural resilience",
+        "Adversarial Social Epistemology for Assemblies of Humans and Large Language Mode"
+      ],
+      "new_keywords": [
+        "프레임워크를",
+        "상호작용하는",
+        "agents의",
+        "graphs에",
+        "graphs는企業의",
+        "enterprise",
+        "회복탄력성을",
+        "potvrzona이며",
+        "proactive",
+        "상호작용에서"
+      ]
     }
   ],
   "keywords": {
@@ -650,26 +650,26 @@
       "AI art"
     ],
     "self_determined": [
-      "프레임워크를",
-      "해결함으로써",
-      "약화시킵니다",
-      "agentlens의",
-      "보여주었습니다",
-      "에이전트チーム의",
-      "agentlens는",
       "protocol",
-      "벤치마크보다",
-      "cstutorbench는",
-      "설계되었습니다",
+      "프레임워크를",
       "에이전트에게",
-      "조사하였습니다",
-      "적용했습니다",
-      "시리즈의重要한",
-      "응용하여聊天봇을",
       "노력을代表합니다",
+      "상호작용하는",
+      "agents의",
+      "가능해집니다",
+      "cstutorbench는",
+      "보여주었습니다",
+      "graphs에",
+      "graphs는企業의",
       "timeout",
-      "gemini와",
-      "가능해집니다"
+      "약화시킵니다",
+      "벤치마크보다",
+      "적용했습니다",
+      "enterprise",
+      "조사하였습니다",
+      "agentlens는",
+      "에이전트チーム의",
+      "회복탄력성을"
     ]
   },
   "topic_scores": {
@@ -867,6 +867,9 @@
     "CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Progr": 278,
     "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation": 301,
     "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Dri": 292,
-    "LLM-powered reasoning in agent-based modeling": 300
+    "LLM-powered reasoning in agent-based modeling": 300,
+    "Context Graphs for Proactive Enterprise Agents": 312,
+    "AI-integrated models for assessing agricultural resilience": 335,
+    "Adversarial Social Epistemology for Assemblies of Humans and Large Language Mode": 342
   }
 }
