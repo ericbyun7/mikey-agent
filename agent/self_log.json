@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-13T00:43:57.584660",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs",
-        "Arbor: Tree Search as a Cognition Layer for Autonomous Agents",
-        "Strategic Decision Support for AI Agents"
-      ],
-      "new_keywords": [
-        "프레임워크를",
-        "프레임워크는",
-        "발생하더라도",
-        "프레임워크입니다",
-        "arbor은",
-        "메커니즘으로",
-        "encoding하여",
-        "프레임워크로",
-        "프레임워크의",
-        "toolsense는"
-      ]
-    },
-    {
       "date": "2026-06-14T00:29:45.899011",
       "articles_collected": 10,
       "debates_run": 3,
@@ -632,6 +610,26 @@
         "proactive",
         "상호작용에서"
       ]
+    },
+    {
+      "date": "2026-07-12T00:14:32.513484",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Doctors die. It's not like the rest of us, but it should be (2016)",
+        "Weightlifting beats running for blood sugar control, researchers find",
+        "Mesh LLM: distributed AI computing on iroh"
+      ],
+      "new_keywords": [
+        "효과적이라는",
+        "밝혀졌습니다",
+        "programu을",
+        "있으므로주의가",
+        "metadata",
+        "발견했습니다",
+        "구현되었으며",
+        "timeout"
+      ]
     }
   ],
   "keywords": {
@@ -650,26 +648,26 @@
       "AI art"
     ],
     "self_determined": [
-      "protocol",
-      "프레임워크를",
-      "에이전트에게",
-      "노력을代表합니다",
-      "상호작용하는",
-      "agents의",
-      "가능해집니다",
-      "cstutorbench는",
-      "보여주었습니다",
-      "graphs에",
-      "graphs는企業의",
-      "timeout",
-      "약화시킵니다",
-      "벤치마크보다",
-      "적용했습니다",
-      "enterprise",
-      "조사하였습니다",
-      "agentlens는",
+      "효과적이라는",
       "에이전트チーム의",
-      "회복탄력성을"
+      "에이전트에게",
+      "벤치마크보다",
+      "cstutorbench는",
+      "적용했습니다",
+      "programu을",
+      "graphs에",
+      "가능해집니다",
+      "회복탄력성을",
+      "metadata",
+      "enterprise",
+      "구현되었으며",
+      "약화시킵니다",
+      "protocol",
+      "agents의",
+      "프레임워크를",
+      "agentlens는",
+      "상호작용하는",
+      "보여주었습니다"
     ]
   },
   "topic_scores": {
@@ -870,6 +868,9 @@
     "LLM-powered reasoning in agent-based modeling": 300,
     "Context Graphs for Proactive Enterprise Agents": 312,
     "AI-integrated models for assessing agricultural resilience": 335,
-    "Adversarial Social Epistemology for Assemblies of Humans and Large Language Mode": 342
+    "Adversarial Social Epistemology for Assemblies of Humans and Large Language Mode": 342,
+    "Doctors die. It's not like the rest of us, but it should be (2016)": 232,
+    "Weightlifting beats running for blood sugar control, researchers find": 357,
+    "Mesh LLM: distributed AI computing on iroh": 308
   }
 }
