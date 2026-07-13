@@ -1,23 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-14T00:29:45.899011",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Show HN: I built 80 mini-games using Fable before it was shut down",
-        "Derbyshire Police officer accused of using AI to 'create evidence'",
-        "Human Routers of Machine Words"
-      ],
-      "new_keywords": [
-        "알려졌습니다",
-        "지지와协力を",
-        "의혹은警察의",
-        "제공함으로써",
-        "사용자들에게"
-      ]
-    },
-    {
       "date": "2026-06-15T00:33:25.688544",
       "articles_collected": 10,
       "debates_run": 3,
@@ -630,6 +613,28 @@
         "구현되었으며",
         "timeout"
       ]
+    },
+    {
+      "date": "2026-07-13T00:13:46.606884",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Designing and assembling my first PCB",
+        "Architecture Description Languages [pdf]",
+        "Cyberpunk Comics, Manga and Graphic Novels"
+      ],
+      "new_keywords": [
+        "전문가들에게",
+        "분석해보겠습니다",
+        "graphic",
+        "architecture",
+        "소프트웨어의",
+        "방법을介绍합니다",
+        "comics",
+        "cyberpunk",
+        "verificar",
+        "방법을介绍함으로써"
+      ]
     }
   ],
   "keywords": {
@@ -648,26 +653,26 @@
       "AI art"
     ],
     "self_determined": [
-      "효과적이라는",
-      "에이전트チーム의",
+      "상호작용하는",
+      "분석해보겠습니다",
+      "구현되었으며",
+      "protocol",
+      "architecture",
+      "소프트웨어의",
       "에이전트에게",
+      "programu을",
+      "방법을介绍합니다",
+      "적용했습니다",
+      "cyberpunk",
+      "효과적이라는",
+      "회복탄력성을",
       "벤치마크보다",
       "cstutorbench는",
-      "적용했습니다",
-      "programu을",
-      "graphs에",
-      "가능해집니다",
-      "회복탄력성을",
-      "metadata",
-      "enterprise",
-      "구현되었으며",
+      "전문가들에게",
       "약화시킵니다",
-      "protocol",
-      "agents의",
-      "프레임워크를",
       "agentlens는",
-      "상호작용하는",
-      "보여주었습니다"
+      "agents의",
+      "graphic"
     ]
   },
   "topic_scores": {
@@ -871,6 +876,9 @@
     "Adversarial Social Epistemology for Assemblies of Humans and Large Language Mode": 342,
     "Doctors die. It's not like the rest of us, but it should be (2016)": 232,
     "Weightlifting beats running for blood sugar control, researchers find": 357,
-    "Mesh LLM: distributed AI computing on iroh": 308
+    "Mesh LLM: distributed AI computing on iroh": 308,
+    "Designing and assembling my first PCB": 229,
+    "Architecture Description Languages [pdf]": 295,
+    "Cyberpunk Comics, Manga and Graphic Novels": 349
   }
 }
