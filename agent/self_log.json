@@ -1,26 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-15T00:33:25.688544",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Your ePub Is Fine. Kobo Disagrees. Blame Adobe",
-        "What even is food authenticity? Why we guard carbonara, and flatten chicken rice",
-        "Stanford grads walk out on Google CEO Sundar Pichai speech"
-      ],
-      "new_keywords": [
-        "동남아시아의",
-        "물러났습니다",
-        "adobe에게",
-        "조성했습니다",
-        "adobe의",
-        "背后的文化적",
-        "카르보나라나",
-        "kobo에서"
-      ]
-    },
-    {
       "date": "2026-06-16T00:54:10.884864",
       "articles_collected": 10,
       "debates_run": 3,
@@ -635,6 +615,28 @@
         "verificar",
         "방법을介绍함으로써"
       ]
+    },
+    {
+      "date": "2026-07-14T00:14:37.120544",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
+        "CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for R",
+        "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent "
+      ],
+      "new_keywords": [
+        "감소시키는지에",
+        "plans의",
+        "인터페이스로",
+        "감소시킵니다",
+        "프레임워크인",
+        "cogniconsole",
+        "입증했습니다",
+        "입증되었습니다",
+        "traversal",
+        "프레임워크의"
+      ]
     }
   ],
   "keywords": {
@@ -653,26 +655,26 @@
       "AI art"
     ],
     "self_determined": [
-      "상호작용하는",
-      "분석해보겠습니다",
+      "plans의",
       "구현되었으며",
-      "protocol",
-      "architecture",
       "소프트웨어의",
-      "에이전트에게",
       "programu을",
-      "방법을介绍합니다",
-      "적용했습니다",
-      "cyberpunk",
+      "감소시킵니다",
       "효과적이라는",
-      "회복탄력성을",
-      "벤치마크보다",
-      "cstutorbench는",
-      "전문가들에게",
+      "프레임워크인",
+      "입증했습니다",
+      "입증되었습니다",
+      "traversal",
+      "적용했습니다",
       "약화시킵니다",
+      "감소시키는지에",
+      "회복탄력성을",
       "agentlens는",
-      "agents의",
-      "graphic"
+      "cstutorbench는",
+      "인터페이스로",
+      "벤치마크보다",
+      "분석해보겠습니다",
+      "protocol"
     ]
   },
   "topic_scores": {
@@ -879,6 +881,9 @@
     "Mesh LLM: distributed AI computing on iroh": 308,
     "Designing and assembling my first PCB": 229,
     "Architecture Description Languages [pdf]": 295,
-    "Cyberpunk Comics, Manga and Graphic Novels": 349
+    "Cyberpunk Comics, Manga and Graphic Novels": 349,
+    "Interval Certifications for Multilayered Perceptrons via Lattice Traversal": 216,
+    "CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for R": 307,
+    "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent ": 323
   }
 }
