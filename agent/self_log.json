@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-16T00:54:10.884864",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "A Deep Reinforcement Learning (DRL)-Based Transformer Method for Solving the Ope",
-        "UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning with ",
-        "History of the Muddy Children Puzzle"
-      ],
-      "new_keywords": [
-        "problem",
-        "인스턴스에서",
-        "프레임워크는",
-        "트랜스포머를",
-        "timeout",
-        "프레임워크의",
-        "scheduling",
-        "개발하였습니다",
-        "공정ス케줄링",
-        "리인포스먼트"
-      ]
-    },
-    {
       "date": "2026-06-16T02:11:28.783544",
       "articles_collected": 10,
       "debates_run": 3,
@@ -637,6 +615,28 @@
         "traversal",
         "프레임워크의"
       ]
+    },
+    {
+      "date": "2026-07-15T00:13:02.790744",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of",
+        "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema ",
+        "Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are T"
+      ],
+      "new_keywords": [
+        "sensitivity",
+        "machen다",
+        "format",
+        "평가하는데는",
+        "조사하여중계",
+        "보여주었습니다",
+        "나타났습니다",
+        "접근법이라고",
+        "parseability",
+        "제시했습니다"
+      ]
     }
   ],
   "keywords": {
@@ -655,25 +655,25 @@
       "AI art"
     ],
     "self_determined": [
-      "plans의",
       "구현되었으며",
-      "소프트웨어의",
-      "programu을",
-      "감소시킵니다",
-      "효과적이라는",
-      "프레임워크인",
-      "입증했습니다",
-      "입증되었습니다",
-      "traversal",
       "적용했습니다",
-      "약화시킵니다",
-      "감소시키는지에",
-      "회복탄력성을",
-      "agentlens는",
+      "machen다",
+      "소프트웨어의",
+      "효과적이라는",
+      "format",
+      "평가하는데는",
+      "보여주었습니다",
       "cstutorbench는",
-      "인터페이스로",
-      "벤치마크보다",
+      "입증되었습니다",
+      "plans의",
+      "접근법이라고",
       "분석해보겠습니다",
+      "제시했습니다",
+      "programu을",
+      "프레임워크인",
+      "sensitivity",
+      "감소시키는지에",
+      "입증했습니다",
       "protocol"
     ]
   },
@@ -884,6 +884,9 @@
     "Cyberpunk Comics, Manga and Graphic Novels": 349,
     "Interval Certifications for Multilayered Perceptrons via Lattice Traversal": 216,
     "CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for R": 307,
-    "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent ": 323
+    "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent ": 323,
+    "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of": 331,
+    "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema ": 327,
+    "Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are T": 265
   }
 }
