@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-16T02:11:28.783544",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "A Deep Reinforcement Learning (DRL)-Based Transformer Method for Solving the Ope",
-        "UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning with ",
-        "History of the Muddy Children Puzzle"
-      ],
-      "new_keywords": [
-        "사용자满意도를",
-        "퍼즐을介绍한다",
-        "children",
-        "problem",
-        "reinforcement",
-        "transformer",
-        "대규모问题에",
-        "policy",
-        "portrait",
-        "taillard"
-      ]
-    },
-    {
       "date": "2026-06-17T00:40:33.286332",
       "articles_collected": 10,
       "debates_run": 3,
@@ -637,6 +615,28 @@
         "parseability",
         "제시했습니다"
       ]
+    },
+    {
+      "date": "2026-07-16T00:21:33.826486",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Optimal Adaptive Market Making: A Theoretical Framework for High-Yield Liquidity",
+        "In-Context Reinforcement Learning under Non-Stationarity: A Survey",
+        "Ontology-Amplified Distillation and Contextuality Auditing for Sovereign Enterpr"
+      ],
+      "new_keywords": [
+        "지역적으로训練하였습니다",
+        "결합하였습니다",
+        "개발함으로써",
+        "준수하면서도",
+        "learning",
+        "전략을구축하는",
+        "reinforcement",
+        "연구과제입니다",
+        "업데이트하지",
+        "foundation"
+      ]
     }
   ],
   "keywords": {
@@ -655,26 +655,26 @@
       "AI art"
     ],
     "self_determined": [
-      "구현되었으며",
-      "적용했습니다",
-      "machen다",
       "소프트웨어의",
+      "지역적으로训練하였습니다",
+      "결합하였습니다",
       "효과적이라는",
-      "format",
-      "평가하는데는",
-      "보여주었습니다",
-      "cstutorbench는",
-      "입증되었습니다",
-      "plans의",
-      "접근법이라고",
-      "분석해보겠습니다",
-      "제시했습니다",
       "programu을",
-      "프레임워크인",
+      "cstutorbench는",
+      "개발함으로써",
       "sensitivity",
-      "감소시키는지에",
-      "입증했습니다",
-      "protocol"
+      "적용했습니다",
+      "전략을구축하는",
+      "구현되었으며",
+      "reinforcement",
+      "연구과제입니다",
+      "보여주었습니다",
+      "제시했습니다",
+      "분석해보겠습니다",
+      "접근법이라고",
+      "machen다",
+      "format",
+      "준수하면서도"
     ]
   },
   "topic_scores": {
@@ -887,6 +887,9 @@
     "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent ": 323,
     "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of": 331,
     "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema ": 327,
-    "Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are T": 265
+    "Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are T": 265,
+    "Optimal Adaptive Market Making: A Theoretical Framework for High-Yield Liquidity": 321,
+    "In-Context Reinforcement Learning under Non-Stationarity: A Survey": 306,
+    "Ontology-Amplified Distillation and Contextuality Auditing for Sovereign Enterpr": 302
   }
 }
