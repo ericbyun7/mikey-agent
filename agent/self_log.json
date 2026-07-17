@@ -1,24 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-17T00:40:33.286332",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "A Definition of Good Explanations and the Challenges Explaining LLM Outputs",
-        "Dr-DCI: Scaling Direct Corpus Interaction via Dynamic Workspace Expansion",
-        "Relational Structural Causal Models"
-      ],
-      "new_keywords": [
-        "interaction",
-        "محدود점을",
-        "dci방식을",
-        "corpus",
-        "explanation",
-        "direct"
-      ]
-    },
-    {
       "date": "2026-06-18T00:38:53.604148",
       "articles_collected": 10,
       "debates_run": 3,
@@ -637,6 +619,28 @@
         "업데이트하지",
         "foundation"
       ]
+    },
+    {
+      "date": "2026-07-17T00:21:30.375977",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
+        "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
+        "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chai"
+      ],
+      "new_keywords": [
+        "grounding",
+        "illegal",
+        "đảm보하는",
+        "interventional",
+        "변경되는지檢查합니다",
+        "발생하더라도",
+        "originblame",
+        "metadata와",
+        "spine은",
+        "프레임워크가"
+      ]
     }
   ],
   "keywords": {
@@ -655,26 +659,26 @@
       "AI art"
     ],
     "self_determined": [
-      "소프트웨어의",
-      "지역적으로训練하였습니다",
-      "결합하였습니다",
-      "효과적이라는",
-      "programu을",
-      "cstutorbench는",
-      "개발함으로써",
       "sensitivity",
+      "illegal",
+      "interventional",
       "적용했습니다",
-      "전략을구축하는",
-      "구현되었으며",
-      "reinforcement",
-      "연구과제입니다",
-      "보여주었습니다",
-      "제시했습니다",
-      "분석해보겠습니다",
       "접근법이라고",
-      "machen다",
-      "format",
-      "준수하면서도"
+      "소프트웨어의",
+      "효과적이라는",
+      "originblame",
+      "제시했습니다",
+      "지역적으로训練하였습니다",
+      "reinforcement",
+      "보여주었습니다",
+      "결합하였습니다",
+      "개발함으로써",
+      "연구과제입니다",
+      "grounding",
+      "준수하면서도",
+      "전략을구축하는",
+      "đảm보하는",
+      "machen다"
     ]
   },
   "topic_scores": {
@@ -890,6 +894,9 @@
     "Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are T": 265,
     "Optimal Adaptive Market Making: A Theoretical Framework for High-Yield Liquidity": 321,
     "In-Context Reinforcement Learning under Non-Stationarity: A Survey": 306,
-    "Ontology-Amplified Distillation and Contextuality Auditing for Sovereign Enterpr": 302
+    "Ontology-Amplified Distillation and Contextuality Auditing for Sovereign Enterpr": 302,
+    "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets": 275,
+    "SPINE: Bridging the Cyber-Physical Gap with Agentic AI": 378,
+    "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chai": 352
   }
 }
