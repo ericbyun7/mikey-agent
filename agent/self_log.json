@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-18T00:38:53.604148",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search",
-        "When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval",
-        "SkillChain-Gym: A Benchmark for Reskilling-Aware Production-Inventory Control un"
-      ],
-      "new_keywords": [
-        "다변화함으로써",
-        "고려함으로써",
-        "프레임워크는",
-        "테스트베드로서의",
-        "테스트베드는",
-        "재고관리에서",
-        "벤치마크에서는",
-        "divinit",
-        "verbess할",
-        "지원함으로써"
-      ]
-    },
-    {
       "date": "2026-06-19T00:50:27.319241",
       "articles_collected": 10,
       "debates_run": 3,
@@ -641,6 +619,28 @@
         "spine은",
         "프레임워크가"
       ]
+    },
+    {
+      "date": "2026-07-18T00:13:26.050660",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Searc",
+        "HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge",
+        "IMEX Interaction-Based Model Explanation"
+      ],
+      "new_keywords": [
+        "제시되었습니다",
+        "아키텍처에서는",
+        "다이나믹하고",
+        "generation",
+        "제한적입니다",
+        "qualität을",
+        "프레임워크는",
+        "augmented",
+        "정확도만으로는",
+        "도출해내는지에"
+      ]
     }
   ],
   "keywords": {
@@ -659,25 +659,25 @@
       "AI art"
     ],
     "self_determined": [
+      "reinforcement",
+      "효과적이라는",
+      "지역적으로训練하였습니다",
+      "연구과제입니다",
+      "아키텍처에서는",
+      "grounding",
       "sensitivity",
       "illegal",
-      "interventional",
+      "qualität을",
+      "augmented",
       "적용했습니다",
-      "접근법이라고",
       "소프트웨어의",
-      "효과적이라는",
-      "originblame",
       "제시했습니다",
-      "지역적으로训練하였습니다",
-      "reinforcement",
-      "보여주었습니다",
-      "결합하였습니다",
-      "개발함으로써",
-      "연구과제입니다",
-      "grounding",
-      "준수하면서도",
-      "전략을구축하는",
+      "generation",
+      "interventional",
+      "제시되었습니다",
       "đảm보하는",
+      "다이나믹하고",
+      "준수하면서도",
       "machen다"
     ]
   },
@@ -897,6 +897,9 @@
     "Ontology-Amplified Distillation and Contextuality Auditing for Sovereign Enterpr": 302,
     "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets": 275,
     "SPINE: Bridging the Cyber-Physical Gap with Agentic AI": 378,
-    "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chai": 352
+    "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chai": 352,
+    "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Searc": 356,
+    "HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge": 312,
+    "IMEX Interaction-Based Model Explanation": 266
   }
 }
