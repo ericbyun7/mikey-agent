@@ -1,27 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-19T00:50:27.319241",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "NAVI-Orbital: First In-Orbit Demonstration of a Zero-Shot Vision-Language Model ",
-        "CaVe-VLM-CoT: An Interpretable Vision-Language Model Framework",
-        "Searching for Synergy in Shared Workspace Human-AI Collaboration"
-      ],
-      "new_keywords": [
-        "인공위성에서",
-        "업데이트되고",
-        "프레임워크로",
-        "성공했습니다",
-        "프레임워크입니다",
-        "향상시키는지",
-        "injector",
-        "파이프라인을",
-        "이어지는지를"
-      ]
-    },
-    {
       "date": "2026-06-20T00:31:45.629033",
       "articles_collected": 10,
       "debates_run": 3,
@@ -641,6 +620,25 @@
         "정확도만으로는",
         "도출해내는지에"
       ]
+    },
+    {
+      "date": "2026-07-19T00:13:27.001607",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Searc",
+        "HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge",
+        "IMEX Interaction-Based Model Explanation"
+      ],
+      "new_keywords": [
+        "방식으로서의",
+        "제공하여更加",
+        "ermögлює",
+        "설명함으로써",
+        "방법론입니다",
+        "프레임워크는",
+        "generation"
+      ]
     }
   ],
   "keywords": {
@@ -659,26 +657,26 @@
       "AI art"
     ],
     "self_determined": [
-      "reinforcement",
-      "효과적이라는",
-      "지역적으로训練하였습니다",
-      "연구과제입니다",
-      "아키텍처에서는",
-      "grounding",
-      "sensitivity",
-      "illegal",
-      "qualität을",
+      "제공하여更加",
       "augmented",
-      "적용했습니다",
-      "소프트웨어의",
-      "제시했습니다",
-      "generation",
-      "interventional",
-      "제시되었습니다",
-      "đảm보하는",
-      "다이나믹하고",
+      "illegal",
+      "machen다",
+      "설명함으로써",
       "준수하면서도",
-      "machen다"
+      "방법론입니다",
+      "소프트웨어의",
+      "generation",
+      "아키텍처에서는",
+      "sensitivity",
+      "제시했습니다",
+      "프레임워크는",
+      "방식으로서의",
+      "효과적이라는",
+      "ermögлює",
+      "제시되었습니다",
+      "reinforcement",
+      "qualität을",
+      "interventional"
     ]
   },
   "topic_scores": {
@@ -898,8 +896,8 @@
     "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets": 275,
     "SPINE: Bridging the Cyber-Physical Gap with Agentic AI": 378,
     "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chai": 352,
-    "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Searc": 356,
-    "HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge": 312,
-    "IMEX Interaction-Based Model Explanation": 266
+    "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Searc": 311,
+    "HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge": 351,
+    "IMEX Interaction-Based Model Explanation": 239
   }
 }
