@@ -1,25 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-20T00:31:45.629033",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Deontic Policies for Runtime Governance of Agentic AI Systems",
-        "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitiv",
-        "Diffusion Language Models: An Experimental Analysis"
-      ],
-      "new_keywords": [
-        "models",
-        "시퀀스를병렬로",
-        "가져왔습니다",
-        "제어만으로는",
-        "매우重要합니다",
-        "language",
-        "하이퍼파라미터가"
-      ]
-    },
-    {
       "date": "2026-06-21T00:29:54.431508",
       "articles_collected": 10,
       "debates_run": 3,
@@ -639,6 +620,28 @@
         "프레임워크는",
         "generation"
       ]
+    },
+    {
+      "date": "2026-07-20T00:19:08.300446",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "We want Texans to know their rights",
+        "Grok-iOS – remote Grok Build from your iPhone over ACP",
+        "Biggest Probabilistic Computer Turns Noise into Answers"
+      ],
+      "new_keywords": [
+        "개발했습니다",
+        "github에서",
+        "mayday",
+        "health는",
+        "حمایت하며",
+        "iphone에서",
+        "적응능력으로",
+        "제공함으로써",
+        "health의",
+        "control"
+      ]
     }
   ],
   "keywords": {
@@ -657,25 +660,25 @@
       "AI art"
     ],
     "self_determined": [
-      "제공하여更加",
-      "augmented",
-      "illegal",
-      "machen다",
-      "설명함으로써",
-      "준수하면서도",
-      "방법론입니다",
-      "소프트웨어의",
-      "generation",
-      "아키텍처에서는",
-      "sensitivity",
-      "제시했습니다",
-      "프레임워크는",
-      "방식으로서의",
-      "효과적이라는",
+      "개발했습니다",
+      "mayday",
       "ermögлює",
-      "제시되었습니다",
       "reinforcement",
+      "제시했습니다",
+      "제시되었습니다",
+      "방법론입니다",
       "qualität을",
+      "준수하면서도",
+      "sensitivity",
+      "소프트웨어의",
+      "augmented",
+      "github에서",
+      "제공하여更加",
+      "حمایت하며",
+      "효과적이라는",
+      "health는",
+      "illegal",
+      "iphone에서",
       "interventional"
     ]
   },
@@ -898,6 +901,9 @@
     "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chai": 352,
     "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Searc": 311,
     "HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge": 351,
-    "IMEX Interaction-Based Model Explanation": 239
+    "IMEX Interaction-Based Model Explanation": 239,
+    "We want Texans to know their rights": 283,
+    "Grok-iOS – remote Grok Build from your iPhone over ACP": 248,
+    "Biggest Probabilistic Computer Turns Noise into Answers": 275
   }
 }
