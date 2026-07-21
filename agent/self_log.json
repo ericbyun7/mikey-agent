@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-21T00:29:54.431508",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Deontic Policies for Runtime Governance of Agentic AI Systems",
-        "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitiv",
-        "Diffusion Language Models: An Experimental Analysis"
-      ],
-      "new_keywords": [
-        "적용되었습니다",
-        "소프트웨어를",
-        "models",
-        "prediction",
-        "하이퍼파라미터",
-        "제안되었지만",
-        "diffusion",
-        "패러다임으로",
-        "패러다임으로서",
-        "오토레그레시브"
-      ]
-    },
-    {
       "date": "2026-06-22T00:34:29.358790",
       "articles_collected": 10,
       "debates_run": 3,
@@ -642,6 +620,28 @@
         "health의",
         "control"
       ]
+    },
+    {
+      "date": "2026-07-21T00:19:04.902764",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Di",
+        "Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Caus",
+        "Cura 1T: Specialized Model for Agentic Healthcare"
+      ],
+      "new_keywords": [
+        "명시적으로推論하는",
+        "health",
+        "electronic",
+        "clinical",
+        "프레임워크입니다",
+        "훈련되었으며",
+        "향상시키는데",
+        "프레임워크는",
+        "отсутств하는",
+        "record"
+      ]
     }
   ],
   "keywords": {
@@ -660,26 +660,26 @@
       "AI art"
     ],
     "self_determined": [
+      "interventional",
+      "iphone에서",
+      "소프트웨어의",
+      "명시적으로推論하는",
+      "health",
       "개발했습니다",
-      "mayday",
-      "ermögлює",
-      "reinforcement",
-      "제시했습니다",
+      "효과적이라는",
+      "electronic",
+      "clinical",
+      "프레임워크입니다",
+      "qualität을",
+      "훈련되었으며",
       "제시되었습니다",
       "방법론입니다",
-      "qualität을",
-      "준수하면서도",
-      "sensitivity",
-      "소프트웨어의",
-      "augmented",
+      "reinforcement",
       "github에서",
-      "제공하여更加",
+      "향상시키는데",
       "حمایت하며",
-      "효과적이라는",
-      "health는",
-      "illegal",
-      "iphone에서",
-      "interventional"
+      "ermögлює",
+      "프레임워크는"
     ]
   },
   "topic_scores": {
@@ -904,6 +904,9 @@
     "IMEX Interaction-Based Model Explanation": 239,
     "We want Texans to know their rights": 283,
     "Grok-iOS – remote Grok Build from your iPhone over ACP": 248,
-    "Biggest Probabilistic Computer Turns Noise into Answers": 275
+    "Biggest Probabilistic Computer Turns Noise into Answers": 275,
+    "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Di": 253,
+    "Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Caus": 292,
+    "Cura 1T: Specialized Model for Agentic Healthcare": 351
   }
 }
