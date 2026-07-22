@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-22T00:34:29.358790",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Simple hard way to conjugate Japanese verbs",
-        "I Gave an AI a Civilization to Run. It Built a Nuke – Launching CivBench",
-        "Did my old job only exist because of fraud?"
-      ],
-      "new_keywords": [
-        "japanese어",
-        "수행되었으며",
-        "행동하는지에",
-        "일치하는지에",
-        "업무의의미에",
-        "이러한疑問은",
-        "인사이트에서",
-        "japonese어",
-        "japon語",
-        "japan어"
-      ]
-    },
-    {
       "date": "2026-06-23T00:33:26.197143",
       "articles_collected": 10,
       "debates_run": 3,
@@ -642,6 +620,22 @@
         "отсутств하는",
         "record"
       ]
+    },
+    {
+      "date": "2026-07-22T00:19:07.832030",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Rater State Bias in RLHF Preference Data: An Audit Framework",
+        "Design and Validation of a Lightweight 1D CNN for Affective Touch Classification",
+        "Some Large Language Models Exhibit Consistent Risk Attitudes"
+      ],
+      "new_keywords": [
+        "소프트sensor",
+        "발견되었습니다",
+        "sensor",
+        "검증했습니다"
+      ]
     }
   ],
   "keywords": {
@@ -660,26 +654,26 @@
       "AI art"
     ],
     "self_determined": [
-      "interventional",
-      "iphone에서",
-      "소프트웨어의",
-      "명시적으로推論하는",
-      "health",
       "개발했습니다",
-      "효과적이라는",
-      "electronic",
-      "clinical",
-      "프레임워크입니다",
       "qualität을",
+      "health",
+      "소프트sensor",
+      "reinforcement",
+      "명시적으로推論하는",
+      "검증했습니다",
+      "효과적이라는",
+      "향상시키는데",
       "훈련되었으며",
       "제시되었습니다",
-      "방법론입니다",
-      "reinforcement",
+      "프레임워크는",
       "github에서",
-      "향상시키는데",
       "حمایت하며",
-      "ermögлює",
-      "프레임워크는"
+      "프레임워크입니다",
+      "electronic",
+      "발견되었습니다",
+      "소프트웨어의",
+      "sensor",
+      "방법론입니다"
     ]
   },
   "topic_scores": {
@@ -907,6 +901,9 @@
     "Biggest Probabilistic Computer Turns Noise into Answers": 275,
     "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Di": 253,
     "Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Caus": 292,
-    "Cura 1T: Specialized Model for Agentic Healthcare": 351
+    "Cura 1T: Specialized Model for Agentic Healthcare": 351,
+    "Rater State Bias in RLHF Preference Data: An Audit Framework": 242,
+    "Design and Validation of a Lightweight 1D CNN for Affective Touch Classification": 340,
+    "Some Large Language Models Exhibit Consistent Risk Attitudes": 291
   }
 }
