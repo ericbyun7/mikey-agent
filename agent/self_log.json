@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-23T00:33:26.197143",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "ytr: YouTube Radio for Emacs",
-        "Unsloth GLM-5.2 – How to Run Locally",
-        "Kyber (YC W23) Is Hiring a Head of Engineering"
-      ],
-      "new_keywords": [
-        "kyber에서",
-        "증가시킵니다",
-        "gemini",
-        "emacs용으로",
-        "timeout",
-        "kyber의",
-        "일시적이거나",
-        "사용자들에게",
-        "winter",
-        "exceeded"
-      ]
-    },
-    {
       "date": "2026-06-24T00:19:18.200802",
       "articles_collected": 10,
       "debates_run": 3,
@@ -636,6 +614,28 @@
         "sensor",
         "검증했습니다"
       ]
+    },
+    {
+      "date": "2026-07-23T00:25:20.309892",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
+        "Calibrated Selective Fact-Checking via Evidence Chain Evaluation",
+        "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterpr"
+      ],
+      "new_keywords": [
+        "quyết정을",
+        "제공함으로써",
+        "timeout",
+        "sysadmin",
+        "batchdag를",
+        "batchdag는",
+        "evidence",
+        "batchdag",
+        "프레임워크를",
+        "gemini"
+      ]
     }
   ],
   "keywords": {
@@ -654,26 +654,26 @@
       "AI art"
     ],
     "self_determined": [
-      "개발했습니다",
-      "qualität을",
-      "health",
-      "소프트sensor",
-      "reinforcement",
-      "명시적으로推論하는",
-      "검증했습니다",
-      "효과적이라는",
-      "향상시키는데",
-      "훈련되었으며",
-      "제시되었습니다",
-      "프레임워크는",
-      "github에서",
-      "حمایت하며",
+      "방법론입니다",
+      "소프트웨어의",
+      "evidence",
       "프레임워크입니다",
       "electronic",
-      "발견되었습니다",
-      "소프트웨어의",
-      "sensor",
-      "방법론입니다"
+      "health",
+      "quyết정을",
+      "batchdag",
+      "프레임워크를",
+      "훈련되었으며",
+      "github에서",
+      "gemini",
+      "소프트sensor",
+      "qualität을",
+      "향상시키는데",
+      "حمایت하며",
+      "효과적이라는",
+      "제공함으로써",
+      "sysadmin",
+      "batchdag를"
     ]
   },
   "topic_scores": {
@@ -904,6 +904,9 @@
     "Cura 1T: Specialized Model for Agentic Healthcare": 351,
     "Rater State Bias in RLHF Preference Data: An Audit Framework": 242,
     "Design and Validation of a Lightweight 1D CNN for Affective Touch Classification": 340,
-    "Some Large Language Models Exhibit Consistent Risk Attitudes": 291
+    "Some Large Language Models Exhibit Consistent Risk Attitudes": 291,
+    "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI": 249,
+    "Calibrated Selective Fact-Checking via Evidence Chain Evaluation": 336,
+    "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterpr": 309
   }
 }
