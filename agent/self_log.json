@@ -1,27 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-24T00:19:18.200802",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "California AB 2047 makes 3D printers off-limits to students, educators, business",
-        "United Wizards of the Coast recognized by NLRB",
-        "ATProto Permissioned Data Proposal Draft"
-      ],
-      "new_keywords": [
-        "본질적으로는",
-        "인정받았다는",
-        "proposal",
-        "wizards",
-        "제한함으로써",
-        "permissioned",
-        "доступ과",
-        "atproto",
-        "draft는"
-      ]
-    },
-    {
       "date": "2026-06-25T00:29:33.073471",
       "articles_collected": 10,
       "debates_run": 3,
@@ -636,6 +615,28 @@
         "프레임워크를",
         "gemini"
       ]
+    },
+    {
+      "date": "2026-07-24T00:23:10.809447",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Wor",
+        "Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adve",
+        "OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent "
+      ],
+      "new_keywords": [
+        "laundering",
+        "데이터세트는",
+        "dynamics",
+        "데이터세트로서",
+        "설계되었습니다",
+        "프레임워크를",
+        "fraudshield",
+        "centrality",
+        "openevoshield를",
+        "gemini"
+      ]
     }
   ],
   "keywords": {
@@ -654,26 +655,26 @@
       "AI art"
     ],
     "self_determined": [
+      "데이터세트로서",
+      "centrality",
       "방법론입니다",
-      "소프트웨어의",
-      "evidence",
-      "프레임워크입니다",
-      "electronic",
-      "health",
-      "quyết정을",
-      "batchdag",
       "프레임워크를",
-      "훈련되었으며",
-      "github에서",
-      "gemini",
-      "소프트sensor",
-      "qualität을",
-      "향상시키는데",
-      "حمایت하며",
-      "효과적이라는",
       "제공함으로써",
-      "sysadmin",
-      "batchdag를"
+      "electronic",
+      "batchdag",
+      "프레임워크입니다",
+      "github에서",
+      "batchdag를",
+      "소프트sensor",
+      "훈련되었으며",
+      "health",
+      "laundering",
+      "향상시키는데",
+      "데이터세트는",
+      "dynamics",
+      "설계되었습니다",
+      "quyết정을",
+      "fraudshield"
     ]
   },
   "topic_scores": {
@@ -907,6 +908,9 @@
     "Some Large Language Models Exhibit Consistent Risk Attitudes": 291,
     "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI": 249,
     "Calibrated Selective Fact-Checking via Evidence Chain Evaluation": 336,
-    "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterpr": 309
+    "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterpr": 309,
+    "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Wor": 321,
+    "Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adve": 363,
+    "OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent ": 287
   }
 }
