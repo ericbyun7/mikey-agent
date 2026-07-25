@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-25T00:29:33.073471",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
-        "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
-        "Critique of Agent Model"
-      ],
-      "new_keywords": [
-        "llm弱点을",
-        "language",
-        "제시하였습니다",
-        "기술을활용하여",
-        "대한透明성과",
-        "필수적입니다",
-        "프레임워크의",
-        "recent",
-        "향상시킵니다",
-        "프레임워크는"
-      ]
-    },
-    {
       "date": "2026-06-26T00:34:54.911611",
       "articles_collected": 10,
       "debates_run": 3,
@@ -637,6 +615,28 @@
         "openevoshield를",
         "gemini"
       ]
+    },
+    {
+      "date": "2026-07-25T00:26:30.804392",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative I",
+        "Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts",
+        "ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures "
+      ],
+      "new_keywords": [
+        "아키텍처이다",
+        "언어학적으로",
+        "달성하였습니다",
+        "보증의现代적인",
+        "aintma",
+        "cảnh고를",
+        "intelligent",
+        "평가하였으며",
+        "семантик",
+        "tăng하고"
+      ]
     }
   ],
   "keywords": {
@@ -655,26 +655,26 @@
       "AI art"
     ],
     "self_determined": [
-      "데이터세트로서",
-      "centrality",
-      "방법론입니다",
-      "프레임워크를",
-      "제공함으로써",
-      "electronic",
-      "batchdag",
-      "프레임워크입니다",
-      "github에서",
-      "batchdag를",
-      "소프트sensor",
-      "훈련되었으며",
-      "health",
-      "laundering",
-      "향상시키는데",
-      "데이터세트는",
-      "dynamics",
+      "아키텍처이다",
       "설계되었습니다",
+      "언어학적으로",
+      "훈련되었으며",
+      "소프트sensor",
+      "데이터세트는",
+      "aintma",
+      "프레임워크입니다",
+      "제공함으로써",
+      "intelligent",
+      "fraudshield",
       "quyết정을",
-      "fraudshield"
+      "семантик",
+      "health",
+      "tăng하고",
+      "프레임워크를",
+      "laundering",
+      "batchdag를",
+      "batchdag",
+      "달성하였습니다"
     ]
   },
   "topic_scores": {
@@ -911,6 +911,9 @@
     "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterpr": 309,
     "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Wor": 321,
     "Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adve": 363,
-    "OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent ": 287
+    "OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent ": 287,
+    "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative I": 273,
+    "Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts": 297,
+    "ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures ": 294
   }
 }
