@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-26T00:34:54.911611",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
-        "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
-        "Critique of Agent Model"
-      ],
-      "new_keywords": [
-        "automation과",
-        "drive는",
-        "domaine에",
-        "society에",
-        "sistema의",
-        "정확성을提高하는",
-        "sistema를统一적으로",
-        "정의가必要하며",
-        "필수적입니다",
-        "semenantics가"
-      ]
-    },
-    {
       "date": "2026-06-27T00:26:19.449760",
       "articles_collected": 10,
       "debates_run": 3,
@@ -637,6 +615,25 @@
         "семантик",
         "tăng하고"
       ]
+    },
+    {
+      "date": "2026-07-26T00:22:38.407680",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Clinical Failure Rates over the Decades: Yikes",
+        "As Supreme Court decisions grow sharper, study examines justices’ concessions",
+        "What is happening to jobs? Separating AI hype from reality"
+      ],
+      "new_keywords": [
+        "десяти",
+        "뚜렷한意见을",
+        "날카로워지는",
+        "중요한課題를",
+        "비현실적인期待과",
+        "시장을เปล",
+        "clinical"
+      ]
     }
   ],
   "keywords": {
@@ -655,26 +652,26 @@
       "AI art"
     ],
     "self_determined": [
-      "아키텍처이다",
+      "데이터세트는",
+      "десяти",
+      "뚜렷한意见을",
+      "날카로워지는",
+      "달성하였습니다",
+      "aintma",
+      "제공함으로써",
+      "비현실적인期待과",
+      "프레임워크입니다",
       "설계되었습니다",
       "언어학적으로",
+      "clinical",
+      "프레임워크를",
+      "batchdag",
       "훈련되었으며",
       "소프트sensor",
-      "데이터세트는",
-      "aintma",
-      "프레임워크입니다",
-      "제공함으로써",
-      "intelligent",
-      "fraudshield",
       "quyết정을",
-      "семантик",
-      "health",
-      "tăng하고",
-      "프레임워크를",
       "laundering",
       "batchdag를",
-      "batchdag",
-      "달성하였습니다"
+      "семантик"
     ]
   },
   "topic_scores": {
@@ -914,6 +911,9 @@
     "OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent ": 287,
     "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative I": 273,
     "Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts": 297,
-    "ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures ": 294
+    "ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures ": 294,
+    "Clinical Failure Rates over the Decades: Yikes": 255,
+    "As Supreme Court decisions grow sharper, study examines justices’ concessions": 172,
+    "What is happening to jobs? Separating AI hype from reality": 164
   }
 }
