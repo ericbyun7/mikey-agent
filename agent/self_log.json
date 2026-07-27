@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-27T00:26:19.449760",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Detecting and Controlling Sycophancy with Cascading Linear Features",
-        "Life After Benchmark Saturation: A Case Study of CORE-Bench",
-        "Refusal Lives Downstream of Persona in Chat Models"
-      ],
-      "new_keywords": [
-        "상호작용하는",
-        "감소하였으며",
-        "밝혀졌습니다",
-        "hard라는",
-        "프레임워크이기",
-        "프레임워크의",
-        "나타나는지를",
-        "phá하였으며",
-        "refusal과",
-        "responsibility"
-      ]
-    },
-    {
       "date": "2026-06-28T00:25:33.572502",
       "articles_collected": 10,
       "debates_run": 3,
@@ -634,6 +612,28 @@
         "시장을เปล",
         "clinical"
       ]
+    },
+    {
+      "date": "2026-07-27T00:23:14.262108",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Show HN: Distill and serve small models with frontier quality for half the cost",
+        "Japan legend Miura, 59, scores first goal since 2022",
+        "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription"
+      ],
+      "new_keywords": [
+        "개발자들에게",
+        "claude",
+        "gemini의",
+        "tokenize된",
+        "subscription의",
+        "timeout",
+        "твор性을",
+        "timeout이나",
+        "불러일으키는",
+        "gemini"
+      ]
     }
   ],
   "keywords": {
@@ -652,26 +652,26 @@
       "AI art"
     ],
     "self_determined": [
-      "데이터세트는",
-      "десяти",
-      "뚜렷한意见을",
-      "날카로워지는",
+      "claude",
       "달성하였습니다",
-      "aintma",
-      "제공함으로써",
-      "비현실적인期待과",
-      "프레임워크입니다",
-      "설계되었습니다",
-      "언어학적으로",
-      "clinical",
-      "프레임워크를",
-      "batchdag",
-      "훈련되었으며",
-      "소프트sensor",
+      "десяти",
+      "불러일으키는",
       "quyết정을",
+      "설계되었습니다",
       "laundering",
-      "batchdag를",
-      "семантик"
+      "언어학적으로",
+      "뚜렷한意见을",
+      "프레임워크를",
+      "семантик",
+      "소프트sensor",
+      "개발자들에게",
+      "subscription의",
+      "clinical",
+      "gemini의",
+      "tokenize된",
+      "timeout",
+      "날카로워지는",
+      "твор性을"
     ]
   },
   "topic_scores": {
@@ -914,6 +914,9 @@
     "ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures ": 294,
     "Clinical Failure Rates over the Decades: Yikes": 255,
     "As Supreme Court decisions grow sharper, study examines justices’ concessions": 172,
-    "What is happening to jobs? Separating AI hype from reality": 164
+    "What is happening to jobs? Separating AI hype from reality": 164,
+    "Show HN: Distill and serve small models with frontier quality for half the cost": 245,
+    "Japan legend Miura, 59, scores first goal since 2022": 267,
+    "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription": 300
   }
 }
