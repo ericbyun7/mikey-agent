@@ -1,24 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-28T00:25:33.572502",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Detecting and Controlling Sycophancy with Cascading Linear Features",
-        "Life After Benchmark Saturation: A Case Study of CORE-Bench",
-        "Refusal Lives Downstream of Persona in Chat Models"
-      ],
-      "new_keywords": [
-        "각각에干预를",
-        "hard라는",
-        "나타났습니다",
-        "보여주었습니다",
-        "프레임워크가",
-        "상호작용하는"
-      ]
-    },
-    {
       "date": "2026-06-29T00:32:10.928379",
       "articles_collected": 10,
       "debates_run": 3,
@@ -634,6 +616,28 @@
         "불러일으키는",
         "gemini"
       ]
+    },
+    {
+      "date": "2026-07-28T00:26:09.534196",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Show HN: Dowe – A full-stack language for server, web, desktop, Android, and iOS",
+        "Netflix employee fired for sharing personal details in retreat trust exercise",
+        "DConf 2026 in London"
+      ],
+      "new_keywords": [
+        "정보를保護하는",
+        "nhiệm이",
+        "필요があり며",
+        "지원함으로써",
+        "업데이트하여",
+        "конферен스는",
+        "발표되었습니다",
+        "불러일으켰으며",
+        "конферен스에서",
+        "gemini"
+      ]
     }
   ],
   "keywords": {
@@ -652,26 +656,26 @@
       "AI art"
     ],
     "self_determined": [
-      "claude",
-      "달성하였습니다",
-      "десяти",
-      "불러일으키는",
-      "quyết정을",
-      "설계되었습니다",
-      "laundering",
-      "언어학적으로",
-      "뚜렷한意见을",
-      "프레임워크를",
-      "семантик",
       "소프트sensor",
-      "개발자들에게",
-      "subscription의",
-      "clinical",
+      "정보를保護하는",
+      "nhiệm이",
+      "언어학적으로",
       "gemini의",
+      "твор性을",
+      "quyết정을",
+      "laundering",
+      "불러일으켰으며",
+      "subscription의",
+      "claude",
+      "뚜렷한意见을",
+      "десяти",
+      "clinical",
+      "달성하였습니다",
       "tokenize된",
-      "timeout",
-      "날카로워지는",
-      "твор性을"
+      "개발자들에게",
+      "설계되었습니다",
+      "필요があり며",
+      "지원함으로써"
     ]
   },
   "topic_scores": {
@@ -917,6 +921,9 @@
     "What is happening to jobs? Separating AI hype from reality": 164,
     "Show HN: Distill and serve small models with frontier quality for half the cost": 245,
     "Japan legend Miura, 59, scores first goal since 2022": 267,
-    "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription": 300
+    "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription": 300,
+    "Show HN: Dowe – A full-stack language for server, web, desktop, Android, and iOS": 303,
+    "Netflix employee fired for sharing personal details in retreat trust exercise": 247,
+    "DConf 2026 in London": 300
   }
 }
