@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-29T00:32:10.928379",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Knowledge Distillation of Black-Box Large Language Models",
-        "A QNX-inspired operating system with selectable kernels",
-        "Xonaly – Canada's Independent Search Engine"
-      ],
-      "new_keywords": [
-        "研究領域이며",
-        "검증되었으며",
-        "실제應用에서",
-        "커뮤니티에서",
-        "học習하는",
-        "komment를",
-        "xonaly는",
-        "xonaly의",
-        "연구를介绍합니다",
-        "사용자들에게"
-      ]
-    },
-    {
       "date": "2026-06-30T00:25:14.758567",
       "articles_collected": 10,
       "debates_run": 3,
@@ -638,6 +616,28 @@
         "конферен스에서",
         "gemini"
       ]
+    },
+    {
+      "date": "2026-07-29T00:22:07.288008",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Concept-based Visual Counterfactual Explanations with Diffusion Models",
+        "SeT-Diff: Towards Semantic Foundation Models for HPC Telemetry and Time-Series",
+        "QFoldAgent: An Autonomous Quantum Optimization Multi-Agent System for Protein St"
+      ],
+      "new_keywords": [
+        "제안되었습니다",
+        "프레임워크인",
+        "gemini",
+        "프레임워크는",
+        "qfoldagent의",
+        "해밀턴يان",
+        "프레임워크를",
+        "error와",
+        "vượt어섭니다",
+        "взаим작용을"
+      ]
     }
   ],
   "keywords": {
@@ -656,26 +656,26 @@
       "AI art"
     ],
     "self_determined": [
-      "소프트sensor",
-      "정보를保護하는",
-      "nhiệm이",
-      "언어학적으로",
-      "gemini의",
-      "твор性을",
-      "quyết정을",
-      "laundering",
-      "불러일으켰으며",
-      "subscription의",
-      "claude",
-      "뚜렷한意见을",
-      "десяти",
-      "clinical",
-      "달성하였습니다",
       "tokenize된",
-      "개발자들에게",
       "설계되었습니다",
       "필요があり며",
-      "지원함으로써"
+      "제안되었습니다",
+      "vượt어섭니다",
+      "claude",
+      "프레임워크인",
+      "개발자들에게",
+      "뚜렷한意见을",
+      "clinical",
+      "gemini의",
+      "laundering",
+      "지원함으로써",
+      "взаим작용을",
+      "소프트sensor",
+      "gemini",
+      "언어학적으로",
+      "프레임워크는",
+      "nhiệm이",
+      "qfoldagent의"
     ]
   },
   "topic_scores": {
@@ -924,6 +924,9 @@
     "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription": 300,
     "Show HN: Dowe – A full-stack language for server, web, desktop, Android, and iOS": 303,
     "Netflix employee fired for sharing personal details in retreat trust exercise": 247,
-    "DConf 2026 in London": 300
+    "DConf 2026 in London": 300,
+    "Concept-based Visual Counterfactual Explanations with Diffusion Models": 317,
+    "SeT-Diff: Towards Semantic Foundation Models for HPC Telemetry and Time-Series": 291,
+    "QFoldAgent: An Autonomous Quantum Optimization Multi-Agent System for Protein St": 266
   }
 }
