@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-06-30T00:25:14.758567",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "AI-Model Network: Concept, Current State and Future",
-        "When Does Personality Composition Matter for Multi-Agent LLM Teams?",
-        "Internalizing the Future: A Unified Agentic Training Paradigm for World Model Pl"
-      ],
-      "new_keywords": [
-        "능력을แสดง했음에도",
-        "커뮤니케이션을",
-        "반응적이라는",
-        "부족했습니다",
-        "에이전트チーム의",
-        "커뮤니케이션에",
-        "에이전트팀의",
-        "특화模型로의",
-        "커뮤니케이션",
-        "분석함으로써"
-      ]
-    },
-    {
       "date": "2026-07-01T00:29:50.324914",
       "articles_collected": 10,
       "debates_run": 3,
@@ -638,6 +616,28 @@
         "vượt어섭니다",
         "взаим작용을"
       ]
+    },
+    {
+      "date": "2026-07-30T00:23:48.070979",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Do Models Fake Alignment Without Clear Consequences?",
+        "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge W",
+        "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA"
+      ],
+      "new_keywords": [
+        "컨텍스트에서",
+        "forge는",
+        "gemini",
+        "패턴을分析할",
+        "평가지기자의",
+        "kernel",
+        "바꾸는能力을",
+        "요약문입니다",
+        "forge의",
+        "평가지기자들의"
+      ]
     }
   ],
   "keywords": {
@@ -656,26 +656,26 @@
       "AI art"
     ],
     "self_determined": [
-      "tokenize된",
-      "설계되었습니다",
-      "필요があり며",
       "제안되었습니다",
-      "vượt어섭니다",
-      "claude",
-      "프레임워크인",
-      "개발자들에게",
-      "뚜렷한意见을",
-      "clinical",
-      "gemini의",
-      "laundering",
-      "지원함으로써",
-      "взаим작용을",
-      "소프트sensor",
+      "forge는",
       "gemini",
-      "언어학적으로",
+      "clinical",
       "프레임워크는",
-      "nhiệm이",
-      "qfoldagent의"
+      "패턴을分析할",
+      "개발자들에게",
+      "평가지기자의",
+      "바꾸는能力을",
+      "взаим작용을",
+      "qfoldagent의",
+      "소프트sensor",
+      "프레임워크인",
+      "vượt어섭니다",
+      "평가지기자들의",
+      "gemini의",
+      "컨텍스트에서",
+      "언어학적으로",
+      "kernel",
+      "설계되었습니다"
     ]
   },
   "topic_scores": {
@@ -927,6 +927,9 @@
     "DConf 2026 in London": 300,
     "Concept-based Visual Counterfactual Explanations with Diffusion Models": 317,
     "SeT-Diff: Towards Semantic Foundation Models for HPC Telemetry and Time-Series": 291,
-    "QFoldAgent: An Autonomous Quantum Optimization Multi-Agent System for Protein St": 266
+    "QFoldAgent: An Autonomous Quantum Optimization Multi-Agent System for Protein St": 266,
+    "Do Models Fake Alignment Without Clear Consequences?": 279,
+    "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge W": 247,
+    "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA": 317
   }
 }
