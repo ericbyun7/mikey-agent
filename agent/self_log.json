@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-07-03T00:26:07.246502",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction",
-        "Bounded Morality: Defining the Space of Moral Computation",
-        "The MMM Data Model -- A Normative Specification for Knowledge Interoperability i"
-      ],
-      "new_keywords": [
-        "정형화하는데",
-        "thực체의",
-        "محدود점을",
-        "프레임워크는",
-        "프레임워크를",
-        "도덕적推論을",
-        "해결하면서도",
-        "상호작용에서",
-        "형성되고改变된다는",
-        "필요があります"
-      ]
-    },
-    {
       "date": "2026-07-04T00:27:23.801413",
       "articles_collected": 10,
       "debates_run": 3,
@@ -638,6 +616,28 @@
         "clinlens는",
         "모델이監督된"
       ]
+    },
+    {
+      "date": "2026-08-02T00:19:18.018659",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Stop fucking around with database commits and transactions",
+        "Unraveling the mysteries of habit formation",
+        "Morph (YC S23) Is Hiring Member of Technical Stuff"
+      ],
+      "new_keywords": [
+        "습관을養成하고",
+        "데이터베이스의",
+        "database",
+        "유지되는지에",
+        "반론에서出现한",
+        "teknolojik",
+        "데이터베이스",
+        "fucking",
+        "morph에서",
+        "저장되어习慣화됩니다"
+      ]
     }
   ],
   "keywords": {
@@ -656,26 +656,26 @@
       "AI art"
     ],
     "self_determined": [
-      "설계되었습니다",
-      "프레임워크인",
-      "언어학적으로",
-      "функци의",
-      "qfoldagent의",
-      "패턴을分析할",
-      "소프트sensor",
-      "평가하였으므로",
-      "제안하였습니다",
-      "개발자들에게",
-      "clinlens는",
       "바꾸는能力을",
-      "모델이監督된",
-      "최적화함으로써",
-      "clinical",
-      "gemini의",
-      "평가지기자들의",
+      "습관을養成하고",
+      "데이터베이스의",
       "제안되었습니다",
+      "database",
+      "소프트sensor",
+      "패턴을分析할",
+      "gemini의",
+      "функци의",
+      "반론에서出现한",
       "프레임워크를",
-      "분석했습니다"
+      "분석했습니다",
+      "유지되는지에",
+      "설계되었습니다",
+      "평가하였으므로",
+      "teknolojik",
+      "데이터베이스",
+      "clinical",
+      "프레임워크인",
+      "fucking"
     ]
   },
   "topic_scores": {
@@ -933,6 +933,9 @@
     "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA": 340,
     "Probing the Origins of Reasoning Performance: Representational Quality for Mathe": 378,
     "Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Syst": 339,
-    "ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinica": 332
+    "ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinica": 332,
+    "Stop fucking around with database commits and transactions": 235,
+    "Unraveling the mysteries of habit formation": 289,
+    "Morph (YC S23) Is Hiring Member of Technical Stuff": 260
   }
 }
