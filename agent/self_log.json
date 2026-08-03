@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-07-04T00:27:23.801413",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Exp",
-        "Auto-FL-Research: Agentic Search for Federated Learning Algorithms",
-        "The Wiola Architecture for Efficient Small Language Models"
-      ],
-      "new_keywords": [
-        "spiral",
-        "learning",
-        "attention",
-        "wiola는",
-        "language",
-        "아키텍처를测试하고",
-        "프레임워크입니다",
-        "시간을缩短할",
-        "비현실적이거나",
-        "결합함으로써"
-      ]
-    },
-    {
       "date": "2026-07-05T00:24:03.515441",
       "articles_collected": 10,
       "debates_run": 3,
@@ -638,6 +616,28 @@
         "morph에서",
         "저장되어习慣화됩니다"
       ]
+    },
+    {
+      "date": "2026-08-03T00:21:20.012667",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours",
+        "AI poster wins Ohio State Fair contest",
+        "The Computational Theory of Mind (2015)"
+      ],
+      "new_keywords": [
+        "github에서",
+        "설계되었습니다",
+        "개발자들에게",
+        "theory",
+        "수상하였습니다",
+        "소프트웨어로",
+        "보여주었으며",
+        "프로그램으로",
+        "시스템적으로",
+        "기여했습니다"
+      ]
     }
   ],
   "keywords": {
@@ -656,26 +656,26 @@
       "AI art"
     ],
     "self_determined": [
-      "바꾸는能力을",
-      "습관을養成하고",
-      "데이터베이스의",
-      "제안되었습니다",
-      "database",
-      "소프트sensor",
-      "패턴을分析할",
-      "gemini의",
-      "функци의",
-      "반론에서出现한",
-      "프레임워크를",
-      "분석했습니다",
-      "유지되는지에",
-      "설계되었습니다",
-      "평가하였으므로",
       "teknolojik",
       "데이터베이스",
+      "반론에서出现한",
+      "수상하였습니다",
+      "프로그램으로",
+      "데이터베이스의",
+      "습관을養成하고",
+      "기여했습니다",
+      "프레임워크를",
+      "평가하였으므로",
+      "설계되었습니다",
+      "유지되는지에",
+      "패턴을分析할",
       "clinical",
-      "프레임워크인",
-      "fucking"
+      "바꾸는能力을",
+      "제안되었습니다",
+      "github에서",
+      "개발자들에게",
+      "theory",
+      "프레임워크인"
     ]
   },
   "topic_scores": {
@@ -936,6 +936,9 @@
     "ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinica": 332,
     "Stop fucking around with database commits and transactions": 235,
     "Unraveling the mysteries of habit formation": 289,
-    "Morph (YC S23) Is Hiring Member of Technical Stuff": 260
+    "Morph (YC S23) Is Hiring Member of Technical Stuff": 260,
+    "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours": 276,
+    "AI poster wins Ohio State Fair contest": 316,
+    "The Computational Theory of Mind (2015)": 277
   }
 }
