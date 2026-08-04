@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-07-05T00:24:03.515441",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "New bacterial species discovered in NASA's cleanrooms",
-        "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-        "Protocol Prying: Vulnerability Research in AirDrop and Quick Share"
-      ],
-      "new_keywords": [
-        "발견되었습니다",
-        "설계되었지만",
-        "airdrop",
-        "nghiên",
-        "vulnerability",
-        "protocol",
-        "발견되었으며",
-        "이러한发现은",
-        "research",
-        "cứu에서는"
-      ]
-    },
-    {
       "date": "2026-07-06T00:28:06.204046",
       "articles_collected": 10,
       "debates_run": 3,
@@ -638,6 +616,28 @@
         "시스템적으로",
         "기여했습니다"
       ]
+    },
+    {
+      "date": "2026-08-04T00:30:27.874924",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent",
+        "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Gener",
+        "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the"
+      ],
+      "new_keywords": [
+        "파이프라인을",
+        "프레임워크를",
+        "프레임워크는",
+        "인공지능科学자",
+        "논문의质量을",
+        "의미를を持고",
+        "설계하고评价하는",
+        "파이프라인으로",
+        "agentic",
+        "mathlib에서"
+      ]
     }
   ],
   "keywords": {
@@ -656,26 +656,26 @@
       "AI art"
     ],
     "self_determined": [
-      "teknolojik",
-      "데이터베이스",
-      "반론에서出现한",
-      "수상하였습니다",
-      "프로그램으로",
-      "데이터베이스의",
-      "습관을養成하고",
-      "기여했습니다",
-      "프레임워크를",
-      "평가하였으므로",
-      "설계되었습니다",
-      "유지되는지에",
-      "패턴을分析할",
-      "clinical",
-      "바꾸는能力을",
-      "제안되었습니다",
-      "github에서",
-      "개발자들에게",
+      "프레임워크인",
       "theory",
-      "프레임워크인"
+      "파이프라인을",
+      "논문의质量을",
+      "수상하였습니다",
+      "반론에서出现한",
+      "설계하고评价하는",
+      "mathlib에서",
+      "유지되는지에",
+      "clinical",
+      "평가하였으므로",
+      "습관을養成하고",
+      "제안되었습니다",
+      "teknolojik",
+      "프로그램으로",
+      "기여했습니다",
+      "데이터베이스",
+      "프레임워크를",
+      "프레임워크는",
+      "인공지능科学자"
     ]
   },
   "topic_scores": {
@@ -939,6 +939,9 @@
     "Morph (YC S23) Is Hiring Member of Technical Stuff": 260,
     "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours": 276,
     "AI poster wins Ohio State Fair contest": 316,
-    "The Computational Theory of Mind (2015)": 277
+    "The Computational Theory of Mind (2015)": 277,
+    "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent": 272,
+    "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Gener": 311,
+    "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the": 311
   }
 }
