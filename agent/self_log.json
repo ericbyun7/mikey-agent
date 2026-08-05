@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-07-06T00:28:06.204046",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Connections in Math: the two kinds of random",
-        "DNSGlobe – Rust TUI to watch DNS propagate around the world",
-        "Composite Video on the NES: Why's it so wobbly?"
-      ],
-      "new_keywords": [
-        "개발자들에게",
-        "제공함으로써",
-        "무작위성隨機性의",
-        "dnsglobe의",
-        "error와",
-        "설계되었으며",
-        "현상을分析하여",
-        "dnsglobe는",
-        "전세계적으로",
-        "gemini"
-      ]
-    },
-    {
       "date": "2026-07-07T00:29:24.019561",
       "articles_collected": 10,
       "debates_run": 3,
@@ -638,6 +616,28 @@
         "agentic",
         "mathlib에서"
       ]
+    },
+    {
+      "date": "2026-08-05T00:25:29.003418",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent",
+        "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Gener",
+        "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the"
+      ],
+      "new_keywords": [
+        "프레임워크는",
+        "agentic",
+        "mathlib를",
+        "프레임워크의",
+        "과학적严谨성",
+        "프레임워크를",
+        "kritische",
+        "시스템으로의",
+        "played합니다",
+        "문제를发现하고"
+      ]
     }
   ],
   "keywords": {
@@ -656,26 +656,26 @@
       "AI art"
     ],
     "self_determined": [
-      "프레임워크인",
-      "theory",
-      "파이프라인을",
-      "논문의质量을",
-      "수상하였습니다",
-      "반론에서出现한",
-      "설계하고评价하는",
-      "mathlib에서",
-      "유지되는지에",
-      "clinical",
-      "평가하였으므로",
-      "습관을養成하고",
-      "제안되었습니다",
-      "teknolojik",
-      "프로그램으로",
-      "기여했습니다",
-      "데이터베이스",
-      "프레임워크를",
       "프레임워크는",
-      "인공지능科学자"
+      "유지되는지에",
+      "agentic",
+      "프로그램으로",
+      "데이터베이스",
+      "프레임워크인",
+      "과학적严谨성",
+      "평가하였으므로",
+      "반론에서出现한",
+      "theory",
+      "기여했습니다",
+      "teknolojik",
+      "수상하였습니다",
+      "mathlib를",
+      "설계하고评价하는",
+      "인공지능科学자",
+      "제안되었습니다",
+      "프레임워크의",
+      "kritische",
+      "논문의质量을"
     ]
   },
   "topic_scores": {
@@ -940,8 +940,8 @@
     "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours": 276,
     "AI poster wins Ohio State Fair contest": 316,
     "The Computational Theory of Mind (2015)": 277,
-    "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent": 272,
-    "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Gener": 311,
-    "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the": 311
+    "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent": 286,
+    "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Gener": 303,
+    "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the": 248
   }
 }
