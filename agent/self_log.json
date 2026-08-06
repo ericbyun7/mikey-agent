@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-07-07T00:29:24.019561",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Ternlight – 7 MB embedding model that runs in browser (WASM)",
-        "Fable turned remarkable into Tom Riddle's diary from Harry Potter",
-        "Vessel"
-      ],
-      "new_keywords": [
-        "시리즈의重要한",
-        "결합되었습니다",
-        "적용했습니다",
-        "timeout",
-        "브라우저에서",
-        "인공지능聊天봇의",
-        "응용하여聊天봇을",
-        "maximerivest라는",
-        "경험하였습니다",
-        "만들었습니다"
-      ]
-    },
-    {
       "date": "2026-07-08T00:19:09.894410",
       "articles_collected": 10,
       "debates_run": 3,
@@ -638,6 +616,28 @@
         "played합니다",
         "문제를发现하고"
       ]
+    },
+    {
+      "date": "2026-08-06T00:21:17.145091",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "ISEE: Interactive Semantic Enrichment for Database Fields",
+        "Self-Organising Digital Circuits",
+        "Beyond the Hivemind: Escaping LLM Homogeneity via Meta-Persona Anchoring and Seq"
+      ],
+      "new_keywords": [
+        "semantic",
+        "제안하였습니다",
+        "질문에서도狹隘한",
+        "나타났습니다",
+        "circuits를",
+        "digital",
+        "시스템에서는",
+        "프레임워크를",
+        "프레임워크는",
+        "circuits을"
+      ]
     }
   ],
   "keywords": {
@@ -656,26 +656,26 @@
       "AI art"
     ],
     "self_determined": [
-      "프레임워크는",
-      "유지되는지에",
-      "agentic",
-      "프로그램으로",
-      "데이터베이스",
+      "semantic",
+      "제안하였습니다",
+      "반론에서出现한",
       "프레임워크인",
       "과학적严谨성",
-      "평가하였으므로",
-      "반론에서出现한",
       "theory",
-      "기여했습니다",
-      "teknolojik",
-      "수상하였습니다",
-      "mathlib를",
       "설계하고评价하는",
+      "프로그램으로",
+      "데이터베이스",
+      "평가하였으므로",
       "인공지능科学자",
-      "제안되었습니다",
-      "프레임워크의",
+      "agentic",
       "kritische",
-      "논문의质量을"
+      "프레임워크의",
+      "mathlib를",
+      "질문에서도狹隘한",
+      "수상하였습니다",
+      "나타났습니다",
+      "circuits를",
+      "digital"
     ]
   },
   "topic_scores": {
@@ -942,6 +942,9 @@
     "The Computational Theory of Mind (2015)": 277,
     "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent": 286,
     "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Gener": 303,
-    "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the": 248
+    "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the": 248,
+    "ISEE: Interactive Semantic Enrichment for Database Fields": 291,
+    "Self-Organising Digital Circuits": 290,
+    "Beyond the Hivemind: Escaping LLM Homogeneity via Meta-Persona Anchoring and Seq": 255
   }
 }
