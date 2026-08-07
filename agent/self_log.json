@@ -1,25 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-07-08T00:19:09.894410",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "iFLYTEK-Embodied-Omni Technical Report",
-        "Internal Pluralism and the Limits of Pairwise Comparisons",
-        "ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability"
-      ],
-      "new_keywords": [
-        "약화시킵니다",
-        "에이전트에게",
-        "설계되었습니다",
-        "데에는不足한",
-        "접근법입니다",
-        "어려웠습니다",
-        "결정적答案을"
-      ]
-    },
-    {
       "date": "2026-07-09T00:30:51.566696",
       "articles_collected": 10,
       "debates_run": 3,
@@ -638,6 +619,28 @@
         "프레임워크는",
         "circuits을"
       ]
+    },
+    {
+      "date": "2026-08-07T02:09:57.081141",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artif",
+        "The LLM Proposes, the Executive Disposes: A Self-Verifying Agent Instrument that",
+        "Monte Carlo Tree Search for Table-to-Multimodal Report Generation"
+      ],
+      "new_keywords": [
+        "이олнитель이",
+        "파이프라인과",
+        "제안되었습니다",
+        "시스템의長期적",
+        "프레임워크는",
+        "프레임워크를",
+        "여부를検討합니다",
+        "해결함으로써",
+        "사이클에서operate되기",
+        "프레임워크의"
+      ]
     }
   ],
   "keywords": {
@@ -656,26 +659,26 @@
       "AI art"
     ],
     "self_determined": [
-      "semantic",
-      "제안하였습니다",
-      "반론에서出现한",
-      "프레임워크인",
-      "과학적严谨성",
+      "이олнитель이",
+      "파이프라인과",
+      "제안되었습니다",
       "theory",
+      "프레임워크는",
+      "여부를検討합니다",
+      "해결함으로써",
       "설계하고评价하는",
-      "프로그램으로",
-      "데이터베이스",
+      "semantic",
+      "사이클에서operate되기",
+      "프레임워크인",
       "평가하였으므로",
+      "데이터베이스",
       "인공지능科学자",
-      "agentic",
-      "kritische",
-      "프레임워크의",
-      "mathlib를",
       "질문에서도狹隘한",
+      "과학적严谨성",
+      "프로그램으로",
       "수상하였습니다",
-      "나타났습니다",
-      "circuits를",
-      "digital"
+      "제안하였습니다",
+      "시스템의長期적"
     ]
   },
   "topic_scores": {
@@ -945,6 +948,9 @@
     "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the": 248,
     "ISEE: Interactive Semantic Enrichment for Database Fields": 291,
     "Self-Organising Digital Circuits": 290,
-    "Beyond the Hivemind: Escaping LLM Homogeneity via Meta-Persona Anchoring and Seq": 255
+    "Beyond the Hivemind: Escaping LLM Homogeneity via Meta-Persona Anchoring and Seq": 255,
+    "A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artif": 309,
+    "The LLM Proposes, the Executive Disposes: A Self-Verifying Agent Instrument that": 312,
+    "Monte Carlo Tree Search for Table-to-Multimodal Report Generation": 333
   }
 }
