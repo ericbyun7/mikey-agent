@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-07-09T00:30:51.566696",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Prompt-to-Paper: Agentic AI System for Bioinformatics",
-        "From Graphs to Gradients: Physics-Inspired Structural Attribution for Cyber-Phys",
-        "CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Progr"
-      ],
-      "new_keywords": [
-        "language",
-        "노력을代表합니다",
-        "벤치마크로서",
-        "cstutorbench는",
-        "프레임워크가",
-        "제시되었는데",
-        "프로그래밍을",
-        "프레임워크는",
-        "상관관계만을",
-        "프레임워크를"
-      ]
-    },
-    {
       "date": "2026-07-10T00:28:19.772593",
       "articles_collected": 10,
       "debates_run": 3,
@@ -641,6 +619,28 @@
         "사이클에서operate되기",
         "프레임워크의"
       ]
+    },
+    {
+      "date": "2026-08-07T23:55:31.016794",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Agentic Nesting: A New Methodology for Existing Enterprise Application Integrati",
+        "The Ignition Index: Measuring Global Workspace Dynamics in Language Models",
+        "Woodpecker Distillation: Weak Models Diagnose Reasoning Bugs in Strong Models"
+      ],
+      "new_keywords": [
+        "timeout",
+        "index의",
+        "sahip한",
+        "문제를引き起こ고",
+        "ignition",
+        "애플리케이션을",
+        "데이터孤島화와",
+        "index는",
+        "index를",
+        "illegal"
+      ]
     }
   ],
   "keywords": {
@@ -660,25 +660,25 @@
     ],
     "self_determined": [
       "이олнитель이",
-      "파이프라인과",
-      "제안되었습니다",
-      "theory",
-      "프레임워크는",
-      "여부를検討합니다",
-      "해결함으로써",
-      "설계하고评价하는",
-      "semantic",
-      "사이클에서operate되기",
-      "프레임워크인",
       "평가하였으므로",
-      "데이터베이스",
-      "인공지능科学자",
-      "질문에서도狹隘한",
-      "과학적严谨성",
-      "프로그램으로",
-      "수상하였습니다",
+      "theory",
+      "index의",
+      "semantic",
+      "문제를引き起こ고",
+      "파이프라인과",
+      "데이터孤島화와",
       "제안하였습니다",
-      "시스템의長期적"
+      "index를",
+      "illegal",
+      "시스템의長期적",
+      "프레임워크는",
+      "프레임워크인",
+      "timeout",
+      "sahip한",
+      "해결함으로써",
+      "수상하였습니다",
+      "여부를検討합니다",
+      "ignition"
     ]
   },
   "topic_scores": {
@@ -951,6 +951,9 @@
     "Beyond the Hivemind: Escaping LLM Homogeneity via Meta-Persona Anchoring and Seq": 255,
     "A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artif": 309,
     "The LLM Proposes, the Executive Disposes: A Self-Verifying Agent Instrument that": 312,
-    "Monte Carlo Tree Search for Table-to-Multimodal Report Generation": 333
+    "Monte Carlo Tree Search for Table-to-Multimodal Report Generation": 333,
+    "Agentic Nesting: A New Methodology for Existing Enterprise Application Integrati": 320,
+    "The Ignition Index: Measuring Global Workspace Dynamics in Language Models": 339,
+    "Woodpecker Distillation: Weak Models Diagnose Reasoning Bugs in Strong Models": 313
   }
 }
