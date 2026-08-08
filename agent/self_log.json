@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-07-10T00:28:19.772593",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
-        "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Dri",
-        "LLM-powered reasoning in agent-based modeling"
-      ],
-      "new_keywords": [
-        "프레임워크를",
-        "gemini와",
-        "agentlens의",
-        "해결함으로써",
-        "가능해집니다",
-        "보여주었습니다",
-        "업데이트하는",
-        "agentlens는",
-        "벤치마크보다",
-        "тради적인"
-      ]
-    },
-    {
       "date": "2026-07-11T00:20:53.430965",
       "articles_collected": 10,
       "debates_run": 3,
@@ -641,6 +619,28 @@
         "index를",
         "illegal"
       ]
+    },
+    {
+      "date": "2026-08-08T23:48:50.063293",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack",
+        "The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf]",
+        "Open-source interactive map for the Aug 12 total solar eclipse"
+      ],
+      "new_keywords": [
+        "제기되었습니다",
+        "소스인터랙티브",
+        "maryland",
+        "사용되는지에",
+        "effectiveness",
+        "제한했습니다",
+        "mathematics",
+        "추상적인思惟의",
+        "폐쇄되었습니다",
+        "인사이트에서"
+      ]
     }
   ],
   "keywords": {
@@ -660,25 +660,25 @@
     ],
     "self_determined": [
       "이олнитель이",
+      "프레임워크는",
+      "timeout",
+      "사용되는지에",
+      "제한했습니다",
       "평가하였으므로",
-      "theory",
+      "문제를引き起こ고",
+      "시스템의長期적",
       "index의",
       "semantic",
-      "문제를引き起こ고",
-      "파이프라인과",
-      "데이터孤島화와",
       "제안하였습니다",
-      "index를",
-      "illegal",
-      "시스템의長期적",
-      "프레임워크는",
-      "프레임워크인",
-      "timeout",
+      "제기되었습니다",
+      "소스인터랙티브",
       "sahip한",
-      "해결함으로써",
-      "수상하였습니다",
-      "여부를検討합니다",
-      "ignition"
+      "maryland",
+      "theory",
+      "effectiveness",
+      "mathematics",
+      "파이프라인과",
+      "추상적인思惟의"
     ]
   },
   "topic_scores": {
@@ -954,6 +954,9 @@
     "Monte Carlo Tree Search for Table-to-Multimodal Report Generation": 333,
     "Agentic Nesting: A New Methodology for Existing Enterprise Application Integrati": 320,
     "The Ignition Index: Measuring Global Workspace Dynamics in Language Models": 339,
-    "Woodpecker Distillation: Weak Models Diagnose Reasoning Bugs in Strong Models": 313
+    "Woodpecker Distillation: Weak Models Diagnose Reasoning Bugs in Strong Models": 313,
+    "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack": 299,
+    "The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf]": 277,
+    "Open-source interactive map for the Aug 12 total solar eclipse": 290
   }
 }
