@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-07-11T00:20:53.430965",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Context Graphs for Proactive Enterprise Agents",
-        "AI-integrated models for assessing agricultural resilience",
-        "Adversarial Social Epistemology for Assemblies of Humans and Large Language Mode"
-      ],
-      "new_keywords": [
-        "프레임워크를",
-        "상호작용하는",
-        "agents의",
-        "graphs에",
-        "graphs는企業의",
-        "enterprise",
-        "회복탄력성을",
-        "potvrzona이며",
-        "proactive",
-        "상호작용에서"
-      ]
-    },
-    {
       "date": "2026-07-12T00:14:32.513484",
       "articles_collected": 10,
       "debates_run": 3,
@@ -641,6 +619,21 @@
         "폐쇄되었습니다",
         "인사이트에서"
       ]
+    },
+    {
+      "date": "2026-08-09T23:52:07.733279",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "To Recruit Teachers, School Districts Are Building Homes",
+        "Georgia police officers fired after Flock camera misuse",
+        "Tuxedo No. 2 – Cocktail recipes"
+      ],
+      "new_keywords": [
+        "tuxedo",
+        "웹사이트에는",
+        "설계되었지만"
+      ]
     }
   ],
   "keywords": {
@@ -659,26 +652,26 @@
       "AI art"
     ],
     "self_determined": [
-      "이олнитель이",
-      "프레임워크는",
-      "timeout",
-      "사용되는지에",
-      "제한했습니다",
-      "평가하였으므로",
-      "문제를引き起こ고",
-      "시스템의長期적",
-      "index의",
-      "semantic",
-      "제안하였습니다",
-      "제기되었습니다",
-      "소스인터랙티브",
-      "sahip한",
-      "maryland",
-      "theory",
-      "effectiveness",
       "mathematics",
       "파이프라인과",
-      "추상적인思惟의"
+      "사용되는지에",
+      "theory",
+      "effectiveness",
+      "이олнитель이",
+      "제안하였습니다",
+      "제한했습니다",
+      "제기되었습니다",
+      "웹사이트에는",
+      "index의",
+      "평가하였으므로",
+      "시스템의長期적",
+      "소스인터랙티브",
+      "maryland",
+      "sahip한",
+      "추상적인思惟의",
+      "tuxedo",
+      "semantic",
+      "설계되었지만"
     ]
   },
   "topic_scores": {
@@ -957,6 +950,9 @@
     "Woodpecker Distillation: Weak Models Diagnose Reasoning Bugs in Strong Models": 313,
     "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack": 299,
     "The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf]": 277,
-    "Open-source interactive map for the Aug 12 total solar eclipse": 290
+    "Open-source interactive map for the Aug 12 total solar eclipse": 290,
+    "To Recruit Teachers, School Districts Are Building Homes": 232,
+    "Georgia police officers fired after Flock camera misuse": 230,
+    "Tuxedo No. 2 – Cocktail recipes": 260
   }
 }
