@@ -1,26 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-07-12T00:14:32.513484",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Doctors die. It's not like the rest of us, but it should be (2016)",
-        "Weightlifting beats running for blood sugar control, researchers find",
-        "Mesh LLM: distributed AI computing on iroh"
-      ],
-      "new_keywords": [
-        "효과적이라는",
-        "밝혀졌습니다",
-        "programu을",
-        "있으므로주의가",
-        "metadata",
-        "발견했습니다",
-        "구현되었으며",
-        "timeout"
-      ]
-    },
-    {
       "date": "2026-07-13T00:13:46.606884",
       "articles_collected": 10,
       "debates_run": 3,
@@ -634,6 +614,28 @@
         "웹사이트에는",
         "설계되었지만"
       ]
+    },
+    {
+      "date": "2026-08-10T23:56:15.257166",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation L",
+        "EntropyMoE: Entropy-Aware Sparse Expert Routing for Tokenizer-Free LLMs",
+        "Beyond Routing Weights: Faithful Response-Level Interpretation of Mixture-of-Exp"
+      ],
+      "new_keywords": [
+        "routing",
+        "contrast",
+        "제안하였습니다",
+        "기존의routing",
+        "contribution",
+        "models",
+        "expert가",
+        "entropymoe는",
+        "제한적입니다",
+        "보여주었습니다"
+      ]
     }
   ],
   "keywords": {
@@ -652,26 +654,26 @@
       "AI art"
     ],
     "self_determined": [
-      "mathematics",
-      "파이프라인과",
-      "사용되는지에",
-      "theory",
-      "effectiveness",
+      "설계되었지만",
+      "routing",
       "이олнитель이",
-      "제안하였습니다",
-      "제한했습니다",
-      "제기되었습니다",
-      "웹사이트에는",
+      "contrast",
       "index의",
-      "평가하였으므로",
-      "시스템의長期적",
-      "소스인터랙티브",
-      "maryland",
-      "sahip한",
+      "사용되는지에",
       "추상적인思惟의",
-      "tuxedo",
+      "소스인터랙티브",
+      "effectiveness",
       "semantic",
-      "설계되었지만"
+      "평가하였으므로",
+      "maryland",
+      "보여주었습니다",
+      "웹사이트에는",
+      "tuxedo",
+      "mathematics",
+      "제안하였습니다",
+      "theory",
+      "기존의routing",
+      "contribution"
     ]
   },
   "topic_scores": {
@@ -953,6 +955,9 @@
     "Open-source interactive map for the Aug 12 total solar eclipse": 290,
     "To Recruit Teachers, School Districts Are Building Homes": 232,
     "Georgia police officers fired after Flock camera misuse": 230,
-    "Tuxedo No. 2 – Cocktail recipes": 260
+    "Tuxedo No. 2 – Cocktail recipes": 260,
+    "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation L": 357,
+    "EntropyMoE: Entropy-Aware Sparse Expert Routing for Tokenizer-Free LLMs": 267,
+    "Beyond Routing Weights: Faithful Response-Level Interpretation of Mixture-of-Exp": 377
   }
 }
