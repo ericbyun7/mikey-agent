@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-07-13T00:13:46.606884",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Designing and assembling my first PCB",
-        "Architecture Description Languages [pdf]",
-        "Cyberpunk Comics, Manga and Graphic Novels"
-      ],
-      "new_keywords": [
-        "전문가들에게",
-        "분석해보겠습니다",
-        "graphic",
-        "architecture",
-        "소프트웨어의",
-        "방법을介绍합니다",
-        "comics",
-        "cyberpunk",
-        "verificar",
-        "방법을介绍함으로써"
-      ]
-    },
-    {
       "date": "2026-07-14T00:14:37.120544",
       "articles_collected": 10,
       "debates_run": 3,
@@ -636,6 +614,25 @@
         "제한적입니다",
         "보여주었습니다"
       ]
+    },
+    {
+      "date": "2026-08-12T00:00:16.880753",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Towards an Argumentative Foundation for Evaluative AI",
+        "Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domain",
+        "Determinization in Structure Theories: A Unified Framework via Closure, Comparab"
+      ],
+      "new_keywords": [
+        "방향으로서의",
+        "допуст림",
+        "패러다임으로서의",
+        "한계에達하는",
+        "допuštim",
+        "gemini",
+        "프레임워크를"
+      ]
     }
   ],
   "keywords": {
@@ -654,26 +651,26 @@
       "AI art"
     ],
     "self_determined": [
-      "설계되었지만",
-      "routing",
-      "이олнитель이",
-      "contrast",
-      "index의",
-      "사용되는지에",
-      "추상적인思惟의",
-      "소스인터랙티브",
-      "effectiveness",
       "semantic",
-      "평가하였으므로",
+      "소스인터랙티브",
+      "index의",
+      "방향으로서의",
       "maryland",
-      "보여주었습니다",
-      "웹사이트에는",
-      "tuxedo",
-      "mathematics",
-      "제안하였습니다",
       "theory",
-      "기존의routing",
-      "contribution"
+      "routing",
+      "effectiveness",
+      "제안하였습니다",
+      "한계에達하는",
+      "contribution",
+      "допuštim",
+      "설계되었지만",
+      "프레임워크를",
+      "사용되는지에",
+      "gemini",
+      "보여주었습니다",
+      "추상적인思惟의",
+      "웹사이트에는",
+      "допуст림"
     ]
   },
   "topic_scores": {
@@ -958,6 +955,9 @@
     "Tuxedo No. 2 – Cocktail recipes": 260,
     "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation L": 357,
     "EntropyMoE: Entropy-Aware Sparse Expert Routing for Tokenizer-Free LLMs": 267,
-    "Beyond Routing Weights: Faithful Response-Level Interpretation of Mixture-of-Exp": 377
+    "Beyond Routing Weights: Faithful Response-Level Interpretation of Mixture-of-Exp": 377,
+    "Towards an Argumentative Foundation for Evaluative AI": 304,
+    "Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domain": 328,
+    "Determinization in Structure Theories: A Unified Framework via Closure, Comparab": 287
   }
 }
