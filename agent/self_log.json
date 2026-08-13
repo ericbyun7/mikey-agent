@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-07-14T00:14:37.120544",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
-        "CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for R",
-        "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent "
-      ],
-      "new_keywords": [
-        "감소시키는지에",
-        "plans의",
-        "인터페이스로",
-        "감소시킵니다",
-        "프레임워크인",
-        "cogniconsole",
-        "입증했습니다",
-        "입증되었습니다",
-        "traversal",
-        "프레임워크의"
-      ]
-    },
-    {
       "date": "2026-07-15T00:13:02.790744",
       "articles_collected": 10,
       "debates_run": 3,
@@ -633,6 +611,28 @@
         "gemini",
         "프레임워크를"
       ]
+    },
+    {
+      "date": "2026-08-13T00:00:53.036299",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Closed-Loop LLM Co-Pilots for Digital Agriculture",
+        "SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning",
+        "MIDAS: Mutual Information Disentanglement with Uncertainty-Aware Fusion for Inco"
+      ],
+      "new_keywords": [
+        "observation",
+        "평가했습니다",
+        "humano",
+        "제공함으로써",
+        "시뮬레이션함으로써",
+        "policy",
+        "midas의",
+        "프레임워크와",
+        "disentanglement",
+        "네트워크에서"
+      ]
     }
   ],
   "keywords": {
@@ -651,26 +651,26 @@
       "AI art"
     ],
     "self_determined": [
+      "웹사이트에는",
+      "disentanglement",
+      "추상적인思惟의",
+      "maryland",
+      "observation",
+      "네트워크에서",
+      "평가했습니다",
+      "설계되었지만",
+      "theory",
+      "humano",
+      "방향으로서의",
+      "제공함으로써",
+      "routing",
+      "시뮬레이션함으로써",
+      "допуст림",
+      "policy",
       "semantic",
       "소스인터랙티브",
-      "index의",
-      "방향으로서의",
-      "maryland",
-      "theory",
-      "routing",
-      "effectiveness",
-      "제안하였습니다",
       "한계에達하는",
-      "contribution",
-      "допuštim",
-      "설계되었지만",
-      "프레임워크를",
-      "사용되는지에",
-      "gemini",
-      "보여주었습니다",
-      "추상적인思惟의",
-      "웹사이트에는",
-      "допуст림"
+      "사용되는지에"
     ]
   },
   "topic_scores": {
@@ -958,6 +958,9 @@
     "Beyond Routing Weights: Faithful Response-Level Interpretation of Mixture-of-Exp": 377,
     "Towards an Argumentative Foundation for Evaluative AI": 304,
     "Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domain": 328,
-    "Determinization in Structure Theories: A Unified Framework via Closure, Comparab": 287
+    "Determinization in Structure Theories: A Unified Framework via Closure, Comparab": 287,
+    "Closed-Loop LLM Co-Pilots for Digital Agriculture": 347,
+    "SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning": 299,
+    "MIDAS: Mutual Information Disentanglement with Uncertainty-Aware Fusion for Inco": 390
   }
 }
