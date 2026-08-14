@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-07-16T00:21:33.826486",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Optimal Adaptive Market Making: A Theoretical Framework for High-Yield Liquidity",
-        "In-Context Reinforcement Learning under Non-Stationarity: A Survey",
-        "Ontology-Amplified Distillation and Contextuality Auditing for Sovereign Enterpr"
-      ],
-      "new_keywords": [
-        "지역적으로训練하였습니다",
-        "결합하였습니다",
-        "개발함으로써",
-        "준수하면서도",
-        "learning",
-        "전략을구축하는",
-        "reinforcement",
-        "연구과제입니다",
-        "업데이트하지",
-        "foundation"
-      ]
-    },
-    {
       "date": "2026-07-17T00:21:30.375977",
       "articles_collected": 10,
       "debates_run": 3,
@@ -633,6 +611,28 @@
         "distribird",
         "애플리케이션이"
       ]
+    },
+    {
+      "date": "2026-08-14T23:42:50.777511",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Position: Reasoning is a Learnable Rule-Based Process",
+        "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
+        "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit"
+      ],
+      "new_keywords": [
+        "달성하면서도",
+        "automated",
+        "probabilistic",
+        "integritybench",
+        "integritybench라는",
+        "generative",
+        "나타났습니다",
+        "의사결정에서",
+        "행위자들에게",
+        "integritybench를"
+      ]
     }
   ],
   "keywords": {
@@ -652,25 +652,25 @@
     ],
     "self_determined": [
       "metadata",
-      "한계에達하는",
-      "semantic",
-      "사용되는지에",
-      "distribird",
-      "distribird의",
-      "설계되었지만",
-      "orchestrator",
-      "допуст림",
-      "애플리케이션이",
       "routing",
-      "observation",
-      "humano",
-      "방향으로서의",
+      "probabilistic",
+      "distribird",
+      "의사결정에서",
+      "제대로進行되지",
+      "semantic",
+      "한계에達하는",
       "시뮬레이션된",
+      "애플리케이션이",
+      "방향으로서의",
+      "달성하면서도",
+      "orchestrator",
+      "사용되는지에",
+      "integritybench",
+      "automated",
       "인사이트입니다",
-      "소스인터랙티브",
       "prior를",
-      "uniform",
-      "제대로進行되지"
+      "integritybench라는",
+      "humano"
     ]
   },
   "topic_scores": {
@@ -964,6 +964,9 @@
     "MIDAS: Mutual Information Disentanglement with Uncertainty-Aware Fusion for Inco": 390,
     "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational O": 323,
     "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Cal": 303,
-    "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph": 281
+    "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph": 281,
+    "Position: Reasoning is a Learnable Rule-Based Process": 224,
+    "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists": 296,
+    "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit": 330
   }
 }
