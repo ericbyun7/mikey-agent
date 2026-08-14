@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-07-15T00:13:02.790744",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of",
-        "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema ",
-        "Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are T"
-      ],
-      "new_keywords": [
-        "sensitivity",
-        "machen다",
-        "format",
-        "평가하는데는",
-        "조사하여중계",
-        "보여주었습니다",
-        "나타났습니다",
-        "접근법이라고",
-        "parseability",
-        "제시했습니다"
-      ]
-    },
-    {
       "date": "2026-07-16T00:21:33.826486",
       "articles_collected": 10,
       "debates_run": 3,
@@ -633,6 +611,28 @@
         "disentanglement",
         "네트워크에서"
       ]
+    },
+    {
+      "date": "2026-08-14T00:02:13.983730",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational O",
+        "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Cal",
+        "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph"
+      ],
+      "new_keywords": [
+        "metadata",
+        "distribird의",
+        "orchestrator",
+        "시뮬레이션된",
+        "인사이트입니다",
+        "prior를",
+        "uniform",
+        "제대로進行되지",
+        "distribird",
+        "애플리케이션이"
+      ]
     }
   ],
   "keywords": {
@@ -651,26 +651,26 @@
       "AI art"
     ],
     "self_determined": [
-      "웹사이트에는",
-      "disentanglement",
-      "추상적인思惟의",
-      "maryland",
-      "observation",
-      "네트워크에서",
-      "평가했습니다",
+      "metadata",
+      "한계에達하는",
+      "semantic",
+      "사용되는지에",
+      "distribird",
+      "distribird의",
       "설계되었지만",
-      "theory",
+      "orchestrator",
+      "допуст림",
+      "애플리케이션이",
+      "routing",
+      "observation",
       "humano",
       "방향으로서의",
-      "제공함으로써",
-      "routing",
-      "시뮬레이션함으로써",
-      "допуст림",
-      "policy",
-      "semantic",
+      "시뮬레이션된",
+      "인사이트입니다",
       "소스인터랙티브",
-      "한계에達하는",
-      "사용되는지에"
+      "prior를",
+      "uniform",
+      "제대로進行되지"
     ]
   },
   "topic_scores": {
@@ -961,6 +961,9 @@
     "Determinization in Structure Theories: A Unified Framework via Closure, Comparab": 287,
     "Closed-Loop LLM Co-Pilots for Digital Agriculture": 347,
     "SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning": 299,
-    "MIDAS: Mutual Information Disentanglement with Uncertainty-Aware Fusion for Inco": 390
+    "MIDAS: Mutual Information Disentanglement with Uncertainty-Aware Fusion for Inco": 390,
+    "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational O": 323,
+    "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Cal": 303,
+    "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph": 281
   }
 }
