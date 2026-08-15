@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-07-17T00:21:30.375977",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
-        "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
-        "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chai"
-      ],
-      "new_keywords": [
-        "grounding",
-        "illegal",
-        "đảm보하는",
-        "interventional",
-        "변경되는지檢查합니다",
-        "발생하더라도",
-        "originblame",
-        "metadata와",
-        "spine은",
-        "프레임워크가"
-      ]
-    },
-    {
       "date": "2026-07-18T00:13:26.050660",
       "articles_collected": 10,
       "debates_run": 3,
@@ -633,6 +611,28 @@
         "행위자들에게",
         "integritybench를"
       ]
+    },
+    {
+      "date": "2026-08-15T23:41:38.349109",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Position: Reasoning is a Learnable Rule-Based Process",
+        "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
+        "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit"
+      ],
+      "new_keywords": [
+        "alignment",
+        "자율적推論은",
+        "tarihi",
+        "발전시키고자",
+        "integritybench라는",
+        "설계되었지만",
+        "한계점입니다",
+        "평가했습니다",
+        "integritybench를",
+        "quyết정을"
+      ]
     }
   ],
   "keywords": {
@@ -651,26 +651,26 @@
       "AI art"
     ],
     "self_determined": [
-      "metadata",
-      "routing",
-      "probabilistic",
-      "distribird",
-      "의사결정에서",
-      "제대로進行되지",
-      "semantic",
-      "한계에達하는",
+      "alignment",
       "시뮬레이션된",
-      "애플리케이션이",
-      "방향으로서의",
+      "자율적推論은",
+      "tarihi",
       "달성하면서도",
-      "orchestrator",
-      "사용되는지에",
-      "integritybench",
-      "automated",
       "인사이트입니다",
-      "prior를",
+      "orchestrator",
+      "semantic",
+      "distribird",
+      "quyết정을",
+      "routing",
+      "방향으로서의",
+      "제대로進行되지",
+      "한계에達하는",
+      "metadata",
+      "의사결정에서",
       "integritybench라는",
-      "humano"
+      "발전시키고자",
+      "설계되었지만",
+      "한계점입니다"
     ]
   },
   "topic_scores": {
@@ -965,8 +965,8 @@
     "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational O": 323,
     "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Cal": 303,
     "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph": 281,
-    "Position: Reasoning is a Learnable Rule-Based Process": 224,
-    "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists": 296,
-    "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit": 330
+    "Position: Reasoning is a Learnable Rule-Based Process": 286,
+    "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists": 322,
+    "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit": 256
   }
 }
