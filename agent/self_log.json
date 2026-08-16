@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-07-18T00:13:26.050660",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Searc",
-        "HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge",
-        "IMEX Interaction-Based Model Explanation"
-      ],
-      "new_keywords": [
-        "제시되었습니다",
-        "아키텍처에서는",
-        "다이나믹하고",
-        "generation",
-        "제한적입니다",
-        "qualität을",
-        "프레임워크는",
-        "augmented",
-        "정확도만으로는",
-        "도출해내는지에"
-      ]
-    },
-    {
       "date": "2026-07-19T00:13:27.001607",
       "articles_collected": 10,
       "debates_run": 3,
@@ -633,6 +611,28 @@
         "integritybench를",
         "quyết정을"
       ]
+    },
+    {
+      "date": "2026-08-16T23:40:59.114667",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+        "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+        "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast"
+      ],
+      "new_keywords": [
+        "nvidia와",
+        "생성되었는지를",
+        "openai",
+        "필수적입니다",
+        "gemini",
+        "작성되었는지",
+        "nvidia는",
+        "축소되었습니다",
+        "anthropic의",
+        "watermark"
+      ]
     }
   ],
   "keywords": {
@@ -651,26 +651,26 @@
       "AI art"
     ],
     "self_determined": [
-      "alignment",
-      "시뮬레이션된",
       "자율적推論은",
-      "tarihi",
-      "달성하면서도",
-      "인사이트입니다",
+      "nvidia와",
       "orchestrator",
-      "semantic",
-      "distribird",
-      "quyết정을",
+      "생성되었는지를",
       "routing",
-      "방향으로서의",
-      "제대로進行되지",
-      "한계에達하는",
-      "metadata",
       "의사결정에서",
-      "integritybench라는",
-      "발전시키고자",
       "설계되었지만",
-      "한계점입니다"
+      "작성되었는지",
+      "시뮬레이션된",
+      "방향으로서의",
+      "발전시키고자",
+      "distribird",
+      "alignment",
+      "quyết정을",
+      "tarihi",
+      "anthropic의",
+      "integritybench라는",
+      "한계에達하는",
+      "달성하면서도",
+      "metadata"
     ]
   },
   "topic_scores": {
@@ -967,6 +967,9 @@
     "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph": 281,
     "Position: Reasoning is a Learnable Rule-Based Process": 286,
     "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists": 322,
-    "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit": 256
+    "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit": 256,
+    "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing": 334,
+    "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee": 256,
+    "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast": 235
   }
 }
