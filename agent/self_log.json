@@ -1,25 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-07-19T00:13:27.001607",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Searc",
-        "HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge",
-        "IMEX Interaction-Based Model Explanation"
-      ],
-      "new_keywords": [
-        "방식으로서의",
-        "제공하여更加",
-        "ermögлює",
-        "설명함으로써",
-        "방법론입니다",
-        "프레임워크는",
-        "generation"
-      ]
-    },
-    {
       "date": "2026-07-20T00:19:08.300446",
       "articles_collected": 10,
       "debates_run": 3,
@@ -633,6 +614,19 @@
         "anthropic의",
         "watermark"
       ]
+    },
+    {
+      "date": "2026-08-17T23:43:44.985759",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluat",
+        "Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Base",
+        "Modular Cognitive Architecture Emerges in Large Language Models"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -651,26 +645,26 @@
       "AI art"
     ],
     "self_determined": [
-      "자율적推論은",
-      "nvidia와",
-      "orchestrator",
-      "생성되었는지를",
-      "routing",
-      "의사결정에서",
-      "설계되었지만",
       "작성되었는지",
-      "시뮬레이션된",
-      "방향으로서의",
-      "발전시키고자",
-      "distribird",
-      "alignment",
-      "quyết정을",
-      "tarihi",
-      "anthropic의",
-      "integritybench라는",
+      "설계되었지만",
+      "의사결정에서",
+      "nvidia와",
       "한계에達하는",
-      "달성하면서도",
-      "metadata"
+      "quyết정을",
+      "생성되었는지를",
+      "metadata",
+      "distribird",
+      "발전시키고자",
+      "alignment",
+      "tarihi",
+      "integritybench라는",
+      "자율적推論은",
+      "시뮬레이션된",
+      "routing",
+      "방향으로서의",
+      "anthropic의",
+      "access",
+      "달성하면서도"
     ]
   },
   "topic_scores": {
@@ -970,6 +964,9 @@
     "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit": 256,
     "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing": 334,
     "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee": 256,
-    "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast": 235
+    "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast": 235,
+    "Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluat": 201,
+    "Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Base": 201,
+    "Modular Cognitive Architecture Emerges in Large Language Models": 201
   }
 }
