@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-07-20T00:19:08.300446",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "We want Texans to know their rights",
-        "Grok-iOS – remote Grok Build from your iPhone over ACP",
-        "Biggest Probabilistic Computer Turns Noise into Answers"
-      ],
-      "new_keywords": [
-        "개발했습니다",
-        "github에서",
-        "mayday",
-        "health는",
-        "حمایت하며",
-        "iphone에서",
-        "적응능력으로",
-        "제공함으로써",
-        "health의",
-        "control"
-      ]
-    },
-    {
       "date": "2026-07-21T00:19:04.902764",
       "articles_collected": 10,
       "debates_run": 3,
@@ -627,6 +605,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-08-18T23:43:07.297800",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
+        "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning",
+        "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abst"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -645,26 +636,26 @@
       "AI art"
     ],
     "self_determined": [
-      "작성되었는지",
-      "설계되었지만",
-      "의사결정에서",
-      "nvidia와",
-      "한계에達하는",
       "quyết정을",
-      "생성되었는지를",
+      "nvidia와",
+      "설계되었지만",
       "metadata",
-      "distribird",
-      "발전시키고자",
+      "달성하면서도",
       "alignment",
-      "tarihi",
-      "integritybench라는",
-      "자율적推論은",
-      "시뮬레이션된",
+      "한계에達하는",
       "routing",
-      "방향으로서의",
+      "작성되었는지",
+      "의사결정에서",
+      "자율적推論은",
+      "tarihi",
       "anthropic의",
+      "발전시키고자",
+      "integritybench라는",
+      "생성되었는지를",
+      "시뮬레이션된",
+      "distribird",
       "access",
-      "달성하면서도"
+      "방향으로서의"
     ]
   },
   "topic_scores": {
@@ -967,6 +958,9 @@
     "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast": 235,
     "Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluat": 201,
     "Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Base": 201,
-    "Modular Cognitive Architecture Emerges in Large Language Models": 201
+    "Modular Cognitive Architecture Emerges in Large Language Models": 201,
+    "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment": 201,
+    "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning": 201,
+    "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abst": 201
   }
 }
