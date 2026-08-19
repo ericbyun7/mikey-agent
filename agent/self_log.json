@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-07-21T00:19:04.902764",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Di",
-        "Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Caus",
-        "Cura 1T: Specialized Model for Agentic Healthcare"
-      ],
-      "new_keywords": [
-        "명시적으로推論하는",
-        "health",
-        "electronic",
-        "clinical",
-        "프레임워크입니다",
-        "훈련되었으며",
-        "향상시키는데",
-        "프레임워크는",
-        "отсутств하는",
-        "record"
-      ]
-    },
-    {
       "date": "2026-07-22T00:19:07.832030",
       "articles_collected": 10,
       "debates_run": 3,
@@ -618,6 +596,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-08-19T23:44:26.853308",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM",
+        "Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenan",
+        "The Price of Thinking: Reasoning Effort as a Model-Specific API Contract"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -636,26 +627,26 @@
       "AI art"
     ],
     "self_determined": [
-      "quyết정을",
-      "nvidia와",
-      "설계되었지만",
-      "metadata",
-      "달성하면서도",
-      "alignment",
-      "한계에達하는",
-      "routing",
-      "작성되었는지",
-      "의사결정에서",
       "자율적推論은",
-      "tarihi",
-      "anthropic의",
       "발전시키고자",
+      "nvidia와",
       "integritybench라는",
-      "생성되었는지를",
       "시뮬레이션된",
+      "작성되었는지",
+      "routing",
+      "한계에達하는",
+      "방향으로서의",
+      "quyết정을",
+      "tarihi",
+      "달성하면서도",
+      "의사결정에서",
       "distribird",
+      "설계되었지만",
+      "anthropic의",
+      "alignment",
       "access",
-      "방향으로서의"
+      "metadata",
+      "생성되었는지를"
     ]
   },
   "topic_scores": {
@@ -961,6 +952,9 @@
     "Modular Cognitive Architecture Emerges in Large Language Models": 201,
     "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment": 201,
     "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning": 201,
-    "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abst": 201
+    "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abst": 201,
+    "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM": 201,
+    "Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenan": 201,
+    "The Price of Thinking: Reasoning Effort as a Model-Specific API Contract": 201
   }
 }
