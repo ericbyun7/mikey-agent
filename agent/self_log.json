@@ -1,22 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-07-22T00:19:07.832030",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Rater State Bias in RLHF Preference Data: An Audit Framework",
-        "Design and Validation of a Lightweight 1D CNN for Affective Touch Classification",
-        "Some Large Language Models Exhibit Consistent Risk Attitudes"
-      ],
-      "new_keywords": [
-        "소프트sensor",
-        "발견되었습니다",
-        "sensor",
-        "검증했습니다"
-      ]
-    },
-    {
       "date": "2026-07-23T00:25:20.309892",
       "articles_collected": 10,
       "debates_run": 3,
@@ -609,6 +593,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-08-20T23:47:01.206980",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requir",
+        "Position: Profiling Game Worlds by Transition Complexity",
+        "Large Language Models in Mental Health: A Systematic Review of Applications, Inn"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -627,26 +624,26 @@
       "AI art"
     ],
     "self_determined": [
-      "자율적推論은",
-      "발전시키고자",
-      "nvidia와",
-      "integritybench라는",
-      "시뮬레이션된",
-      "작성되었는지",
-      "routing",
-      "한계에達하는",
-      "방향으로서의",
-      "quyết정을",
-      "tarihi",
-      "달성하면서도",
       "의사결정에서",
-      "distribird",
       "설계되었지만",
+      "방향으로서의",
+      "integritybench라는",
+      "nvidia와",
+      "quyết정을",
+      "distribird",
+      "routing",
+      "metadata",
+      "access",
       "anthropic의",
       "alignment",
-      "access",
-      "metadata",
-      "생성되었는지를"
+      "시뮬레이션된",
+      "생성되었는지를",
+      "달성하면서도",
+      "한계에達하는",
+      "작성되었는지",
+      "자율적推論은",
+      "tarihi",
+      "발전시키고자"
     ]
   },
   "topic_scores": {
@@ -955,6 +952,9 @@
     "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abst": 201,
     "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM": 201,
     "Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenan": 201,
-    "The Price of Thinking: Reasoning Effort as a Model-Specific API Contract": 201
+    "The Price of Thinking: Reasoning Effort as a Model-Specific API Contract": 201,
+    "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requir": 201,
+    "Position: Profiling Game Worlds by Transition Complexity": 201,
+    "Large Language Models in Mental Health: A Systematic Review of Applications, Inn": 201
   }
 }
