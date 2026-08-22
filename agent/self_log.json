@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-07-24T00:23:10.809447",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Wor",
-        "Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adve",
-        "OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent "
-      ],
-      "new_keywords": [
-        "laundering",
-        "데이터세트는",
-        "dynamics",
-        "데이터세트로서",
-        "설계되었습니다",
-        "프레임워크를",
-        "fraudshield",
-        "centrality",
-        "openevoshield를",
-        "gemini"
-      ]
-    },
-    {
       "date": "2026-07-25T00:26:30.804392",
       "articles_collected": 10,
       "debates_run": 3,
@@ -597,6 +575,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-08-22T23:42:09.405194",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "English ↔ Claudish Translator",
+        "NetBSD and my life (2005)",
+        "hdiutil is deprecated in macOS 27 Golden Gate"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -615,26 +606,26 @@
       "AI art"
     ],
     "self_determined": [
-      "달성하면서도",
-      "quyết정을",
-      "작성되었는지",
-      "tarihi",
       "생성되었는지를",
-      "metadata",
+      "발전시키고자",
+      "달성하면서도",
+      "alignment",
+      "작성되었는지",
+      "시뮬레이션된",
+      "방향으로서의",
+      "distribird",
       "routing",
       "access",
-      "alignment",
-      "nvidia와",
-      "integritybench라는",
-      "의사결정에서",
-      "시뮬레이션된",
-      "anthropic의",
-      "자율적推論은",
-      "발전시키고자",
+      "한계에達하는",
+      "metadata",
       "설계되었지만",
-      "distribird",
-      "방향으로서의",
-      "한계에達하는"
+      "quyết정을",
+      "의사결정에서",
+      "자율적推論은",
+      "anthropic의",
+      "integritybench라는",
+      "nvidia와",
+      "tarihi"
     ]
   },
   "topic_scores": {
@@ -949,6 +940,9 @@
     "Large Language Models in Mental Health: A Systematic Review of Applications, Inn": 201,
     "Active Inference as Context Acquisition for AI Agents": 201,
     "Robust Metaheuristics under Uncertainty for Berth Allocation and Quay Crane Assi": 201,
-    "How to Navigate Uncertainty About AI Consciousness": 201
+    "How to Navigate Uncertainty About AI Consciousness": 201,
+    "English ↔ Claudish Translator": 201,
+    "NetBSD and my life (2005)": 201,
+    "hdiutil is deprecated in macOS 27 Golden Gate": 201
   }
 }
