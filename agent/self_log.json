@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-07-25T00:26:30.804392",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative I",
-        "Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts",
-        "ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures "
-      ],
-      "new_keywords": [
-        "아키텍처이다",
-        "언어학적으로",
-        "달성하였습니다",
-        "보증의现代적인",
-        "aintma",
-        "cảnh고를",
-        "intelligent",
-        "평가하였으며",
-        "семантик",
-        "tăng하고"
-      ]
-    },
-    {
       "date": "2026-07-26T00:22:38.407680",
       "articles_collected": 10,
       "debates_run": 3,
@@ -588,6 +566,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-08-23T23:41:49.473433",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Slovakia finds Russian backdoor in traffic speed cameras",
+        "Authoritarianism of Code",
+        "What Is a Harness?"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -606,26 +597,26 @@
       "AI art"
     ],
     "self_determined": [
+      "metadata",
       "생성되었는지를",
-      "발전시키고자",
-      "달성하면서도",
-      "alignment",
-      "작성되었는지",
-      "시뮬레이션된",
+      "의사결정에서",
+      "nvidia와",
       "방향으로서의",
-      "distribird",
-      "routing",
       "access",
       "한계에達하는",
-      "metadata",
-      "설계되었지만",
-      "quyết정을",
-      "의사결정에서",
-      "자율적推論은",
-      "anthropic의",
+      "tarihi",
+      "달성하면서도",
+      "작성되었는지",
       "integritybench라는",
-      "nvidia와",
-      "tarihi"
+      "설계되었지만",
+      "anthropic의",
+      "시뮬레이션된",
+      "alignment",
+      "routing",
+      "quyết정을",
+      "자율적推論은",
+      "distribird",
+      "발전시키고자"
     ]
   },
   "topic_scores": {
@@ -943,6 +934,9 @@
     "How to Navigate Uncertainty About AI Consciousness": 201,
     "English ↔ Claudish Translator": 201,
     "NetBSD and my life (2005)": 201,
-    "hdiutil is deprecated in macOS 27 Golden Gate": 201
+    "hdiutil is deprecated in macOS 27 Golden Gate": 201,
+    "Slovakia finds Russian backdoor in traffic speed cameras": 201,
+    "Authoritarianism of Code": 201,
+    "What Is a Harness?": 201
   }
 }
