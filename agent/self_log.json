@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-07-27T00:23:14.262108",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Show HN: Distill and serve small models with frontier quality for half the cost",
-        "Japan legend Miura, 59, scores first goal since 2022",
-        "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription"
-      ],
-      "new_keywords": [
-        "개발자들에게",
-        "claude",
-        "gemini의",
-        "tokenize된",
-        "subscription의",
-        "timeout",
-        "твор性을",
-        "timeout이나",
-        "불러일으키는",
-        "gemini"
-      ]
-    },
-    {
       "date": "2026-07-28T00:26:09.534196",
       "articles_collected": 10,
       "debates_run": 3,
@@ -573,6 +551,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-08-25T23:47:06.826878",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation f",
+        "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance",
+        "Reviewing Model Collapse and Countermeasures"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -591,25 +582,25 @@
       "AI art"
     ],
     "self_determined": [
-      "distribird",
-      "routing",
-      "metadata",
-      "의사결정에서",
-      "tarihi",
       "access",
-      "alignment",
+      "integritybench라는",
       "설계되었지만",
-      "nvidia와",
-      "생성되었는지를",
+      "quyết정을",
+      "tarihi",
+      "alignment",
       "한계에達하는",
       "방향으로서의",
-      "작성되었는지",
-      "integritybench라는",
-      "달성하면서도",
-      "quyết정을",
+      "nvidia와",
       "자율적推論은",
-      "시뮬레이션된",
+      "의사결정에서",
+      "distribird",
+      "routing",
       "발전시키고자",
+      "metadata",
+      "작성되었는지",
+      "시뮬레이션된",
+      "달성하면서도",
+      "생성되었는지를",
       "anthropic의"
     ]
   },
@@ -934,6 +925,9 @@
     "What Is a Harness?": 201,
     "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC": 201,
     "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastruct": 201,
-    "Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification": 201
+    "Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification": 201,
+    "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation f": 201,
+    "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance": 201,
+    "Reviewing Model Collapse and Countermeasures": 201
   }
 }
