@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-07-28T00:26:09.534196",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Show HN: Dowe – A full-stack language for server, web, desktop, Android, and iOS",
-        "Netflix employee fired for sharing personal details in retreat trust exercise",
-        "DConf 2026 in London"
-      ],
-      "new_keywords": [
-        "정보를保護하는",
-        "nhiệm이",
-        "필요があり며",
-        "지원함으로써",
-        "업데이트하여",
-        "конферен스는",
-        "발표되었습니다",
-        "불러일으켰으며",
-        "конферен스에서",
-        "gemini"
-      ]
-    },
-    {
       "date": "2026-07-29T00:22:07.288008",
       "articles_collected": 10,
       "debates_run": 3,
@@ -564,6 +542,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-08-27T04:39:05.428105",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
+        "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialec",
+        "LLM Agents Perform Controlled Experiments Using Simulation Models"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -582,26 +573,26 @@
       "AI art"
     ],
     "self_determined": [
-      "access",
-      "integritybench라는",
-      "설계되었지만",
-      "quyết정을",
-      "tarihi",
-      "alignment",
-      "한계에達하는",
-      "방향으로서의",
-      "nvidia와",
-      "자율적推論은",
       "의사결정에서",
-      "distribird",
-      "routing",
-      "발전시키고자",
+      "tarihi",
+      "한계에達하는",
       "metadata",
+      "anthropic의",
+      "자율적推論은",
+      "routing",
+      "quyết정을",
+      "alignment",
+      "발전시키고자",
+      "integritybench라는",
       "작성되었는지",
-      "시뮬레이션된",
+      "nvidia와",
+      "설계되었지만",
+      "access",
       "달성하면서도",
       "생성되었는지를",
-      "anthropic의"
+      "방향으로서의",
+      "시뮬레이션된",
+      "distribird"
     ]
   },
   "topic_scores": {
@@ -928,6 +919,9 @@
     "Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification": 201,
     "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation f": 201,
     "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance": 201,
-    "Reviewing Model Collapse and Countermeasures": 201
+    "Reviewing Model Collapse and Countermeasures": 201,
+    "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation": 201,
+    "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialec": 201,
+    "LLM Agents Perform Controlled Experiments Using Simulation Models": 201
   }
 }
