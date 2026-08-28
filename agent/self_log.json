@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-07-29T00:22:07.288008",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Concept-based Visual Counterfactual Explanations with Diffusion Models",
-        "SeT-Diff: Towards Semantic Foundation Models for HPC Telemetry and Time-Series",
-        "QFoldAgent: An Autonomous Quantum Optimization Multi-Agent System for Protein St"
-      ],
-      "new_keywords": [
-        "제안되었습니다",
-        "프레임워크인",
-        "gemini",
-        "프레임워크는",
-        "qfoldagent의",
-        "해밀턴يان",
-        "프레임워크를",
-        "error와",
-        "vượt어섭니다",
-        "взаим작용을"
-      ]
-    },
-    {
       "date": "2026-07-30T00:23:48.070979",
       "articles_collected": 10,
       "debates_run": 3,
@@ -555,6 +533,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-08-28T06:56:06.665299",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic R",
+        "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality",
+        "Large Models for Battery Prognostics and Health Management: A Review and Future "
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -573,25 +564,25 @@
       "AI art"
     ],
     "self_determined": [
-      "의사결정에서",
-      "tarihi",
-      "한계에達하는",
-      "metadata",
-      "anthropic의",
-      "자율적推論은",
-      "routing",
-      "quyết정을",
-      "alignment",
-      "발전시키고자",
-      "integritybench라는",
-      "작성되었는지",
-      "nvidia와",
-      "설계되었지만",
       "access",
+      "metadata",
       "달성하면서도",
+      "integritybench라는",
+      "설계되었지만",
+      "tarihi",
+      "의사결정에서",
+      "quyết정을",
       "생성되었는지를",
-      "방향으로서의",
+      "alignment",
+      "routing",
+      "자율적推論은",
+      "anthropic의",
+      "nvidia와",
       "시뮬레이션된",
+      "작성되었는지",
+      "방향으로서의",
+      "발전시키고자",
+      "한계에達하는",
       "distribird"
     ]
   },
@@ -922,6 +913,9 @@
     "Reviewing Model Collapse and Countermeasures": 201,
     "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation": 201,
     "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialec": 201,
-    "LLM Agents Perform Controlled Experiments Using Simulation Models": 201
+    "LLM Agents Perform Controlled Experiments Using Simulation Models": 201,
+    "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic R": 201,
+    "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality": 201,
+    "Large Models for Battery Prognostics and Health Management: A Review and Future ": 201
   }
 }
