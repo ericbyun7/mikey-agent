@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-07-30T00:23:48.070979",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Do Models Fake Alignment Without Clear Consequences?",
-        "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge W",
-        "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA"
-      ],
-      "new_keywords": [
-        "컨텍스트에서",
-        "forge는",
-        "gemini",
-        "패턴을分析할",
-        "평가지기자의",
-        "kernel",
-        "바꾸는能力을",
-        "요약문입니다",
-        "forge의",
-        "평가지기자들의"
-      ]
-    },
-    {
       "date": "2026-07-31T00:24:21.735752",
       "articles_collected": 10,
       "debates_run": 3,
@@ -546,6 +524,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-08-29T04:28:09.658426",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic R",
+        "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality",
+        "Large Models for Battery Prognostics and Health Management: A Review and Future "
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -565,25 +556,25 @@
     ],
     "self_determined": [
       "access",
-      "metadata",
-      "달성하면서도",
-      "integritybench라는",
-      "설계되었지만",
       "tarihi",
-      "의사결정에서",
-      "quyết정을",
-      "생성되었는지를",
-      "alignment",
-      "routing",
-      "자율적推論은",
-      "anthropic의",
+      "metadata",
+      "integritybench라는",
       "nvidia와",
+      "routing",
+      "quyết정을",
       "시뮬레이션된",
-      "작성되었는지",
+      "자율적推論은",
+      "달성하면서도",
       "방향으로서의",
+      "의사결정에서",
+      "설계되었지만",
+      "alignment",
       "발전시키고자",
-      "한계에達하는",
-      "distribird"
+      "distribird",
+      "생성되었는지를",
+      "작성되었는지",
+      "anthropic의",
+      "한계에達하는"
     ]
   },
   "topic_scores": {
