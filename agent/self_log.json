@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-08-01T00:24:13.580469",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Probing the Origins of Reasoning Performance: Representational Quality for Mathe",
-        "Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Syst",
-        "ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinica"
-      ],
-      "new_keywords": [
-        "프레임워크를",
-        "분석했습니다",
-        "추론任务에서",
-        "제공함으로써",
-        "функци의",
-        "평가하였으므로",
-        "제안하였습니다",
-        "조사하였으며",
-        "clinlens는",
-        "모델이監督된"
-      ]
-    },
-    {
       "date": "2026-08-02T00:19:18.018659",
       "articles_collected": 10,
       "debates_run": 3,
@@ -532,6 +510,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-08-31T01:30:22.220328",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "“I just chose words carefully”",
+        "Continuous Diffusion Language Models (CDLM's)",
+        "Cores in space: The core memory module from a 1980 Spacelab computer"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -550,26 +541,26 @@
       "AI art"
     ],
     "self_determined": [
-      "alignment",
-      "metadata",
-      "nvidia와",
-      "access",
-      "distribird",
-      "설계되었지만",
-      "시뮬레이션된",
-      "의사결정에서",
-      "달성하면서도",
-      "생성되었는지를",
-      "자율적推論은",
-      "tarihi",
-      "방향으로서의",
-      "anthropic의",
-      "작성되었는지",
       "integritybench라는",
+      "alignment",
+      "방향으로서의",
+      "시뮬레이션된",
+      "생성되었는지를",
+      "의사결정에서",
+      "작성되었는지",
       "한계에達하는",
+      "routing",
       "발전시키고자",
+      "metadata",
+      "tarihi",
+      "distribird",
+      "access",
+      "자율적推論은",
+      "anthropic의",
       "quyết정을",
-      "routing"
+      "설계되었지만",
+      "달성하면서도",
+      "nvidia와"
     ]
   },
   "topic_scores": {
@@ -902,6 +893,9 @@
     "LLM Agents Perform Controlled Experiments Using Simulation Models": 201,
     "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic R": 201,
     "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality": 201,
-    "Large Models for Battery Prognostics and Health Management: A Review and Future ": 201
+    "Large Models for Battery Prognostics and Health Management: A Review and Future ": 201,
+    "“I just chose words carefully”": 201,
+    "Continuous Diffusion Language Models (CDLM's)": 201,
+    "Cores in space: The core memory module from a 1980 Spacelab computer": 201
   }
 }
