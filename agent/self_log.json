@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-08-02T00:19:18.018659",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Stop fucking around with database commits and transactions",
-        "Unraveling the mysteries of habit formation",
-        "Morph (YC S23) Is Hiring Member of Technical Stuff"
-      ],
-      "new_keywords": [
-        "습관을養成하고",
-        "데이터베이스의",
-        "database",
-        "유지되는지에",
-        "반론에서出现한",
-        "teknolojik",
-        "데이터베이스",
-        "fucking",
-        "morph에서",
-        "저장되어习慣화됩니다"
-      ]
-    },
-    {
       "date": "2026-08-03T00:21:20.012667",
       "articles_collected": 10,
       "debates_run": 3,
@@ -523,6 +501,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-09-01T02:01:20.042777",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Carmack: Has early Scratch experience led to fulfilling careers?",
+        "Evidence of Fraud in an Influential Study About Procrastination",
+        "Run macOS Software on Linux"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -541,26 +532,26 @@
       "AI art"
     ],
     "self_determined": [
-      "integritybench라는",
-      "alignment",
-      "방향으로서의",
-      "시뮬레이션된",
+      "anthropic의",
+      "distribird",
+      "quyết정을",
+      "access",
       "생성되었는지를",
       "의사결정에서",
-      "작성되었는지",
       "한계에達하는",
-      "routing",
-      "발전시키고자",
-      "metadata",
-      "tarihi",
-      "distribird",
-      "access",
-      "자율적推論은",
-      "anthropic의",
-      "quyết정을",
-      "설계되었지만",
       "달성하면서도",
-      "nvidia와"
+      "alignment",
+      "metadata",
+      "integritybench라는",
+      "routing",
+      "nvidia와",
+      "설계되었지만",
+      "발전시키고자",
+      "작성되었는지",
+      "방향으로서의",
+      "자율적推論은",
+      "시뮬레이션된",
+      "tarihi"
     ]
   },
   "topic_scores": {
@@ -896,6 +887,9 @@
     "Large Models for Battery Prognostics and Health Management: A Review and Future ": 201,
     "“I just chose words carefully”": 201,
     "Continuous Diffusion Language Models (CDLM's)": 201,
-    "Cores in space: The core memory module from a 1980 Spacelab computer": 201
+    "Cores in space: The core memory module from a 1980 Spacelab computer": 201,
+    "Carmack: Has early Scratch experience led to fulfilling careers?": 201,
+    "Evidence of Fraud in an Influential Study About Procrastination": 201,
+    "Run macOS Software on Linux": 201
   }
 }
