@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-08-03T00:21:20.012667",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours",
-        "AI poster wins Ohio State Fair contest",
-        "The Computational Theory of Mind (2015)"
-      ],
-      "new_keywords": [
-        "github에서",
-        "설계되었습니다",
-        "개발자들에게",
-        "theory",
-        "수상하였습니다",
-        "소프트웨어로",
-        "보여주었으며",
-        "프로그램으로",
-        "시스템적으로",
-        "기여했습니다"
-      ]
-    },
-    {
       "date": "2026-08-04T00:30:27.874924",
       "articles_collected": 10,
       "debates_run": 3,
@@ -514,6 +492,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-09-02T01:11:27.353633",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation",
+        "Expert-validated STEM QA",
+        "A collective capability boundary in frontier large language models on guideline-"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -532,25 +523,25 @@
       "AI art"
     ],
     "self_determined": [
+      "metadata",
+      "작성되었는지",
       "anthropic의",
-      "distribird",
-      "quyết정을",
-      "access",
-      "생성되었는지를",
-      "의사결정에서",
       "한계에達하는",
+      "nvidia와",
+      "자율적推論은",
+      "발전시키고자",
+      "의사결정에서",
+      "quyết정을",
+      "생성되었는지를",
+      "설계되었지만",
+      "access",
+      "distribird",
+      "방향으로서의",
+      "시뮬레이션된",
       "달성하면서도",
       "alignment",
-      "metadata",
       "integritybench라는",
       "routing",
-      "nvidia와",
-      "설계되었지만",
-      "발전시키고자",
-      "작성되었는지",
-      "방향으로서의",
-      "자율적推論은",
-      "시뮬레이션된",
       "tarihi"
     ]
   },
@@ -890,6 +881,9 @@
     "Cores in space: The core memory module from a 1980 Spacelab computer": 201,
     "Carmack: Has early Scratch experience led to fulfilling careers?": 201,
     "Evidence of Fraud in an Influential Study About Procrastination": 201,
-    "Run macOS Software on Linux": 201
+    "Run macOS Software on Linux": 201,
+    "DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation": 201,
+    "Expert-validated STEM QA": 201,
+    "A collective capability boundary in frontier large language models on guideline-": 201
   }
 }
