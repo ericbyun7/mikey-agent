@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-08-04T00:30:27.874924",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent",
-        "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Gener",
-        "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the"
-      ],
-      "new_keywords": [
-        "파이프라인을",
-        "프레임워크를",
-        "프레임워크는",
-        "인공지능科学자",
-        "논문의质量을",
-        "의미를を持고",
-        "설계하고评价하는",
-        "파이프라인으로",
-        "agentic",
-        "mathlib에서"
-      ]
-    },
-    {
       "date": "2026-08-05T00:25:29.003418",
       "articles_collected": 10,
       "debates_run": 3,
@@ -505,6 +483,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-09-03T01:23:38.657777",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual W",
+        "I-CARE: Analysis of interference-related phenomena in a controllable, diverse an",
+        "Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -523,26 +514,26 @@
       "AI art"
     ],
     "self_determined": [
-      "metadata",
       "작성되었는지",
-      "anthropic의",
-      "한계에達하는",
-      "nvidia와",
-      "자율적推論은",
-      "발전시키고자",
-      "의사결정에서",
-      "quyết정을",
-      "생성되었는지를",
-      "설계되었지만",
-      "access",
-      "distribird",
       "방향으로서의",
-      "시뮬레이션된",
       "달성하면서도",
+      "시뮬레이션된",
+      "tarihi",
+      "access",
       "alignment",
+      "자율적推論은",
       "integritybench라는",
+      "의사결정에서",
+      "생성되었는지를",
+      "한계에達하는",
+      "metadata",
+      "anthropic의",
+      "quyết정을",
+      "nvidia와",
+      "발전시키고자",
+      "설계되었지만",
       "routing",
-      "tarihi"
+      "distribird"
     ]
   },
   "topic_scores": {
@@ -884,6 +875,9 @@
     "Run macOS Software on Linux": 201,
     "DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation": 201,
     "Expert-validated STEM QA": 201,
-    "A collective capability boundary in frontier large language models on guideline-": 201
+    "A collective capability boundary in frontier large language models on guideline-": 201,
+    "HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual W": 201,
+    "I-CARE: Analysis of interference-related phenomena in a controllable, diverse an": 201,
+    "Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic": 201
   }
 }
