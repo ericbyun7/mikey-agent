@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-08-05T00:25:29.003418",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent",
-        "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Gener",
-        "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the"
-      ],
-      "new_keywords": [
-        "프레임워크는",
-        "agentic",
-        "mathlib를",
-        "프레임워크의",
-        "과학적严谨성",
-        "프레임워크를",
-        "kritische",
-        "시스템으로의",
-        "played합니다",
-        "문제를发现하고"
-      ]
-    },
-    {
       "date": "2026-08-06T00:21:17.145091",
       "articles_collected": 10,
       "debates_run": 3,
@@ -496,6 +474,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-09-04T01:03:00.691141",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Lang",
+        "Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI",
+        "When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -514,26 +505,26 @@
       "AI art"
     ],
     "self_determined": [
-      "작성되었는지",
-      "방향으로서의",
-      "달성하면서도",
-      "시뮬레이션된",
-      "tarihi",
-      "access",
       "alignment",
-      "자율적推論은",
-      "integritybench라는",
-      "의사결정에서",
-      "생성되었는지를",
-      "한계에達하는",
-      "metadata",
+      "작성되었는지",
+      "access",
       "anthropic의",
-      "quyết정을",
-      "nvidia와",
-      "발전시키고자",
+      "integritybench라는",
+      "생성되었는지를",
+      "metadata",
       "설계되었지만",
+      "의사결정에서",
+      "시뮬레이션된",
+      "발전시키고자",
+      "방향으로서의",
+      "tarihi",
+      "quyết정을",
+      "한계에達하는",
+      "distribird",
       "routing",
-      "distribird"
+      "nvidia와",
+      "자율적推論은",
+      "달성하면서도"
     ]
   },
   "topic_scores": {
@@ -878,6 +869,9 @@
     "A collective capability boundary in frontier large language models on guideline-": 201,
     "HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual W": 201,
     "I-CARE: Analysis of interference-related phenomena in a controllable, diverse an": 201,
-    "Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic": 201
+    "Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic": 201,
+    "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Lang": 201,
+    "Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI": 201,
+    "When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted": 201
   }
 }
