@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-08-06T00:21:17.145091",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "ISEE: Interactive Semantic Enrichment for Database Fields",
-        "Self-Organising Digital Circuits",
-        "Beyond the Hivemind: Escaping LLM Homogeneity via Meta-Persona Anchoring and Seq"
-      ],
-      "new_keywords": [
-        "semantic",
-        "제안하였습니다",
-        "질문에서도狹隘한",
-        "나타났습니다",
-        "circuits를",
-        "digital",
-        "시스템에서는",
-        "프레임워크를",
-        "프레임워크는",
-        "circuits을"
-      ]
-    },
-    {
       "date": "2026-08-07T02:09:57.081141",
       "articles_collected": 10,
       "debates_run": 3,
@@ -487,6 +465,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-09-06T00:54:39.079432",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+        "America's two largest school districts impose AI moratoriums",
+        "The revolt of the reader"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -505,26 +496,26 @@
       "AI art"
     ],
     "self_determined": [
-      "alignment",
-      "작성되었는지",
-      "access",
-      "anthropic의",
-      "integritybench라는",
       "생성되었는지를",
-      "metadata",
-      "설계되었지만",
       "의사결정에서",
-      "시뮬레이션된",
-      "발전시키고자",
-      "방향으로서의",
-      "tarihi",
       "quyết정을",
+      "방향으로서의",
       "한계에達하는",
-      "distribird",
-      "routing",
-      "nvidia와",
       "자율적推論은",
-      "달성하면서도"
+      "nvidia와",
+      "작성되었는지",
+      "발전시키고자",
+      "access",
+      "metadata",
+      "anthropic의",
+      "시뮬레이션된",
+      "tarihi",
+      "설계되었지만",
+      "alignment",
+      "달성하면서도",
+      "routing",
+      "distribird",
+      "integritybench라는"
     ]
   },
   "topic_scores": {
@@ -872,6 +863,9 @@
     "Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic": 201,
     "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Lang": 201,
     "Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI": 201,
-    "When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted": 201
+    "When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted": 201,
+    "OKF Agent Memory – Git-native persistent memory for AI coding agents": 201,
+    "America's two largest school districts impose AI moratoriums": 201,
+    "The revolt of the reader": 201
   }
 }
