@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-08-07T02:09:57.081141",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artif",
-        "The LLM Proposes, the Executive Disposes: A Self-Verifying Agent Instrument that",
-        "Monte Carlo Tree Search for Table-to-Multimodal Report Generation"
-      ],
-      "new_keywords": [
-        "이олнитель이",
-        "파이프라인과",
-        "제안되었습니다",
-        "시스템의長期적",
-        "프레임워크는",
-        "프레임워크를",
-        "여부를検討합니다",
-        "해결함으로써",
-        "사이클에서operate되기",
-        "프레임워크의"
-      ]
-    },
-    {
       "date": "2026-08-07T23:55:31.016794",
       "articles_collected": 10,
       "debates_run": 3,
@@ -478,6 +456,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-09-07T01:03:05.087622",
+      "articles_collected": 9,
+      "debates_run": 3,
+      "topics": [
+        "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+        "Authors push back as publishers and agents make claims on Anthropic settlement",
+        "Travis Kalanick’s Atoms might be getting into the robotaxi business"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -496,26 +487,26 @@
       "AI art"
     ],
     "self_determined": [
-      "생성되었는지를",
-      "의사결정에서",
-      "quyết정을",
-      "방향으로서의",
-      "한계에達하는",
-      "자율적推論은",
-      "nvidia와",
+      "integritybench라는",
       "작성되었는지",
-      "발전시키고자",
       "access",
-      "metadata",
       "anthropic의",
-      "시뮬레이션된",
-      "tarihi",
-      "설계되었지만",
+      "distribird",
+      "방향으로서의",
+      "자율적推論은",
+      "metadata",
       "alignment",
       "달성하면서도",
+      "의사결정에서",
+      "한계에達하는",
+      "발전시키고자",
+      "nvidia와",
+      "시뮬레이션된",
+      "생성되었는지를",
       "routing",
-      "distribird",
-      "integritybench라는"
+      "설계되었지만",
+      "quyết정을",
+      "tarihi"
     ]
   },
   "topic_scores": {
@@ -866,6 +857,9 @@
     "When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted": 201,
     "OKF Agent Memory – Git-native persistent memory for AI coding agents": 201,
     "America's two largest school districts impose AI moratoriums": 201,
-    "The revolt of the reader": 201
+    "The revolt of the reader": 201,
+    "Phil Schiller’s App Store exit reportedly driven by wariness over future plans": 201,
+    "Authors push back as publishers and agents make claims on Anthropic settlement": 201,
+    "Travis Kalanick’s Atoms might be getting into the robotaxi business": 201
   }
 }
