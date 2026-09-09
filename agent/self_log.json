@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-08-08T23:48:50.063293",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack",
-        "The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf]",
-        "Open-source interactive map for the Aug 12 total solar eclipse"
-      ],
-      "new_keywords": [
-        "제기되었습니다",
-        "소스인터랙티브",
-        "maryland",
-        "사용되는지에",
-        "effectiveness",
-        "제한했습니다",
-        "mathematics",
-        "추상적인思惟의",
-        "폐쇄되었습니다",
-        "인사이트에서"
-      ]
-    },
-    {
       "date": "2026-08-09T23:52:07.733279",
       "articles_collected": 10,
       "debates_run": 3,
@@ -460,6 +438,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-09-09T01:23:29.930129",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "A Topological Picture Book, Rendered",
+        "Large language models develop novel social biases through adaptive exploration",
+        "How to build a printer"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -478,26 +469,26 @@
       "AI art"
     ],
     "self_determined": [
+      "integritybench라는",
+      "자율적推論은",
+      "tarihi",
+      "routing",
+      "distribird",
+      "한계에達하는",
       "의사결정에서",
-      "access",
+      "nvidia와",
+      "생성되었는지를",
+      "달성하면서도",
       "metadata",
       "anthropic의",
-      "설계되었지만",
-      "작성되었는지",
-      "달성하면서도",
-      "quyết정을",
-      "distribird",
-      "nvidia와",
-      "routing",
-      "tarihi",
-      "시뮬레이션된",
-      "생성되었는지를",
-      "자율적推論은",
-      "발전시키고자",
-      "한계에達하는",
-      "integritybench라는",
+      "방향으로서의",
       "alignment",
-      "방향으로서의"
+      "access",
+      "작성되었는지",
+      "발전시키고자",
+      "quyết정을",
+      "설계되었지만",
+      "시뮬레이션된"
     ]
   },
   "topic_scores": {
@@ -854,6 +845,9 @@
     "Travis Kalanick’s Atoms might be getting into the robotaxi business": 201,
     "EXAONE Forecast for Finance": 201,
     "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI": 201,
-    "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for ": 201
+    "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for ": 201,
+    "A Topological Picture Book, Rendered": 201,
+    "Large language models develop novel social biases through adaptive exploration": 201,
+    "How to build a printer": 201
   }
 }
