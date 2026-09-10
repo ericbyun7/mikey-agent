@@ -1,21 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-08-09T23:52:07.733279",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "To Recruit Teachers, School Districts Are Building Homes",
-        "Georgia police officers fired after Flock camera misuse",
-        "Tuxedo No. 2 – Cocktail recipes"
-      ],
-      "new_keywords": [
-        "tuxedo",
-        "웹사이트에는",
-        "설계되었지만"
-      ]
-    },
-    {
       "date": "2026-08-10T23:56:15.257166",
       "articles_collected": 10,
       "debates_run": 3,
@@ -451,6 +436,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-09-10T01:13:18.420796",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
+        "Blizzard Workers Win Historic Union Contract",
+        "Factoring RSA 260"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -469,26 +467,26 @@
       "AI art"
     ],
     "self_determined": [
+      "달성하면서도",
+      "access",
+      "생성되었는지를",
+      "quyết정을",
+      "distribird",
+      "방향으로서의",
+      "tarihi",
+      "작성되었는지",
+      "routing",
       "integritybench라는",
       "자율적推論은",
-      "tarihi",
-      "routing",
-      "distribird",
-      "한계에達하는",
       "의사결정에서",
-      "nvidia와",
-      "생성되었는지를",
-      "달성하면서도",
-      "metadata",
-      "anthropic의",
-      "방향으로서의",
       "alignment",
-      "access",
-      "작성되었는지",
-      "발전시키고자",
-      "quyết정을",
+      "한계에達하는",
+      "anthropic의",
       "설계되었지만",
-      "시뮬레이션된"
+      "발전시키고자",
+      "시뮬레이션된",
+      "nvidia와",
+      "metadata"
     ]
   },
   "topic_scores": {
@@ -848,6 +846,9 @@
     "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for ": 201,
     "A Topological Picture Book, Rendered": 201,
     "Large language models develop novel social biases through adaptive exploration": 201,
-    "How to build a printer": 201
+    "How to build a printer": 201,
+    "Muse, the band, lost its social media handles to Muse, Meta's new AI agent": 201,
+    "Blizzard Workers Win Historic Union Contract": 201,
+    "Factoring RSA 260": 201
   }
 }
