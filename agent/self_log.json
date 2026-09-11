@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-08-10T23:56:15.257166",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation L",
-        "EntropyMoE: Entropy-Aware Sparse Expert Routing for Tokenizer-Free LLMs",
-        "Beyond Routing Weights: Faithful Response-Level Interpretation of Mixture-of-Exp"
-      ],
-      "new_keywords": [
-        "routing",
-        "contrast",
-        "제안하였습니다",
-        "기존의routing",
-        "contribution",
-        "models",
-        "expert가",
-        "entropymoe는",
-        "제한적입니다",
-        "보여주었습니다"
-      ]
-    },
-    {
       "date": "2026-08-12T00:00:16.880753",
       "articles_collected": 10,
       "debates_run": 3,
@@ -449,6 +427,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-09-11T01:12:36.078485",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Langua",
+        "CriticGen: Generation-Aware Evaluation as Actionable Feedback",
+        "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -467,26 +458,26 @@
       "AI art"
     ],
     "self_determined": [
-      "달성하면서도",
-      "access",
-      "생성되었는지를",
-      "quyết정을",
+      "alignment",
+      "nvidia와",
+      "설계되었지만",
       "distribird",
-      "방향으로서의",
-      "tarihi",
       "작성되었는지",
-      "routing",
+      "tarihi",
       "integritybench라는",
       "자율적推論은",
       "의사결정에서",
-      "alignment",
       "한계에達하는",
+      "metadata",
+      "access",
+      "방향으로서의",
+      "routing",
+      "생성되었는지를",
       "anthropic의",
-      "설계되었지만",
       "발전시키고자",
-      "시뮬레이션된",
-      "nvidia와",
-      "metadata"
+      "quyết정을",
+      "달성하면서도",
+      "시뮬레이션된"
     ]
   },
   "topic_scores": {
@@ -849,6 +840,9 @@
     "How to build a printer": 201,
     "Muse, the band, lost its social media handles to Muse, Meta's new AI agent": 201,
     "Blizzard Workers Win Historic Union Contract": 201,
-    "Factoring RSA 260": 201
+    "Factoring RSA 260": 201,
+    "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Langua": 201,
+    "CriticGen: Generation-Aware Evaluation as Actionable Feedback": 201,
+    "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using": 201
   }
 }
