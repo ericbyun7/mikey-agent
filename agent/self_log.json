@@ -1,25 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-08-12T00:00:16.880753",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Towards an Argumentative Foundation for Evaluative AI",
-        "Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domain",
-        "Determinization in Structure Theories: A Unified Framework via Closure, Comparab"
-      ],
-      "new_keywords": [
-        "방향으로서의",
-        "допуст림",
-        "패러다임으로서의",
-        "한계에達하는",
-        "допuštim",
-        "gemini",
-        "프레임워크를"
-      ]
-    },
-    {
       "date": "2026-08-13T00:00:53.036299",
       "articles_collected": 10,
       "debates_run": 3,
@@ -440,6 +421,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-09-12T01:19:36.514330",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
+        "Adaptive Entangled Game Modules in Artificial General Intelligence",
+        "Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -458,26 +452,26 @@
       "AI art"
     ],
     "self_determined": [
+      "access",
+      "distribird",
+      "달성하면서도",
+      "작성되었는지",
+      "자율적推論은",
+      "한계에達하는",
+      "anthropic의",
+      "의사결정에서",
       "alignment",
       "nvidia와",
+      "quyết정을",
       "설계되었지만",
-      "distribird",
-      "작성되었는지",
       "tarihi",
-      "integritybench라는",
-      "자율적推論은",
-      "의사결정에서",
-      "한계에達하는",
       "metadata",
-      "access",
+      "시뮬레이션된",
       "방향으로서의",
       "routing",
       "생성되었는지를",
-      "anthropic의",
       "발전시키고자",
-      "quyết정을",
-      "달성하면서도",
-      "시뮬레이션된"
+      "integritybench라는"
     ]
   },
   "topic_scores": {
@@ -843,6 +837,9 @@
     "Factoring RSA 260": 201,
     "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Langua": 201,
     "CriticGen: Generation-Aware Evaluation as Actionable Feedback": 201,
-    "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using": 201
+    "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using": 201,
+    "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows": 201,
+    "Adaptive Entangled Game Modules in Artificial General Intelligence": 201,
+    "Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic": 201
   }
 }
