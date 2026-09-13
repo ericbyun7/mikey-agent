@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-08-13T00:00:53.036299",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Closed-Loop LLM Co-Pilots for Digital Agriculture",
-        "SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning",
-        "MIDAS: Mutual Information Disentanglement with Uncertainty-Aware Fusion for Inco"
-      ],
-      "new_keywords": [
-        "observation",
-        "평가했습니다",
-        "humano",
-        "제공함으로써",
-        "시뮬레이션함으로써",
-        "policy",
-        "midas의",
-        "프레임워크와",
-        "disentanglement",
-        "네트워크에서"
-      ]
-    },
-    {
       "date": "2026-08-14T00:02:13.983730",
       "articles_collected": 10,
       "debates_run": 3,
@@ -434,6 +412,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-09-13T01:00:56.366667",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bou",
+        "Automating Quadratic Unconstrained Binary Optimization (QUBO) Formulation Genera",
+        "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognit"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -452,26 +443,26 @@
       "AI art"
     ],
     "self_determined": [
-      "access",
+      "방향으로서의",
+      "integritybench라는",
+      "작성되었는지",
       "distribird",
       "달성하면서도",
-      "작성되었는지",
-      "자율적推論은",
-      "한계에達하는",
-      "anthropic의",
-      "의사결정에서",
-      "alignment",
-      "nvidia와",
-      "quyết정을",
       "설계되었지만",
-      "tarihi",
+      "한계에達하는",
+      "nvidia와",
+      "access",
+      "의사결정에서",
+      "quyết정을",
+      "routing",
+      "alignment",
+      "생성되었는지를",
+      "자율적推論은",
+      "발전시키고자",
       "metadata",
       "시뮬레이션된",
-      "방향으로서의",
-      "routing",
-      "생성되었는지를",
-      "발전시키고자",
-      "integritybench라는"
+      "anthropic의",
+      "tarihi"
     ]
   },
   "topic_scores": {
@@ -840,6 +831,9 @@
     "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using": 201,
     "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows": 201,
     "Adaptive Entangled Game Modules in Artificial General Intelligence": 201,
-    "Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic": 201
+    "Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic": 201,
+    "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bou": 201,
+    "Automating Quadratic Unconstrained Binary Optimization (QUBO) Formulation Genera": 201,
+    "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognit": 201
   }
 }
