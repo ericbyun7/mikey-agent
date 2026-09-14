@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-08-14T00:02:13.983730",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational O",
-        "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Cal",
-        "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph"
-      ],
-      "new_keywords": [
-        "metadata",
-        "distribird의",
-        "orchestrator",
-        "시뮬레이션된",
-        "인사이트입니다",
-        "prior를",
-        "uniform",
-        "제대로進行되지",
-        "distribird",
-        "애플리케이션이"
-      ]
-    },
-    {
       "date": "2026-08-14T23:42:50.777511",
       "articles_collected": 10,
       "debates_run": 3,
@@ -425,6 +403,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-09-14T01:03:13.074646",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "The Coming War on General Computation (2011)",
+        "It's All Fun and Games Until You Give AI Your Credit Card",
+        "The contagion of fear"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -443,26 +434,26 @@
       "AI art"
     ],
     "self_determined": [
-      "방향으로서의",
-      "integritybench라는",
-      "작성되었는지",
-      "distribird",
-      "달성하면서도",
-      "설계되었지만",
-      "한계에達하는",
-      "nvidia와",
-      "access",
-      "의사결정에서",
-      "quyết정을",
-      "routing",
       "alignment",
-      "생성되었는지를",
-      "자율적推論은",
-      "발전시키고자",
       "metadata",
-      "시뮬레이션된",
+      "nvidia와",
+      "한계에達하는",
+      "설계되었지만",
+      "방향으로서의",
+      "access",
+      "달성하면서도",
       "anthropic의",
-      "tarihi"
+      "의사결정에서",
+      "자율적推論은",
+      "시뮬레이션된",
+      "생성되었는지를",
+      "integritybench라는",
+      "발전시키고자",
+      "작성되었는지",
+      "routing",
+      "tarihi",
+      "distribird",
+      "quyết정을"
     ]
   },
   "topic_scores": {
@@ -834,6 +825,9 @@
     "Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic": 201,
     "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bou": 201,
     "Automating Quadratic Unconstrained Binary Optimization (QUBO) Formulation Genera": 201,
-    "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognit": 201
+    "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognit": 201,
+    "The Coming War on General Computation (2011)": 201,
+    "It's All Fun and Games Until You Give AI Your Credit Card": 201,
+    "The contagion of fear": 201
   }
 }
