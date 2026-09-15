@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-08-14T23:42:50.777511",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Position: Reasoning is a Learnable Rule-Based Process",
-        "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
-        "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit"
-      ],
-      "new_keywords": [
-        "달성하면서도",
-        "automated",
-        "probabilistic",
-        "integritybench",
-        "integritybench라는",
-        "generative",
-        "나타났습니다",
-        "의사결정에서",
-        "행위자들에게",
-        "integritybench를"
-      ]
-    },
-    {
       "date": "2026-08-15T23:41:38.349109",
       "articles_collected": 10,
       "debates_run": 3,
@@ -416,6 +394,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-09-15T01:34:36.254362",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "I'm not addicted to the internet or my smartphone. I'm addicted to information",
+        "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+        "Charts built for Chat"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -434,25 +425,25 @@
       "AI art"
     ],
     "self_determined": [
+      "의사결정에서",
       "alignment",
       "metadata",
-      "nvidia와",
-      "한계에達하는",
-      "설계되었지만",
       "방향으로서의",
       "access",
+      "한계에達하는",
       "달성하면서도",
-      "anthropic의",
-      "의사결정에서",
-      "자율적推論은",
+      "distribird",
+      "nvidia와",
+      "routing",
       "시뮬레이션된",
       "생성되었는지를",
-      "integritybench라는",
       "발전시키고자",
-      "작성되었는지",
-      "routing",
+      "자율적推論은",
+      "anthropic의",
+      "integritybench라는",
       "tarihi",
-      "distribird",
+      "작성되었는지",
+      "설계되었지만",
       "quyết정을"
     ]
   },
@@ -828,6 +819,9 @@
     "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognit": 201,
     "The Coming War on General Computation (2011)": 201,
     "It's All Fun and Games Until You Give AI Your Credit Card": 201,
-    "The contagion of fear": 201
+    "The contagion of fear": 201,
+    "I'm not addicted to the internet or my smartphone. I'm addicted to information": 201,
+    "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS": 201,
+    "Charts built for Chat": 201
   }
 }
