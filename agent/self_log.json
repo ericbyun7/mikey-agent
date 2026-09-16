@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-08-15T23:41:38.349109",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Position: Reasoning is a Learnable Rule-Based Process",
-        "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
-        "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit"
-      ],
-      "new_keywords": [
-        "alignment",
-        "자율적推論은",
-        "tarihi",
-        "발전시키고자",
-        "integritybench라는",
-        "설계되었지만",
-        "한계점입니다",
-        "평가했습니다",
-        "integritybench를",
-        "quyết정을"
-      ]
-    },
-    {
       "date": "2026-08-16T23:40:59.114667",
       "articles_collected": 10,
       "debates_run": 3,
@@ -407,6 +385,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-09-16T01:24:05.084336",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agent",
+        "Converge Then Diversify: Decoupling Convergence and Diversity in Multi-Objective",
+        "Generalized Agent Iteration: One Formal Framework for Iterative Policy Improveme"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -425,26 +416,26 @@
       "AI art"
     ],
     "self_determined": [
-      "의사결정에서",
+      "distribird",
       "alignment",
-      "metadata",
+      "발전시키고자",
+      "시뮬레이션된",
       "방향으로서의",
-      "access",
+      "anthropic의",
+      "nvidia와",
+      "의사결정에서",
+      "설계되었지만",
       "한계에達하는",
       "달성하면서도",
-      "distribird",
-      "nvidia와",
-      "routing",
-      "시뮬레이션된",
-      "생성되었는지를",
-      "발전시키고자",
-      "자율적推論은",
-      "anthropic의",
-      "integritybench라는",
-      "tarihi",
       "작성되었는지",
-      "설계되었지만",
-      "quyết정을"
+      "routing",
+      "quyết정을",
+      "metadata",
+      "integritybench라는",
+      "access",
+      "자율적推論은",
+      "tarihi",
+      "생성되었는지를"
     ]
   },
   "topic_scores": {
@@ -822,6 +813,9 @@
     "The contagion of fear": 201,
     "I'm not addicted to the internet or my smartphone. I'm addicted to information": 201,
     "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS": 201,
-    "Charts built for Chat": 201
+    "Charts built for Chat": 201,
+    "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agent": 201,
+    "Converge Then Diversify: Decoupling Convergence and Diversity in Multi-Objective": 201,
+    "Generalized Agent Iteration: One Formal Framework for Iterative Policy Improveme": 201
   }
 }
