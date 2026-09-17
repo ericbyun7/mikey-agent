@@ -1,28 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-08-16T23:40:59.114667",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
-        "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-        "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast"
-      ],
-      "new_keywords": [
-        "nvidia와",
-        "생성되었는지를",
-        "openai",
-        "필수적입니다",
-        "gemini",
-        "작성되었는지",
-        "nvidia는",
-        "축소되었습니다",
-        "anthropic의",
-        "watermark"
-      ]
-    },
-    {
       "date": "2026-08-17T23:43:44.985759",
       "articles_collected": 10,
       "debates_run": 3,
@@ -398,6 +376,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-09-17T01:28:09.260518",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Optimal Pruning for Neural Architectures using Fisher Information Distances",
+        "Safe Error Correction for Language Models: Frozen-Base Adjustment with Capabilit",
+        "GPEvac: GNN-Based PPO for Adaptive Evacuation Routing During Shooting Events"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -416,26 +407,26 @@
       "AI art"
     ],
     "self_determined": [
-      "distribird",
       "alignment",
-      "발전시키고자",
-      "시뮬레이션된",
-      "방향으로서의",
-      "anthropic의",
       "nvidia와",
-      "의사결정에서",
-      "설계되었지만",
-      "한계에達하는",
-      "달성하면서도",
-      "작성되었는지",
-      "routing",
-      "quyết정을",
-      "metadata",
-      "integritybench라는",
+      "distribird",
       "access",
-      "자율적推論은",
+      "routing",
+      "작성되었는지",
+      "한계에達하는",
+      "integritybench라는",
+      "metadata",
+      "anthropic의",
       "tarihi",
-      "생성되었는지를"
+      "생성되었는지를",
+      "설계되었지만",
+      "의사결정에서",
+      "방향으로서의",
+      "quyết정을",
+      "발전시키고자",
+      "자율적推論은",
+      "시뮬레이션된",
+      "달성하면서도"
     ]
   },
   "topic_scores": {
@@ -816,6 +807,9 @@
     "Charts built for Chat": 201,
     "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agent": 201,
     "Converge Then Diversify: Decoupling Convergence and Diversity in Multi-Objective": 201,
-    "Generalized Agent Iteration: One Formal Framework for Iterative Policy Improveme": 201
+    "Generalized Agent Iteration: One Formal Framework for Iterative Policy Improveme": 201,
+    "Optimal Pruning for Neural Architectures using Fisher Information Distances": 201,
+    "Safe Error Correction for Language Models: Frozen-Base Adjustment with Capabilit": 201,
+    "GPEvac: GNN-Based PPO for Adaptive Evacuation Routing During Shooting Events": 201
   }
 }
