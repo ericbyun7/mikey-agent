@@ -1,19 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-08-17T23:43:44.985759",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluat",
-        "Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Base",
-        "Modular Cognitive Architecture Emerges in Large Language Models"
-      ],
-      "new_keywords": [
-        "access"
-      ]
-    },
-    {
       "date": "2026-08-18T23:43:07.297800",
       "articles_collected": 10,
       "debates_run": 3,
@@ -389,6 +376,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-09-18T01:24:12.161978",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Making AI-Assisted Claims Independently Challengeable: Publication Authority and",
+        "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading A",
+        "One Color Preprocessing Improves DSATUR"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -407,26 +407,26 @@
       "AI art"
     ],
     "self_determined": [
-      "alignment",
-      "nvidia와",
-      "distribird",
-      "access",
+      "anthropic의",
+      "자율적推論은",
+      "의사결정에서",
+      "metadata",
+      "quyết정을",
+      "달성하면서도",
       "routing",
-      "작성되었는지",
+      "tarihi",
+      "설계되었지만",
+      "nvidia와",
       "한계에達하는",
       "integritybench라는",
-      "metadata",
-      "anthropic의",
-      "tarihi",
-      "생성되었는지를",
-      "설계되었지만",
-      "의사결정에서",
-      "방향으로서의",
-      "quyết정을",
-      "발전시키고자",
-      "자율적推論은",
       "시뮬레이션된",
-      "달성하면서도"
+      "alignment",
+      "작성되었는지",
+      "생성되었는지를",
+      "방향으로서의",
+      "access",
+      "distribird",
+      "발전시키고자"
     ]
   },
   "topic_scores": {
@@ -810,6 +810,9 @@
     "Generalized Agent Iteration: One Formal Framework for Iterative Policy Improveme": 201,
     "Optimal Pruning for Neural Architectures using Fisher Information Distances": 201,
     "Safe Error Correction for Language Models: Frozen-Base Adjustment with Capabilit": 201,
-    "GPEvac: GNN-Based PPO for Adaptive Evacuation Routing During Shooting Events": 201
+    "GPEvac: GNN-Based PPO for Adaptive Evacuation Routing During Shooting Events": 201,
+    "Making AI-Assisted Claims Independently Challengeable: Publication Authority and": 201,
+    "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading A": 201,
+    "One Color Preprocessing Improves DSATUR": 201
   }
 }
