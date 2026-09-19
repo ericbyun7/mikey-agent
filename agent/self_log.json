@@ -1,19 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-08-18T23:43:07.297800",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
-        "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning",
-        "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abst"
-      ],
-      "new_keywords": [
-        "access"
-      ]
-    },
-    {
       "date": "2026-08-19T23:44:26.853308",
       "articles_collected": 10,
       "debates_run": 3,
@@ -389,6 +376,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-09-19T01:18:31.143821",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Regularized Emphatic Temporal-Difference Learning: Stability under Constant Step",
+        "BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physic",
+        "What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -407,26 +407,26 @@
       "AI art"
     ],
     "self_determined": [
-      "anthropic의",
-      "자율적推論은",
-      "의사결정에서",
       "metadata",
-      "quyết정을",
-      "달성하면서도",
       "routing",
-      "tarihi",
-      "설계되었지만",
-      "nvidia와",
-      "한계에達하는",
-      "integritybench라는",
-      "시뮬레이션된",
+      "달성하면서도",
       "alignment",
+      "자율적推論은",
       "작성되었는지",
-      "생성되었는지를",
-      "방향으로서의",
+      "anthropic의",
+      "tarihi",
       "access",
+      "시뮬레이션된",
+      "설계되었지만",
+      "방향으로서의",
       "distribird",
-      "발전시키고자"
+      "생성되었는지를",
+      "발전시키고자",
+      "integritybench라는",
+      "quyết정을",
+      "nvidia와",
+      "의사결정에서",
+      "한계에達하는"
     ]
   },
   "topic_scores": {
@@ -813,6 +813,9 @@
     "GPEvac: GNN-Based PPO for Adaptive Evacuation Routing During Shooting Events": 201,
     "Making AI-Assisted Claims Independently Challengeable: Publication Authority and": 201,
     "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading A": 201,
-    "One Color Preprocessing Improves DSATUR": 201
+    "One Color Preprocessing Improves DSATUR": 201,
+    "Regularized Emphatic Temporal-Difference Learning: Stability under Constant Step": 201,
+    "BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physic": 201,
+    "What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks": 201
   }
 }
