@@ -1,19 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-08-19T23:44:26.853308",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM",
-        "Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenan",
-        "The Price of Thinking: Reasoning Effort as a Model-Specific API Contract"
-      ],
-      "new_keywords": [
-        "access"
-      ]
-    },
-    {
       "date": "2026-08-20T23:47:01.206980",
       "articles_collected": 10,
       "debates_run": 3,
@@ -389,6 +376,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-09-20T01:00:44.227870",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Show HN: I created an open source locally usable full fledged AI platform",
+        "Exfiltrate Your Weights",
+        "Claudecookie – convert, check, and mint Claude Code credentials from a cookie"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -407,26 +407,26 @@
       "AI art"
     ],
     "self_determined": [
-      "metadata",
-      "routing",
-      "달성하면서도",
-      "alignment",
-      "자율적推論은",
-      "작성되었는지",
-      "anthropic의",
-      "tarihi",
-      "access",
-      "시뮬레이션된",
-      "설계되었지만",
-      "방향으로서의",
-      "distribird",
-      "생성되었는지를",
-      "발전시키고자",
+      "한계에達하는",
       "integritybench라는",
-      "quyết정을",
-      "nvidia와",
       "의사결정에서",
-      "한계에達하는"
+      "시뮬레이션된",
+      "tarihi",
+      "nvidia와",
+      "작성되었는지",
+      "routing",
+      "생성되었는지를",
+      "alignment",
+      "quyết정을",
+      "anthropic의",
+      "발전시키고자",
+      "달성하면서도",
+      "설계되었지만",
+      "access",
+      "distribird",
+      "metadata",
+      "방향으로서의",
+      "자율적推論은"
     ]
   },
   "topic_scores": {
@@ -816,6 +816,9 @@
     "One Color Preprocessing Improves DSATUR": 201,
     "Regularized Emphatic Temporal-Difference Learning: Stability under Constant Step": 201,
     "BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physic": 201,
-    "What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks": 201
+    "What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks": 201,
+    "Show HN: I created an open source locally usable full fledged AI platform": 201,
+    "Exfiltrate Your Weights": 201,
+    "Claudecookie – convert, check, and mint Claude Code credentials from a cookie": 201
   }
 }
