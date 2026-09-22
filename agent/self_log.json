@@ -1,19 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-08-21T23:44:58.022734",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Active Inference as Context Acquisition for AI Agents",
-        "Robust Metaheuristics under Uncertainty for Berth Allocation and Quay Crane Assi",
-        "How to Navigate Uncertainty About AI Consciousness"
-      ],
-      "new_keywords": [
-        "access"
-      ]
-    },
-    {
       "date": "2026-08-22T23:42:09.405194",
       "articles_collected": 10,
       "debates_run": 3,
@@ -389,6 +376,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-09-22T01:51:33.321567",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Mod",
+        "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
+        "CaLR: Causal Latent Revision for Robust Diffusion Reasoning"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -409,24 +409,24 @@
     "self_determined": [
       "nvidia와",
       "tarihi",
-      "방향으로서의",
-      "distribird",
-      "의사결정에서",
       "access",
-      "한계에達하는",
-      "routing",
-      "작성되었는지",
+      "방향으로서의",
+      "생성되었는지를",
       "발전시키고자",
-      "quyết정을",
-      "alignment",
-      "integritybench라는",
-      "자율적推論은",
+      "routing",
       "anthropic의",
+      "의사결정에서",
       "metadata",
+      "integritybench라는",
       "설계되었지만",
       "시뮬레이션된",
-      "생성되었는지를",
-      "달성하면서도"
+      "달성하면서도",
+      "작성되었는지",
+      "한계에達하는",
+      "자율적推論은",
+      "distribird",
+      "alignment",
+      "quyết정을"
     ]
   },
   "topic_scores": {
@@ -822,6 +822,9 @@
     "Claudecookie – convert, check, and mint Claude Code credentials from a cookie": 201,
     "Amiga Unix, Again": 201,
     "DAPO: An Open-Source RL System from ByteDance Seed and Tsinghua Air": 201,
-    "What happened to the Snowden archive": 201
+    "What happened to the Snowden archive": 201,
+    "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Mod": 201,
+    "Attention-Aware Routing: Coupling Routing and Attention in MoEs": 201,
+    "CaLR: Causal Latent Revision for Robust Diffusion Reasoning": 201
   }
 }
