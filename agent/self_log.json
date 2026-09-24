@@ -1,19 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-08-23T23:41:49.473433",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Slovakia finds Russian backdoor in traffic speed cameras",
-        "Authoritarianism of Code",
-        "What Is a Harness?"
-      ],
-      "new_keywords": [
-        "access"
-      ]
-    },
-    {
       "date": "2026-08-24T23:44:53.604903",
       "articles_collected": 10,
       "debates_run": 3,
@@ -389,6 +376,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-09-24T01:28:51.744338",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Languag",
+        "An Affordable AI-Integrated Smart Cane for Multimodal Mobility Assistance of Vis",
+        "PAANI : On Device Visual Evidence Fusion and Explainable Guidance for River Robo"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -407,26 +407,26 @@
       "AI art"
     ],
     "self_determined": [
-      "metadata",
-      "자율적推論은",
-      "생성되었는지를",
-      "의사결정에서",
-      "alignment",
-      "integritybench라는",
-      "quyết정을",
-      "nvidia와",
-      "달성하면서도",
-      "시뮬레이션된",
-      "방향으로서의",
-      "access",
-      "한계에達하는",
-      "설계되었지만",
-      "routing",
-      "발전시키고자",
-      "작성되었는지",
       "distribird",
+      "발전시키고자",
+      "의사결정에서",
+      "달성하면서도",
+      "nvidia와",
+      "alignment",
+      "anthropic의",
       "tarihi",
-      "anthropic의"
+      "metadata",
+      "routing",
+      "integritybench라는",
+      "한계에達하는",
+      "생성되었는지를",
+      "quyết정을",
+      "access",
+      "설계되었지만",
+      "자율적推論은",
+      "시뮬레이션된",
+      "작성되었는지",
+      "방향으로서의"
     ]
   },
   "topic_scores": {
@@ -825,6 +825,9 @@
     "What happened to the Snowden archive": 201,
     "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Mod": 201,
     "Attention-Aware Routing: Coupling Routing and Attention in MoEs": 201,
-    "CaLR: Causal Latent Revision for Robust Diffusion Reasoning": 201
+    "CaLR: Causal Latent Revision for Robust Diffusion Reasoning": 201,
+    "Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Languag": 201,
+    "An Affordable AI-Integrated Smart Cane for Multimodal Mobility Assistance of Vis": 201,
+    "PAANI : On Device Visual Evidence Fusion and Explainable Guidance for River Robo": 201
   }
 }
