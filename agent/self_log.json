@@ -1,19 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-08-24T23:44:53.604903",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
-        "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastruct",
-        "Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification"
-      ],
-      "new_keywords": [
-        "access"
-      ]
-    },
-    {
       "date": "2026-08-25T23:47:06.826878",
       "articles_collected": 10,
       "debates_run": 3,
@@ -389,6 +376,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-09-25T01:31:34.587345",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse",
+        "Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity",
+        "TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -407,26 +407,26 @@
       "AI art"
     ],
     "self_determined": [
-      "distribird",
-      "발전시키고자",
-      "의사결정에서",
-      "달성하면서도",
-      "nvidia와",
-      "alignment",
-      "anthropic의",
-      "tarihi",
-      "metadata",
-      "routing",
-      "integritybench라는",
-      "한계에達하는",
-      "생성되었는지를",
-      "quyết정을",
       "access",
-      "설계되었지만",
+      "발전시키고자",
+      "metadata",
+      "alignment",
+      "생성되었는지를",
+      "routing",
+      "달성하면서도",
+      "의사결정에서",
+      "quyết정을",
       "자율적推論은",
-      "시뮬레이션된",
+      "한계에達하는",
+      "integritybench라는",
+      "설계되었지만",
+      "방향으로서의",
+      "anthropic의",
+      "nvidia와",
       "작성되었는지",
-      "방향으로서의"
+      "tarihi",
+      "distribird",
+      "시뮬레이션된"
     ]
   },
   "topic_scores": {
@@ -828,6 +828,9 @@
     "CaLR: Causal Latent Revision for Robust Diffusion Reasoning": 201,
     "Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Languag": 201,
     "An Affordable AI-Integrated Smart Cane for Multimodal Mobility Assistance of Vis": 201,
-    "PAANI : On Device Visual Evidence Fusion and Explainable Guidance for River Robo": 201
+    "PAANI : On Device Visual Evidence Fusion and Explainable Guidance for River Robo": 201,
+    "Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse": 201,
+    "Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity": 201,
+    "TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents": 201
   }
 }
