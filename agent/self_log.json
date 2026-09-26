@@ -1,19 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-08-25T23:47:06.826878",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation f",
-        "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance",
-        "Reviewing Model Collapse and Countermeasures"
-      ],
-      "new_keywords": [
-        "access"
-      ]
-    },
-    {
       "date": "2026-08-27T04:39:05.428105",
       "articles_collected": 10,
       "debates_run": 3,
@@ -389,6 +376,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-09-26T01:34:11.769760",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability R",
+        "TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series",
+        "PAWS: Policy-driven Agentic World Simulation"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -408,24 +408,24 @@
     ],
     "self_determined": [
       "access",
-      "발전시키고자",
-      "metadata",
-      "alignment",
-      "생성되었는지를",
-      "routing",
-      "달성하면서도",
       "의사결정에서",
       "quyết정을",
-      "자율적推論은",
-      "한계에達하는",
-      "integritybench라는",
-      "설계되었지만",
-      "방향으로서의",
-      "anthropic의",
-      "nvidia와",
-      "작성되었는지",
       "tarihi",
+      "anthropic의",
+      "routing",
+      "자율적推論은",
+      "방향으로서의",
+      "발전시키고자",
+      "metadata",
+      "작성되었는지",
       "distribird",
+      "integritybench라는",
+      "생성되었는지를",
+      "한계에達하는",
+      "설계되었지만",
+      "달성하면서도",
+      "alignment",
+      "nvidia와",
       "시뮬레이션된"
     ]
   },
@@ -831,6 +831,9 @@
     "PAANI : On Device Visual Evidence Fusion and Explainable Guidance for River Robo": 201,
     "Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse": 201,
     "Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity": 201,
-    "TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents": 201
+    "TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents": 201,
+    "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability R": 201,
+    "TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series": 201,
+    "PAWS: Policy-driven Agentic World Simulation": 201
   }
 }
