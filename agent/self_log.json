@@ -1,19 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-08-27T04:39:05.428105",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
-        "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialec",
-        "LLM Agents Perform Controlled Experiments Using Simulation Models"
-      ],
-      "new_keywords": [
-        "access"
-      ]
-    },
-    {
       "date": "2026-08-28T06:56:06.665299",
       "articles_collected": 10,
       "debates_run": 3,
@@ -389,6 +376,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-09-27T01:31:23.079311",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Welcome to the Medical Clinic at the Interplanetary Relay Station",
+        "HomeBody: A humanoid that explores, remembers, and acts on its own",
+        "DeepSeek Elastic Compute (DSec)"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -407,26 +407,26 @@
       "AI art"
     ],
     "self_determined": [
-      "access",
-      "의사결정에서",
-      "quyết정을",
-      "tarihi",
-      "anthropic의",
-      "routing",
-      "자율적推論은",
-      "방향으로서의",
+      "alignment",
       "발전시키고자",
+      "access",
+      "quyết정을",
+      "달성하면서도",
+      "시뮬레이션된",
+      "설계되었지만",
+      "tarihi",
+      "자율적推論은",
+      "생성되었는지를",
+      "anthropic의",
       "metadata",
       "작성되었는지",
+      "방향으로서의",
+      "의사결정에서",
+      "한계에達하는",
       "distribird",
       "integritybench라는",
-      "생성되었는지를",
-      "한계에達하는",
-      "설계되었지만",
-      "달성하면서도",
-      "alignment",
       "nvidia와",
-      "시뮬레이션된"
+      "routing"
     ]
   },
   "topic_scores": {
@@ -834,6 +834,9 @@
     "TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents": 201,
     "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability R": 201,
     "TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series": 201,
-    "PAWS: Policy-driven Agentic World Simulation": 201
+    "PAWS: Policy-driven Agentic World Simulation": 201,
+    "Welcome to the Medical Clinic at the Interplanetary Relay Station": 201,
+    "HomeBody: A humanoid that explores, remembers, and acts on its own": 201,
+    "DeepSeek Elastic Compute (DSec)": 201
   }
 }
