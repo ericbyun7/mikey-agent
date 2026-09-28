@@ -1,19 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-08-28T06:56:06.665299",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic R",
-        "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality",
-        "Large Models for Battery Prognostics and Health Management: A Review and Future "
-      ],
-      "new_keywords": [
-        "access"
-      ]
-    },
-    {
       "date": "2026-08-29T04:28:09.658426",
       "articles_collected": 10,
       "debates_run": 3,
@@ -389,6 +376,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-09-28T01:48:55.573573",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Lunar Terminator Paradox",
+        "My Recent Woodworking Projects",
+        "Show HN: Cartopolis, interactive globe-sized 3D world"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -407,26 +407,26 @@
       "AI art"
     ],
     "self_determined": [
-      "alignment",
+      "시뮬레이션된",
+      "의사결정에서",
+      "integritybench라는",
+      "달성하면서도",
+      "생성되었는지를",
+      "routing",
+      "nvidia와",
       "발전시키고자",
       "access",
-      "quyết정을",
-      "달성하면서도",
-      "시뮬레이션된",
-      "설계되었지만",
-      "tarihi",
-      "자율적推論은",
-      "생성되었는지를",
-      "anthropic의",
-      "metadata",
-      "작성되었는지",
-      "방향으로서의",
-      "의사결정에서",
-      "한계에達하는",
       "distribird",
-      "integritybench라는",
-      "nvidia와",
-      "routing"
+      "설계되었지만",
+      "metadata",
+      "anthropic의",
+      "quyết정을",
+      "작성되었는지",
+      "tarihi",
+      "alignment",
+      "자율적推論은",
+      "한계에達하는",
+      "방향으로서의"
     ]
   },
   "topic_scores": {
@@ -837,6 +837,9 @@
     "PAWS: Policy-driven Agentic World Simulation": 201,
     "Welcome to the Medical Clinic at the Interplanetary Relay Station": 201,
     "HomeBody: A humanoid that explores, remembers, and acts on its own": 201,
-    "DeepSeek Elastic Compute (DSec)": 201
+    "DeepSeek Elastic Compute (DSec)": 201,
+    "Lunar Terminator Paradox": 201,
+    "My Recent Woodworking Projects": 201,
+    "Show HN: Cartopolis, interactive globe-sized 3D world": 201
   }
 }
