@@ -1,19 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-08-29T04:28:09.658426",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic R",
-        "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality",
-        "Large Models for Battery Prognostics and Health Management: A Review and Future "
-      ],
-      "new_keywords": [
-        "access"
-      ]
-    },
-    {
       "date": "2026-08-30T01:24:59.545908",
       "articles_collected": 10,
       "debates_run": 3,
@@ -389,6 +376,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-09-29T02:55:19.715233",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
+        "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?",
+        "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements,"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -407,26 +407,26 @@
       "AI art"
     ],
     "self_determined": [
+      "생성되었는지를",
+      "설계되었지만",
+      "작성되었는지",
+      "distribird",
+      "metadata",
+      "access",
+      "quyết정을",
+      "tarihi",
+      "anthropic의",
+      "한계에達하는",
+      "발전시키고자",
+      "nvidia와",
+      "방향으로서의",
+      "달성하면서도",
+      "자율적推論은",
+      "integritybench라는",
+      "alignment",
       "시뮬레이션된",
       "의사결정에서",
-      "integritybench라는",
-      "달성하면서도",
-      "생성되었는지를",
-      "routing",
-      "nvidia와",
-      "발전시키고자",
-      "access",
-      "distribird",
-      "설계되었지만",
-      "metadata",
-      "anthropic의",
-      "quyết정을",
-      "작성되었는지",
-      "tarihi",
-      "alignment",
-      "자율적推論은",
-      "한계에達하는",
-      "방향으로서의"
+      "routing"
     ]
   },
   "topic_scores": {
@@ -840,6 +840,9 @@
     "DeepSeek Elastic Compute (DSec)": 201,
     "Lunar Terminator Paradox": 201,
     "My Recent Woodworking Projects": 201,
-    "Show HN: Cartopolis, interactive globe-sized 3D world": 201
+    "Show HN: Cartopolis, interactive globe-sized 3D world": 201,
+    "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence": 201,
+    "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?": 201,
+    "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements,": 201
   }
 }
