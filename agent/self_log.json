@@ -1,19 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-08-30T01:24:59.545908",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic R",
-        "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality",
-        "Large Models for Battery Prognostics and Health Management: A Review and Future "
-      ],
-      "new_keywords": [
-        "access"
-      ]
-    },
-    {
       "date": "2026-08-31T01:30:22.220328",
       "articles_collected": 10,
       "debates_run": 3,
@@ -389,6 +376,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-09-30T02:15:15.038908",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
+        "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?",
+        "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements,"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -407,26 +407,26 @@
       "AI art"
     ],
     "self_determined": [
-      "생성되었는지를",
-      "설계되었지만",
-      "작성되었는지",
-      "distribird",
-      "metadata",
-      "access",
-      "quyết정을",
-      "tarihi",
-      "anthropic의",
-      "한계에達하는",
-      "발전시키고자",
-      "nvidia와",
-      "방향으로서의",
-      "달성하면서도",
       "자율적推論은",
-      "integritybench라는",
+      "nvidia와",
+      "한계에達하는",
+      "생성되었는지를",
+      "tarihi",
+      "metadata",
+      "distribird",
       "alignment",
+      "quyết정을",
+      "integritybench라는",
+      "발전시키고자",
+      "달성하면서도",
+      "설계되었지만",
       "시뮬레이션된",
+      "작성되었는지",
+      "anthropic의",
+      "routing",
+      "방향으로서의",
       "의사결정에서",
-      "routing"
+      "access"
     ]
   },
   "topic_scores": {
