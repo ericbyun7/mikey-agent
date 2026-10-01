@@ -1,19 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-08-31T01:30:22.220328",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "“I just chose words carefully”",
-        "Continuous Diffusion Language Models (CDLM's)",
-        "Cores in space: The core memory module from a 1980 Spacelab computer"
-      ],
-      "new_keywords": [
-        "access"
-      ]
-    },
-    {
       "date": "2026-09-01T02:01:20.042777",
       "articles_collected": 10,
       "debates_run": 3,
@@ -389,6 +376,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-10-01T02:12:34.491729",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
+        "Neurosymbolic Routing for Reliable Reasoning on Resource-Constrained Edge Device",
+        "Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -407,26 +407,26 @@
       "AI art"
     ],
     "self_determined": [
-      "자율적推論은",
-      "nvidia와",
-      "한계에達하는",
-      "생성되었는지를",
-      "tarihi",
-      "metadata",
-      "distribird",
-      "alignment",
-      "quyết정을",
-      "integritybench라는",
       "발전시키고자",
-      "달성하면서도",
-      "설계되었지만",
-      "시뮬레이션된",
-      "작성되었는지",
       "anthropic의",
-      "routing",
       "방향으로서의",
-      "의사결정에서",
-      "access"
+      "tarihi",
+      "integritybench라는",
+      "metadata",
+      "작성되었는지",
+      "nvidia와",
+      "distribird",
+      "quyết정을",
+      "한계에達하는",
+      "자율적推論은",
+      "생성되었는지를",
+      "alignment",
+      "시뮬레이션된",
+      "설계되었지만",
+      "routing",
+      "달성하면서도",
+      "access",
+      "의사결정에서"
     ]
   },
   "topic_scores": {
@@ -843,6 +843,9 @@
     "Show HN: Cartopolis, interactive globe-sized 3D world": 201,
     "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence": 201,
     "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?": 201,
-    "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements,": 201
+    "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements,": 201,
+    "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing": 201,
+    "Neurosymbolic Routing for Reliable Reasoning on Resource-Constrained Edge Device": 201,
+    "Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?": 201
   }
 }
