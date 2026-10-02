@@ -1,19 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-09-01T02:01:20.042777",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Carmack: Has early Scratch experience led to fulfilling careers?",
-        "Evidence of Fraud in an Influential Study About Procrastination",
-        "Run macOS Software on Linux"
-      ],
-      "new_keywords": [
-        "access"
-      ]
-    },
-    {
       "date": "2026-09-02T01:11:27.353633",
       "articles_collected": 10,
       "debates_run": 3,
@@ -389,6 +376,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-10-02T02:23:35.907944",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation",
+        "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
+        "MoFlow: Multi-Objective Agentic Workflow Generation"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -407,26 +407,26 @@
       "AI art"
     ],
     "self_determined": [
-      "발전시키고자",
-      "anthropic의",
-      "방향으로서의",
-      "tarihi",
-      "integritybench라는",
-      "metadata",
-      "작성되었는지",
       "nvidia와",
-      "distribird",
-      "quyết정을",
-      "한계에達하는",
-      "자율적推論은",
-      "생성되었는지를",
-      "alignment",
-      "시뮬레이션된",
-      "설계되었지만",
-      "routing",
       "달성하면서도",
+      "자율적推論은",
+      "설계되었지만",
+      "anthropic의",
+      "distribird",
       "access",
-      "의사결정에서"
+      "발전시키고자",
+      "tarihi",
+      "생성되었는지를",
+      "작성되었는지",
+      "quyết정을",
+      "integritybench라는",
+      "한계에達하는",
+      "alignment",
+      "의사결정에서",
+      "metadata",
+      "시뮬레이션된",
+      "방향으로서의",
+      "routing"
     ]
   },
   "topic_scores": {
@@ -846,6 +846,9 @@
     "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements,": 201,
     "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing": 201,
     "Neurosymbolic Routing for Reliable Reasoning on Resource-Constrained Edge Device": 201,
-    "Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?": 201
+    "Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?": 201,
+    "Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation": 201,
+    "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks": 201,
+    "MoFlow: Multi-Objective Agentic Workflow Generation": 201
   }
 }
