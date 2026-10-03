@@ -1,19 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-09-02T01:11:27.353633",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation",
-        "Expert-validated STEM QA",
-        "A collective capability boundary in frontier large language models on guideline-"
-      ],
-      "new_keywords": [
-        "access"
-      ]
-    },
-    {
       "date": "2026-09-03T01:23:38.657777",
       "articles_collected": 10,
       "debates_run": 3,
@@ -389,6 +376,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-10-03T02:04:53.442752",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
+        "When Do Causal World Models Help Modular LLM Agents",
+        "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed "
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -407,26 +407,26 @@
       "AI art"
     ],
     "self_determined": [
-      "nvidia와",
-      "달성하면서도",
-      "자율적推論은",
-      "설계되었지만",
-      "anthropic의",
-      "distribird",
-      "access",
       "발전시키고자",
-      "tarihi",
-      "생성되었는지를",
-      "작성되었는지",
-      "quyết정을",
-      "integritybench라는",
-      "한계에達하는",
-      "alignment",
-      "의사결정에서",
-      "metadata",
+      "설계되었지만",
       "시뮬레이션된",
+      "alignment",
+      "quyết정을",
+      "access",
+      "자율적推論은",
+      "작성되었는지",
+      "distribird",
+      "nvidia와",
+      "metadata",
+      "tarihi",
       "방향으로서의",
-      "routing"
+      "한계에達하는",
+      "생성되었는지를",
+      "달성하면서도",
+      "의사결정에서",
+      "routing",
+      "anthropic의",
+      "integritybench라는"
     ]
   },
   "topic_scores": {
@@ -849,6 +849,9 @@
     "Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?": 201,
     "Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation": 201,
     "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks": 201,
-    "MoFlow: Multi-Objective Agentic Workflow Generation": 201
+    "MoFlow: Multi-Objective Agentic Workflow Generation": 201,
+    "Heavy-Tailed Memory Traces in Long-Horizon Language Agents": 201,
+    "When Do Causal World Models Help Modular LLM Agents": 201,
+    "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed ": 201
   }
 }
