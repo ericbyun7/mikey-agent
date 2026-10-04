@@ -1,19 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-09-03T01:23:38.657777",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual W",
-        "I-CARE: Analysis of interference-related phenomena in a controllable, diverse an",
-        "Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic"
-      ],
-      "new_keywords": [
-        "access"
-      ]
-    },
-    {
       "date": "2026-09-04T01:03:00.691141",
       "articles_collected": 10,
       "debates_run": 3,
@@ -389,6 +376,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-10-04T02:46:08.307945",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Bob Cringely Has Died",
+        "We're going to need default hard budget caps on pretty much everything",
+        "Apple's \"Clean Design\" Is Stupidity When It Comes to Hiding Fire Extinguishers"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -407,26 +407,26 @@
       "AI art"
     ],
     "self_determined": [
-      "발전시키고자",
-      "설계되었지만",
-      "시뮬레이션된",
-      "alignment",
-      "quyết정을",
-      "access",
-      "자율적推論은",
-      "작성되었는지",
-      "distribird",
+      "tarihi",
       "nvidia와",
       "metadata",
-      "tarihi",
-      "방향으로서의",
-      "한계에達하는",
-      "생성되었는지를",
-      "달성하면서도",
-      "의사결정에서",
-      "routing",
       "anthropic의",
-      "integritybench라는"
+      "integritybench라는",
+      "발전시키고자",
+      "alignment",
+      "설계되었지만",
+      "시뮬레이션된",
+      "작성되었는지",
+      "의사결정에서",
+      "access",
+      "한계에達하는",
+      "routing",
+      "quyết정을",
+      "방향으로서의",
+      "distribird",
+      "자율적推論은",
+      "생성되었는지를",
+      "달성하면서도"
     ]
   },
   "topic_scores": {
@@ -852,6 +852,9 @@
     "MoFlow: Multi-Objective Agentic Workflow Generation": 201,
     "Heavy-Tailed Memory Traces in Long-Horizon Language Agents": 201,
     "When Do Causal World Models Help Modular LLM Agents": 201,
-    "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed ": 201
+    "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed ": 201,
+    "Bob Cringely Has Died": 201,
+    "We're going to need default hard budget caps on pretty much everything": 201,
+    "Apple's \"Clean Design\" Is Stupidity When It Comes to Hiding Fire Extinguishers": 201
   }
 }
