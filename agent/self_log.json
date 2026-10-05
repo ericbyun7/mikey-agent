@@ -1,19 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-09-04T01:03:00.691141",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Lang",
-        "Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI",
-        "When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted"
-      ],
-      "new_keywords": [
-        "access"
-      ]
-    },
-    {
       "date": "2026-09-06T00:54:39.079432",
       "articles_collected": 10,
       "debates_run": 3,
@@ -389,6 +376,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-10-05T01:55:22.935760",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "The logic of gambling undergirds everything coming out of Silicon Valley",
+        "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
+        "Self-hosted HTTP tunnels with SSH and Nginx"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -407,26 +407,26 @@
       "AI art"
     ],
     "self_determined": [
+      "의사결정에서",
+      "distribird",
+      "anthropic의",
+      "발전시키고자",
+      "방향으로서의",
       "tarihi",
       "nvidia와",
-      "metadata",
-      "anthropic의",
-      "integritybench라는",
-      "발전시키고자",
-      "alignment",
-      "설계되었지만",
-      "시뮬레이션된",
-      "작성되었는지",
-      "의사결정에서",
-      "access",
       "한계에達하는",
-      "routing",
-      "quyết정을",
-      "방향으로서의",
-      "distribird",
-      "자율적推論은",
+      "시뮬레이션된",
       "생성되었는지를",
-      "달성하면서도"
+      "quyết정을",
+      "자율적推論은",
+      "routing",
+      "metadata",
+      "설계되었지만",
+      "달성하면서도",
+      "작성되었는지",
+      "integritybench라는",
+      "access",
+      "alignment"
     ]
   },
   "topic_scores": {
@@ -855,6 +855,9 @@
     "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed ": 201,
     "Bob Cringely Has Died": 201,
     "We're going to need default hard budget caps on pretty much everything": 201,
-    "Apple's \"Clean Design\" Is Stupidity When It Comes to Hiding Fire Extinguishers": 201
+    "Apple's \"Clean Design\" Is Stupidity When It Comes to Hiding Fire Extinguishers": 201,
+    "The logic of gambling undergirds everything coming out of Silicon Valley": 201,
+    "ArtCraft Apps – open-source Adobe compatible suite written in Rust": 201,
+    "Self-hosted HTTP tunnels with SSH and Nginx": 201
   }
 }
