@@ -1,19 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-09-06T00:54:39.079432",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-        "America's two largest school districts impose AI moratoriums",
-        "The revolt of the reader"
-      ],
-      "new_keywords": [
-        "access"
-      ]
-    },
-    {
       "date": "2026-09-07T01:03:05.087622",
       "articles_collected": 9,
       "debates_run": 3,
@@ -389,6 +376,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-10-06T03:06:06.386264",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching",
+        "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Dec",
+        "The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -407,26 +407,26 @@
       "AI art"
     ],
     "self_determined": [
-      "의사결정에서",
-      "distribird",
-      "anthropic의",
-      "발전시키고자",
-      "방향으로서의",
-      "tarihi",
-      "nvidia와",
-      "한계에達하는",
-      "시뮬레이션된",
-      "생성되었는지를",
-      "quyết정을",
-      "자율적推論은",
-      "routing",
-      "metadata",
-      "설계되었지만",
-      "달성하면서도",
-      "작성되었는지",
       "integritybench라는",
+      "quyết정을",
+      "alignment",
+      "distribird",
+      "nvidia와",
+      "방향으로서의",
+      "생성되었는지를",
+      "anthropic의",
+      "시뮬레이션된",
+      "의사결정에서",
+      "자율적推論은",
+      "발전시키고자",
+      "routing",
+      "한계에達하는",
+      "metadata",
+      "달성하면서도",
+      "tarihi",
+      "설계되었지만",
       "access",
-      "alignment"
+      "작성되었는지"
     ]
   },
   "topic_scores": {
@@ -858,6 +858,9 @@
     "Apple's \"Clean Design\" Is Stupidity When It Comes to Hiding Fire Extinguishers": 201,
     "The logic of gambling undergirds everything coming out of Silicon Valley": 201,
     "ArtCraft Apps – open-source Adobe compatible suite written in Rust": 201,
-    "Self-hosted HTTP tunnels with SSH and Nginx": 201
+    "Self-hosted HTTP tunnels with SSH and Nginx": 201,
+    "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching": 201,
+    "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Dec": 201,
+    "The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports": 201
   }
 }
