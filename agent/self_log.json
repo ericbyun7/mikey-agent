@@ -1,19 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-09-07T01:03:05.087622",
-      "articles_collected": 9,
-      "debates_run": 3,
-      "topics": [
-        "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
-        "Authors push back as publishers and agents make claims on Anthropic settlement",
-        "Travis Kalanick’s Atoms might be getting into the robotaxi business"
-      ],
-      "new_keywords": [
-        "access"
-      ]
-    },
-    {
       "date": "2026-09-08T01:19:11.779213",
       "articles_collected": 10,
       "debates_run": 3,
@@ -389,6 +376,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-10-07T02:24:26.797650",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "South Korea says AI agents appear to have been used to hack the country's banks",
+        "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
+        "State of Devs 2026 survey results: developers are exhausted"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -407,26 +407,26 @@
       "AI art"
     ],
     "self_determined": [
-      "integritybench라는",
-      "quyết정을",
-      "alignment",
-      "distribird",
-      "nvidia와",
+      "metadata",
+      "설계되었지만",
       "방향으로서의",
+      "routing",
+      "tarihi",
+      "한계에達하는",
+      "quyết정을",
       "생성되었는지를",
-      "anthropic의",
+      "작성되었는지",
+      "자율적推論은",
+      "달성하면서도",
       "시뮬레이션된",
       "의사결정에서",
-      "자율적推論은",
       "발전시키고자",
-      "routing",
-      "한계에達하는",
-      "metadata",
-      "달성하면서도",
-      "tarihi",
-      "설계되었지만",
+      "integritybench라는",
+      "anthropic의",
       "access",
-      "작성되었는지"
+      "alignment",
+      "nvidia와",
+      "distribird"
     ]
   },
   "topic_scores": {
@@ -861,6 +861,9 @@
     "Self-hosted HTTP tunnels with SSH and Nginx": 201,
     "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching": 201,
     "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Dec": 201,
-    "The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports": 201
+    "The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports": 201,
+    "South Korea says AI agents appear to have been used to hack the country's banks": 201,
+    "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)": 201,
+    "State of Devs 2026 survey results: developers are exhausted": 201
   }
 }
