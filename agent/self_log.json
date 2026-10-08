@@ -1,19 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-09-08T01:19:11.779213",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "EXAONE Forecast for Finance",
-        "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI",
-        "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for "
-      ],
-      "new_keywords": [
-        "access"
-      ]
-    },
-    {
       "date": "2026-09-09T01:23:29.930129",
       "articles_collected": 10,
       "debates_run": 3,
@@ -389,6 +376,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-10-08T02:52:42.974404",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-Wo",
+        "Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Gen",
+        "FluidPD: In-Place Elasticity for SLO-Aware Prefill-Decode Disaggregated LLM Serv"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -407,26 +407,26 @@
       "AI art"
     ],
     "self_determined": [
-      "metadata",
-      "설계되었지만",
-      "방향으로서의",
-      "routing",
-      "tarihi",
-      "한계에達하는",
-      "quyết정을",
-      "생성되었는지를",
       "작성되었는지",
+      "access",
+      "integritybench라는",
+      "방향으로서의",
+      "의사결정에서",
+      "설계되었지만",
+      "발전시키고자",
       "자율적推論은",
       "달성하면서도",
       "시뮬레이션된",
-      "의사결정에서",
-      "발전시키고자",
-      "integritybench라는",
-      "anthropic의",
-      "access",
+      "metadata",
       "alignment",
-      "nvidia와",
-      "distribird"
+      "anthropic의",
+      "한계에達하는",
+      "tarihi",
+      "routing",
+      "생성되었는지를",
+      "quyết정을",
+      "distribird",
+      "nvidia와"
     ]
   },
   "topic_scores": {
@@ -864,6 +864,9 @@
     "The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports": 201,
     "South Korea says AI agents appear to have been used to hack the country's banks": 201,
     "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)": 201,
-    "State of Devs 2026 survey results: developers are exhausted": 201
+    "State of Devs 2026 survey results: developers are exhausted": 201,
+    "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-Wo": 201,
+    "Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Gen": 201,
+    "FluidPD: In-Place Elasticity for SLO-Aware Prefill-Decode Disaggregated LLM Serv": 201
   }
 }
