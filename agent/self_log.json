@@ -1,19 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-09-09T01:23:29.930129",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "A Topological Picture Book, Rendered",
-        "Large language models develop novel social biases through adaptive exploration",
-        "How to build a printer"
-      ],
-      "new_keywords": [
-        "access"
-      ]
-    },
-    {
       "date": "2026-09-10T01:13:18.420796",
       "articles_collected": 10,
       "debates_run": 3,
@@ -389,6 +376,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-10-09T03:09:52.304399",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-Wo",
+        "Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Gen",
+        "FluidPD: In-Place Elasticity for SLO-Aware Prefill-Decode Disaggregated LLM Serv"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -407,26 +407,26 @@
       "AI art"
     ],
     "self_determined": [
-      "작성되었는지",
-      "access",
-      "integritybench라는",
-      "방향으로서의",
-      "의사결정에서",
-      "설계되었지만",
-      "발전시키고자",
-      "자율적推論은",
-      "달성하면서도",
-      "시뮬레이션된",
-      "metadata",
-      "alignment",
-      "anthropic의",
-      "한계에達하는",
-      "tarihi",
-      "routing",
       "생성되었는지를",
+      "anthropic의",
+      "방향으로서의",
       "quyết정을",
+      "설계되었지만",
+      "의사결정에서",
+      "발전시키고자",
+      "alignment",
+      "metadata",
+      "작성되었는지",
+      "routing",
+      "시뮬레이션된",
+      "nvidia와",
+      "한계에達하는",
       "distribird",
-      "nvidia와"
+      "tarihi",
+      "access",
+      "달성하면서도",
+      "자율적推論은",
+      "integritybench라는"
     ]
   },
   "topic_scores": {
