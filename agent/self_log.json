@@ -1,19 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-09-11T01:12:36.078485",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Langua",
-        "CriticGen: Generation-Aware Evaluation as Actionable Feedback",
-        "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using"
-      ],
-      "new_keywords": [
-        "access"
-      ]
-    },
-    {
       "date": "2026-09-12T01:19:36.514330",
       "articles_collected": 10,
       "debates_run": 3,
@@ -389,6 +376,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-10-11T01:55:17.150581",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "WallHop – 12ft.io is gone, so I built a replacement",
+        "Build your own decision model",
+        "A city-building game in which the city would prefer you didn't"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -407,26 +407,26 @@
       "AI art"
     ],
     "self_determined": [
-      "자율적推論은",
-      "달성하면서도",
-      "작성되었는지",
-      "생성되었는지를",
-      "의사결정에서",
-      "anthropic의",
-      "시뮬레이션된",
-      "alignment",
-      "nvidia와",
-      "quyết정을",
+      "distribird",
+      "tarihi",
       "routing",
-      "한계에達하는",
       "방향으로서의",
       "발전시키고자",
       "metadata",
-      "distribird",
-      "access",
-      "tarihi",
+      "한계에達하는",
       "설계되었지만",
-      "integritybench라는"
+      "alignment",
+      "quyết정을",
+      "의사결정에서",
+      "작성되었는지",
+      "anthropic의",
+      "nvidia와",
+      "생성되었는지를",
+      "access",
+      "자율적推論은",
+      "시뮬레이션된",
+      "integritybench라는",
+      "달성하면서도"
     ]
   },
   "topic_scores": {
@@ -870,6 +870,9 @@
     "FluidPD: In-Place Elasticity for SLO-Aware Prefill-Decode Disaggregated LLM Serv": 201,
     "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpret": 201,
     "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable A": 201,
-    "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation i": 201
+    "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation i": 201,
+    "WallHop – 12ft.io is gone, so I built a replacement": 201,
+    "Build your own decision model": 201,
+    "A city-building game in which the city would prefer you didn't": 201
   }
 }
