@@ -1,19 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-09-12T01:19:36.514330",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
-        "Adaptive Entangled Game Modules in Artificial General Intelligence",
-        "Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic"
-      ],
-      "new_keywords": [
-        "access"
-      ]
-    },
-    {
       "date": "2026-09-13T01:00:56.366667",
       "articles_collected": 10,
       "debates_run": 3,
@@ -389,6 +376,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-10-12T02:25:08.120408",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Local Indexing to reduce tool calling and token usage",
+        "HashiCorp archives the Boundary open source repo",
+        "Qt An E2EE post-quantum messenger core in Rust (10k connections on 124MB RAM"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -407,26 +407,26 @@
       "AI art"
     ],
     "self_determined": [
-      "distribird",
-      "tarihi",
-      "routing",
-      "방향으로서의",
-      "발전시키고자",
-      "metadata",
-      "한계에達하는",
       "설계되었지만",
-      "alignment",
-      "quyết정을",
-      "의사결정에서",
-      "작성되었는지",
-      "anthropic의",
-      "nvidia와",
-      "생성되었는지를",
-      "access",
+      "distribird",
       "자율적推論은",
+      "access",
+      "한계에達하는",
+      "quyết정을",
+      "anthropic의",
+      "alignment",
       "시뮬레이션된",
       "integritybench라는",
-      "달성하면서도"
+      "생성되었는지를",
+      "nvidia와",
+      "발전시키고자",
+      "방향으로서의",
+      "의사결정에서",
+      "달성하면서도",
+      "tarihi",
+      "metadata",
+      "routing",
+      "작성되었는지"
     ]
   },
   "topic_scores": {
@@ -873,6 +873,9 @@
     "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation i": 201,
     "WallHop – 12ft.io is gone, so I built a replacement": 201,
     "Build your own decision model": 201,
-    "A city-building game in which the city would prefer you didn't": 201
+    "A city-building game in which the city would prefer you didn't": 201,
+    "Local Indexing to reduce tool calling and token usage": 201,
+    "HashiCorp archives the Boundary open source repo": 201,
+    "Qt An E2EE post-quantum messenger core in Rust (10k connections on 124MB RAM": 201
   }
 }
