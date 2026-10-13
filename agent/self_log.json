@@ -1,19 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-09-13T01:00:56.366667",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bou",
-        "Automating Quadratic Unconstrained Binary Optimization (QUBO) Formulation Genera",
-        "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognit"
-      ],
-      "new_keywords": [
-        "access"
-      ]
-    },
-    {
       "date": "2026-09-14T01:03:13.074646",
       "articles_collected": 10,
       "debates_run": 3,
@@ -389,6 +376,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-10-13T03:46:44.854064",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments o",
+        "EliteTable: Self-Improving Program Search for Executable Control Policies",
+        "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling f"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -407,26 +407,26 @@
       "AI art"
     ],
     "self_determined": [
-      "설계되었지만",
-      "distribird",
-      "자율적推論은",
-      "access",
-      "한계에達하는",
-      "quyết정을",
-      "anthropic의",
-      "alignment",
-      "시뮬레이션된",
-      "integritybench라는",
-      "생성되었는지를",
-      "nvidia와",
-      "발전시키고자",
-      "방향으로서의",
       "의사결정에서",
       "달성하면서도",
-      "tarihi",
+      "integritybench라는",
       "metadata",
+      "작성되었는지",
+      "발전시키고자",
+      "한계에達하는",
+      "nvidia와",
+      "distribird",
+      "alignment",
+      "자율적推論은",
+      "시뮬레이션된",
       "routing",
-      "작성되었는지"
+      "생성되었는지를",
+      "설계되었지만",
+      "quyết정을",
+      "tarihi",
+      "access",
+      "방향으로서의",
+      "anthropic의"
     ]
   },
   "topic_scores": {
@@ -876,6 +876,9 @@
     "A city-building game in which the city would prefer you didn't": 201,
     "Local Indexing to reduce tool calling and token usage": 201,
     "HashiCorp archives the Boundary open source repo": 201,
-    "Qt An E2EE post-quantum messenger core in Rust (10k connections on 124MB RAM": 201
+    "Qt An E2EE post-quantum messenger core in Rust (10k connections on 124MB RAM": 201,
+    "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments o": 201,
+    "EliteTable: Self-Improving Program Search for Executable Control Policies": 201,
+    "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling f": 201
   }
 }
