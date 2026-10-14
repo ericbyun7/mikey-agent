@@ -1,19 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-09-14T01:03:13.074646",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "The Coming War on General Computation (2011)",
-        "It's All Fun and Games Until You Give AI Your Credit Card",
-        "The contagion of fear"
-      ],
-      "new_keywords": [
-        "access"
-      ]
-    },
-    {
       "date": "2026-09-15T01:34:36.254362",
       "articles_collected": 10,
       "debates_run": 3,
@@ -389,6 +376,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-10-14T01:59:13.225817",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments o",
+        "EliteTable: Self-Improving Program Search for Executable Control Policies",
+        "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling f"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -407,26 +407,26 @@
       "AI art"
     ],
     "self_determined": [
-      "의사결정에서",
-      "달성하면서도",
-      "integritybench라는",
-      "metadata",
-      "작성되었는지",
-      "발전시키고자",
-      "한계에達하는",
-      "nvidia와",
-      "distribird",
-      "alignment",
-      "자율적推論은",
-      "시뮬레이션된",
-      "routing",
-      "생성되었는지를",
-      "설계되었지만",
-      "quyết정을",
-      "tarihi",
-      "access",
       "방향으로서의",
-      "anthropic의"
+      "metadata",
+      "생성되었는지를",
+      "작성되었는지",
+      "시뮬레이션된",
+      "자율적推論은",
+      "distribird",
+      "한계에達하는",
+      "routing",
+      "integritybench라는",
+      "access",
+      "달성하면서도",
+      "alignment",
+      "발전시키고자",
+      "설계되었지만",
+      "의사결정에서",
+      "anthropic의",
+      "tarihi",
+      "quyết정을",
+      "nvidia와"
     ]
   },
   "topic_scores": {
