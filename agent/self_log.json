@@ -1,19 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-09-15T01:34:36.254362",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "I'm not addicted to the internet or my smartphone. I'm addicted to information",
-        "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
-        "Charts built for Chat"
-      ],
-      "new_keywords": [
-        "access"
-      ]
-    },
-    {
       "date": "2026-09-16T01:24:05.084336",
       "articles_collected": 10,
       "debates_run": 3,
@@ -389,6 +376,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-10-15T01:37:32.344781",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "LFM2.5-24B-A2B: Built for fast on-device agents",
+        "A new model for open source: closed to pull requests, open to remix",
+        "Tiny Little Office"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -407,26 +407,26 @@
       "AI art"
     ],
     "self_determined": [
-      "방향으로서의",
-      "metadata",
-      "생성되었는지를",
-      "작성되었는지",
-      "시뮬레이션된",
-      "자율적推論은",
-      "distribird",
-      "한계에達하는",
-      "routing",
-      "integritybench라는",
-      "access",
-      "달성하면서도",
       "alignment",
       "발전시키고자",
-      "설계되었지만",
-      "의사결정에서",
-      "anthropic의",
-      "tarihi",
+      "작성되었는지",
       "quyết정을",
-      "nvidia와"
+      "달성하면서도",
+      "integritybench라는",
+      "생성되었는지를",
+      "시뮬레이션된",
+      "anthropic의",
+      "한계에達하는",
+      "access",
+      "tarihi",
+      "자율적推論은",
+      "설계되었지만",
+      "routing",
+      "방향으로서의",
+      "의사결정에서",
+      "distribird",
+      "nvidia와",
+      "metadata"
     ]
   },
   "topic_scores": {
@@ -879,6 +879,9 @@
     "Qt An E2EE post-quantum messenger core in Rust (10k connections on 124MB RAM": 201,
     "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments o": 201,
     "EliteTable: Self-Improving Program Search for Executable Control Policies": 201,
-    "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling f": 201
+    "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling f": 201,
+    "LFM2.5-24B-A2B: Built for fast on-device agents": 201,
+    "A new model for open source: closed to pull requests, open to remix": 201,
+    "Tiny Little Office": 201
   }
 }
