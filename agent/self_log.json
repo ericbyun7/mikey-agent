@@ -1,19 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-09-16T01:24:05.084336",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agent",
-        "Converge Then Diversify: Decoupling Convergence and Diversity in Multi-Objective",
-        "Generalized Agent Iteration: One Formal Framework for Iterative Policy Improveme"
-      ],
-      "new_keywords": [
-        "access"
-      ]
-    },
-    {
       "date": "2026-09-17T01:28:09.260518",
       "articles_collected": 10,
       "debates_run": 3,
@@ -389,6 +376,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-10-16T01:24:15.736656",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
+        "The Silent Failures in Agentic Data Science",
+        "ClawLoop: Self-Improving Agents via Harness-Native Training Loop"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -407,26 +407,26 @@
       "AI art"
     ],
     "self_determined": [
-      "alignment",
-      "발전시키고자",
-      "작성되었는지",
       "quyết정을",
-      "달성하면서도",
-      "integritybench라는",
-      "생성되었는지를",
       "시뮬레이션된",
-      "anthropic의",
       "한계에達하는",
-      "access",
-      "tarihi",
-      "자율적推論은",
-      "설계되었지만",
-      "routing",
-      "방향으로서의",
-      "의사결정에서",
+      "달성하면서도",
       "distribird",
+      "anthropic의",
+      "metadata",
+      "integritybench라는",
+      "방향으로서의",
+      "access",
       "nvidia와",
-      "metadata"
+      "발전시키고자",
+      "자율적推論은",
+      "의사결정에서",
+      "tarihi",
+      "작성되었는지",
+      "생성되었는지를",
+      "routing",
+      "alignment",
+      "설계되었지만"
     ]
   },
   "topic_scores": {
@@ -882,6 +882,9 @@
     "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling f": 201,
     "LFM2.5-24B-A2B: Built for fast on-device agents": 201,
     "A new model for open source: closed to pull requests, open to remix": 201,
-    "Tiny Little Office": 201
+    "Tiny Little Office": 201,
+    "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence": 201,
+    "The Silent Failures in Agentic Data Science": 201,
+    "ClawLoop: Self-Improving Agents via Harness-Native Training Loop": 201
   }
 }
