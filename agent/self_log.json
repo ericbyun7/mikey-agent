@@ -1,19 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-09-17T01:28:09.260518",
-      "articles_collected": 10,
-      "debates_run": 3,
-      "topics": [
-        "Optimal Pruning for Neural Architectures using Fisher Information Distances",
-        "Safe Error Correction for Language Models: Frozen-Base Adjustment with Capabilit",
-        "GPEvac: GNN-Based PPO for Adaptive Evacuation Routing During Shooting Events"
-      ],
-      "new_keywords": [
-        "access"
-      ]
-    },
-    {
       "date": "2026-09-18T01:24:12.161978",
       "articles_collected": 10,
       "debates_run": 3,
@@ -389,6 +376,19 @@
       "new_keywords": [
         "access"
       ]
+    },
+    {
+      "date": "2026-10-17T01:24:28.796815",
+      "articles_collected": 10,
+      "debates_run": 3,
+      "topics": [
+        "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
+        "Evaluating Model Capabilities After Benchmark Saturation",
+        "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance"
+      ],
+      "new_keywords": [
+        "access"
+      ]
     }
   ],
   "keywords": {
@@ -407,26 +407,26 @@
       "AI art"
     ],
     "self_determined": [
-      "quyết정을",
-      "시뮬레이션된",
-      "한계에達하는",
-      "달성하면서도",
-      "distribird",
-      "anthropic의",
-      "metadata",
-      "integritybench라는",
-      "방향으로서의",
       "access",
-      "nvidia와",
-      "발전시키고자",
-      "자율적推論은",
-      "의사결정에서",
-      "tarihi",
-      "작성되었는지",
-      "생성되었는지를",
+      "anthropic의",
       "routing",
+      "metadata",
+      "quyết정을",
+      "tarihi",
+      "한계에達하는",
+      "작성되었는지",
+      "시뮬레이션된",
+      "발전시키고자",
       "alignment",
-      "설계되었지만"
+      "설계되었지만",
+      "nvidia와",
+      "방향으로서의",
+      "생성되었는지를",
+      "의사결정에서",
+      "distribird",
+      "달성하면서도",
+      "자율적推論은",
+      "integritybench라는"
     ]
   },
   "topic_scores": {
@@ -885,6 +885,9 @@
     "Tiny Little Office": 201,
     "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence": 201,
     "The Silent Failures in Agentic Data Science": 201,
-    "ClawLoop: Self-Improving Agents via Harness-Native Training Loop": 201
+    "ClawLoop: Self-Improving Agents via Harness-Native Training Loop": 201,
+    "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock": 201,
+    "Evaluating Model Capabilities After Benchmark Saturation": 201,
+    "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance": 201
   }
 }
